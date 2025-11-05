@@ -150,6 +150,7 @@
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
+- [localization](#localization)
 - [login](#login)
 - [low-code](#low-code)
 - [lua](#lua)
@@ -496,7 +497,7 @@
 
 ## ansible 
 
-- [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
+- [fossable/goldboot](https://github.com/fossable/goldboot) - Build golden images with CI!
 - [papanito/cheats](https://github.com/papanito/cheats) - Cheatsheets that work with https://github.com/denisidoro/navi
 - [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
@@ -530,6 +531,7 @@
 
 ## archlinux 
 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [bradford-smith94/informant](https://github.com/bradford-smith94/informant) - An Arch Linux News reader and pacman hook
 - [joehillen/paruz](https://github.com/joehillen/paruz) - A fzf terminal UI for paru or pacman
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
@@ -563,7 +565,7 @@
 
 ## automation 
 
-- [ElliotKillick/qvm-create-windows-qube](https://github.com/ElliotKillick/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
+- [QubesOS/qvm-create-windows-qube](https://github.com/QubesOS/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) - Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
@@ -726,6 +728,7 @@
 
 ## bash 
 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
@@ -1175,7 +1178,7 @@
 
 ## cybersecurity 
 
-- [ElliotKillick/qvm-create-windows-qube](https://github.com/ElliotKillick/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
+- [QubesOS/qvm-create-windows-qube](https://github.com/QubesOS/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS Nix configuration files focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -1263,7 +1266,7 @@
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
+- [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [daconjam/Recommender-System-Datasets](https://github.com/daconjam/Recommender-System-Datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -1356,6 +1359,7 @@
 
 ## development 
 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [nix-community/nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix [maintainer=@jmgilman]
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
@@ -1421,6 +1425,7 @@
 
 ## docker 
 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface
@@ -1494,8 +1499,9 @@
 
 ## dotfiles 
 
+- [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) - NixOS + Hyprland rice with flakes, home-manager and dev-shells
 - [jlesquembre/dotfiles](https://github.com/jlesquembre/dotfiles) - My dotfiles
-- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - NixOS configuration files with flakes.
+- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - NixOS configuration files and dotfiles with flakes.
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [fzakaria/nix-home](https://github.com/fzakaria/nix-home) - A nix home development environment
 - [fpletz/flake](https://github.com/fpletz/flake) - all nix expressions for my infra
@@ -1607,7 +1613,7 @@
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
+- [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all!
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
@@ -1626,6 +1632,7 @@
 
 ## elixir 
 
+- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 - [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
@@ -2525,6 +2532,7 @@
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [gnur/booksing](https://github.com/gnur/booksing) - web-based epub indexer
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
+- [Suwayomi/Suwayomi-JUI](https://github.com/Suwayomi/Suwayomi-JUI) - A Suwayomi-Server client built in Compose Multiplatform
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [Cortys/comic-backup](https://github.com/Cortys/comic-backup) - Back up your comics as CBZ.
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
@@ -2801,7 +2809,7 @@
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
+- [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [imacrayon/alpine-ajax](https://github.com/imacrayon/alpine-ajax) - An Alpine.js plugin for building server-powered frontends.
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
@@ -3057,13 +3065,15 @@
 
 ## linux 
 
+- [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) - NixOS + Hyprland rice with flakes, home-manager and dev-shells
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [imxade/aunix](https://github.com/imxade/aunix) - Simple but flexible Distro installer, that does the Least.
-- [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
+- [fossable/goldboot](https://github.com/fossable/goldboot) - Build golden images with CI!
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
@@ -3201,6 +3211,10 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 
+## localization 
+
+- [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
+
 ## login 
 
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
@@ -3276,7 +3290,7 @@
 
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
-- [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
+- [fossable/goldboot](https://github.com/fossable/goldboot) - Build golden images with CI!
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
@@ -3618,6 +3632,7 @@
 
 ## open-source 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Frictionless private file transfer - Local and Global
 - [arafaysaleem/ez_tickets_app](https://github.com/arafaysaleem/ez_tickets_app) - A cinema ticket booking app made with Flutter SDK
 - [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
@@ -3695,6 +3710,12 @@
 
 ## others 
 
+- [NixOS/marketing](https://github.com/NixOS/marketing) - home of the marketing team #marketing:nixos.org
+- [Accacio/pendulum](https://github.com/Accacio/pendulum) - Inverted pendulum simulation on the terminal using c
+- [ipsavitsky/terminaltrove-flake](https://github.com/ipsavitsky/terminaltrove-flake) - A flake with programs featured in terminaltrove.com
+- [fzakaria/nix-auto-follow](https://github.com/fzakaria/nix-auto-follow) - A script to achieve automatically following all flake inputs for Nix
+- [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
+- [dfrankland/envoluntary](https://github.com/dfrankland/envoluntary) - Automatic Nix development environments for your shell.
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [NixOS/nixpkgs-committers](https://github.com/NixOS/nixpkgs-committers) - Tracking of changes to Nixpkgs committers
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
@@ -5040,6 +5061,7 @@
 
 ## p2p 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Frictionless private file transfer - Local and Global
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [airdcpp-web/airdcpp-webclient](https://github.com/airdcpp-web/airdcpp-webclient) - Communal peer-to-peer file sharing application for file servers/NAS devices
@@ -5154,9 +5176,10 @@
 
 ## privacy 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Frictionless private file transfer - Local and Global
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [ElliotKillick/qvm-create-windows-qube](https://github.com/ElliotKillick/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
+- [QubesOS/qvm-create-windows-qube](https://github.com/QubesOS/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
@@ -5467,7 +5490,7 @@
 ## react 
 
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
+- [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [edvinlinden/killedby.tech](https://github.com/edvinlinden/killedby.tech) - DEPRECATED A graveyard for discontinued products and services from companies like Google, Apple and Microsoft.
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
 - [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
@@ -5683,7 +5706,7 @@
 ## security 
 
 - [NixOS/nix-security-tracker](https://github.com/NixOS/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
-- [ElliotKillick/qvm-create-windows-qube](https://github.com/ElliotKillick/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
+- [QubesOS/qvm-create-windows-qube](https://github.com/QubesOS/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
@@ -5732,6 +5755,7 @@
 
 ## self-hosted 
 
+- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 - [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) - A plugin which brings broadcasts to gotify.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod
@@ -5965,6 +5989,8 @@
 
 ## terminal 
 
+- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [kxxt/ttyrecall](https://github.com/kxxt/ttyrecall) - Recall, but for terminal (Work In Progress)
@@ -6133,6 +6159,7 @@
 
 ## ubuntu 
 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [lavabit/robox](https://github.com/lavabit/robox) - The tools needed to robotically create/configure/provision a large number of operating systems, for a variety of hypervisors, using packer.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -6255,6 +6282,7 @@
 
 ## web 
 
+- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
@@ -6277,6 +6305,7 @@
 
 ## web-components 
 
+- [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 
 ## web-development 
@@ -6308,10 +6337,10 @@
 
 ## windows 
 
-- [ElliotKillick/qvm-create-windows-qube](https://github.com/ElliotKillick/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
+- [QubesOS/qvm-create-windows-qube](https://github.com/QubesOS/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-- [fossable/goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
+- [fossable/goldboot](https://github.com/fossable/goldboot) - Build golden images with CI!
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
