@@ -697,6 +697,7 @@
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+- [nikivdev/ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [chihaya/chihaya](https://github.com/chihaya/chihaya) - A customizable, multi-protocol BitTorrent Tracker
 - [gabe565/gh-profile](https://github.com/gabe565/gh-profile) - :octocat: Use multiple GitHub accounts with the gh cli.
 - [s0rg/decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments
@@ -807,7 +808,7 @@
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [kbinani/screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -1668,6 +1669,7 @@
 
 ## Nix 
 
+- [expede/nix-command-utils](https://github.com/expede/nix-command-utils) - 
 - [ipsavitsky/terminaltrove-flake](https://github.com/ipsavitsky/terminaltrove-flake) - A flake with programs featured in terminaltrove.com
 - [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) - NixOS + Hyprland rice with flakes, home-manager and dev-shells
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
@@ -1684,7 +1686,7 @@
 - [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
 - [Serpentian/AlfheimOS](https://github.com/Serpentian/AlfheimOS) - ❄️ AlfheimOS (NixOS + home-manager + hyprland + ags + neovim)
 - [getchoo/froyo](https://github.com/getchoo/froyo) - 🍨 A tasteful way to organize your Nix code
-- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - NixOS configuration files and dotfiles with flakes.
+- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting 
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) - A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
 - [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.
@@ -1769,7 +1771,7 @@
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
 - [lorenzleutgeb/nur](https://github.com/lorenzleutgeb/nur) - 
 - [RossComputerGuy/nixpkgs-llvm-ws](https://github.com/RossComputerGuy/nixpkgs-llvm-ws) - Flake workspace / repo to stage and track Nixpkgs/NixOS's ability to be compiled completely with LLVM
-- [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and dotfile configurations with Nix.
+- [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and home-manager configurations with Nix.
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
 - [baileyluTCD/bun2nix](https://github.com/baileyluTCD/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix
 - [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages.
@@ -1872,7 +1874,7 @@
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [ChrisLAS/nix](https://github.com/ChrisLAS/nix) - 
 - [functionalops/nix-cookbook](https://github.com/functionalops/nix-cookbook) - A cookbook of snippets that show you how you can accomplish common tasks using the Nix expression language
-- [momeemt/nixos-configuration](https://github.com/momeemt/nixos-configuration) - bonsai computing
+- [momeemt/nixos-configuration](https://github.com/momeemt/nixos-configuration) - Build once, bring everything up.
 - [justinlime/dotfiles](https://github.com/justinlime/dotfiles) - My general config and dotfiles for linux
 - [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines
 - [Suya1671/commafiles](https://github.com/Suya1671/commafiles) - My new dots, since my old ones broke
@@ -2187,7 +2189,7 @@
 - [thaider/Tweeki](https://github.com/thaider/Tweeki) - MediaWiki skin based on Twitter's Bootstrap
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - h-m-m, or Hackers Mind Map, is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [jaymoulin/yamete](https://github.com/jaymoulin/yamete) - Yamete - Hentai downloader in PHP CLI - Easy site downloader PHP system
@@ -2236,6 +2238,7 @@
 
 ## Python 
 
+- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 - [fzakaria/nix-auto-follow](https://github.com/fzakaria/nix-auto-follow) - A script to achieve automatically following all flake inputs for Nix
 - [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -2653,7 +2656,8 @@
 
 ## Rust 
 
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Frictionless private file transfer - Local and Global
+- [Kamyil/work-tuimer](https://github.com/Kamyil/work-tuimer) - Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions
+- [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, directory, and Markdown viewer
 - [dfrankland/envoluntary](https://github.com/dfrankland/envoluntary) - Automatic Nix development environments for your shell.
 - [kxxt/ttyrecall](https://github.com/kxxt/ttyrecall) - Recall, but for terminal (Work In Progress)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
@@ -2676,7 +2680,7 @@
 - [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [jonringer/basinix](https://github.com/jonringer/basinix) - (WIP) Nix CI pull request review website
 - [vn-ki/letterboxd-compare](https://github.com/vn-ki/letterboxd-compare) - Compare two letterboxd profiles. Letterboxd is a social movie discovery site where users rate the movies they watch.
-- [fossable/goldboot](https://github.com/fossable/goldboot) - Build golden images with CI!
+- [fossable/goldboot](https://github.com/fossable/goldboot) - Build golden images with CI
 - [calebsander/git-internals](https://github.com/calebsander/git-internals) - Source code for "Git Internals" blog post
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland GTK4 bar written in Rust.
 - [s3m/s3m](https://github.com/s3m/s3m) - CLI for streams of data in S3 buckets
@@ -2718,7 +2722,7 @@
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
 - [FliegendeWurst/pr-stats](https://github.com/FliegendeWurst/pr-stats) - 
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-- [ekala-project/eka](https://github.com/ekala-project/eka) - A WIP CLI frontend for the Eos API
+- [ekala-project/eka](https://github.com/ekala-project/eka) - A command-line tool for decentralized software dependency management using the Atom Protocol.
 - [YaLTeR/wl-clipboard-rs](https://github.com/YaLTeR/wl-clipboard-rs) - A safe Rust crate for working with the Wayland clipboard.
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [linyinfeng/oranc](https://github.com/linyinfeng/oranc) - OCI Registry As Nix Cache
@@ -3000,6 +3004,7 @@
 
 ## TypeScript 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Share files and directories anywhere - Local or Public Internet
 - [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) - Sending GitHub PRs to the Git mailing list
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
@@ -3049,7 +3054,6 @@
 - [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer) - Drag and drop interface to organize playlists on YouTube
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [Chocobo1/bencode_online](https://github.com/Chocobo1/bencode_online) - Bencode & bdecode in your browser
-- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [AnimaApp/scooby](https://github.com/AnimaApp/scooby) - UI regression and fidelity testing framework
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [sourcegraph/cody-public-snapshot](https://github.com/sourcegraph/cody-public-snapshot) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
