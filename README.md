@@ -108,7 +108,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [sindresorhus/windows-clipboard](https://github.com/sindresorhus/windows-clipboard) - Access the Windows clipboard (copy/paste)
@@ -1063,6 +1063,7 @@
 - [ryan4yin/thiscute.world](https://github.com/ryan4yin/thiscute.world) - Ryan4Yin's Space
 - [rlv-dan/Snap2HTML](https://github.com/rlv-dan/Snap2HTML) - Generates directory listings contained in a single, app-like HTML files
 - [ArchiveBox/DigestBox](https://github.com/ArchiveBox/DigestBox) - DigestBox takes any webpage URL (news article, video link, comment thread, etc.) and gives you just the raw content. It's powered by ArchiveBox.io under the hood.
+- [NickCao/flakes](https://github.com/NickCao/flakes) - the deterministic
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [jon49/htmf](https://github.com/jon49/htmf) - A minimalist partial html swapping library similar to HTMX and other libraries which create an MPA app and enhances it with a focus on HTML forms.
@@ -1901,7 +1902,6 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [Vagahbond/nix-config](https://github.com/Vagahbond/nix-config) - My attempt at an understandable, replicable, NixOS config. I use NixOS BTW.
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
-- [NickCao/flakes](https://github.com/NickCao/flakes) - the deterministic
 - [knoc-off/nixos](https://github.com/knoc-off/nixos) - Nixos Dotfiles
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [sudosubin/nixos-config](https://github.com/sudosubin/nixos-config) - Personal nix files, installs some dotfiles and softwares
