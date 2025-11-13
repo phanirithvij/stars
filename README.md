@@ -134,6 +134,7 @@
 - [Tookmund/Swapspace](https://github.com/Tookmund/Swapspace) - A fork of Jeroen T. Vermeulen's excellent dynamic swap space manager
 - [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
 - [NickCao/bandaid](https://github.com/NickCao/bandaid) - stick your file descriptors together
+- [heywoodlh/nixos-configs](https://github.com/heywoodlh/nixos-configs) - nixpkgs
 - [MidstallSoftware/mobile-nixos](https://github.com/MidstallSoftware/mobile-nixos) - 
 - [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
 - [radareorg/radare2-book](https://github.com/radareorg/radare2-book) - The Official Radare2 Book
@@ -205,6 +206,7 @@
 
 ## C# # 
 
+- [timkicker/podliner](https://github.com/timkicker/podliner) - Podcasts in any terminal. Fast, clean, offline.
 - [SebLague/Family-Time](https://github.com/SebLague/Family-Time) - Tiny game for the GMTK jam
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 - [jwueller/jellyfin-plugin-onepace](https://github.com/jwueller/jellyfin-plugin-onepace) - Jellyfin metadata and cover art integration for the https://onepace.net/ project
@@ -1514,6 +1516,7 @@
 
 ## Kotlin 
 
+- [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) - Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
@@ -1672,6 +1675,7 @@
 
 ## Nix 
 
+- [MatthewCash/nix-inputs](https://github.com/MatthewCash/nix-inputs) - Inputs for nixos-config
 - [expede/nix-command-utils](https://github.com/expede/nix-command-utils) - 
 - [ipsavitsky/terminaltrove-flake](https://github.com/ipsavitsky/terminaltrove-flake) - A flake with programs featured in terminaltrove.com
 - [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) - NixOS + Hyprland rice with flakes, home-manager and dev-shells
@@ -1909,7 +1913,6 @@
 - [matt1432/nixos-configs](https://github.com/matt1432/nixos-configs) - Mirror of https://git.nelim.org/matt1432/nixos-configs
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [AtaraxiaSjel/nixos-config](https://github.com/AtaraxiaSjel/nixos-config) - 
-- [heywoodlh/nixos-configs](https://github.com/heywoodlh/nixos-configs) - nixpkgs
 - [teto/home](https://github.com/teto/home) - Configurations
 - [bjornfor/nixos-config](https://github.com/bjornfor/nixos-config) - My NixOS configuration files. (This public mirror is not updated anymore.)
 - [ambroisie/nix-config](https://github.com/ambroisie/nix-config) - My NixOS configuration files. Only used for my self-hosted infra at the moment.
@@ -2664,7 +2667,7 @@
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, directory, and Markdown viewer
 - [dfrankland/envoluntary](https://github.com/dfrankland/envoluntary) - Automatic Nix development environments for your shell.
 - [kxxt/ttyrecall](https://github.com/kxxt/ttyrecall) - Recall, but for terminal (Work In Progress)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x Faster than MinIO for 4K Small Files.  RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such
 - [42futures/firm](https://github.com/42futures/firm) - A text-based work management system for technologists.
 - [lusingander/stu](https://github.com/lusingander/stu) - TUI explorer application for Amazon S3 (AWS S3) 🪣
 - [samestep/npc](https://github.com/samestep/npc) - Nixpkgs channel history CLI
