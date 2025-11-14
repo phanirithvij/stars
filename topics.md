@@ -1590,6 +1590,7 @@
 
 ## dotnet 
 
+- [timkicker/podliner](https://github.com/timkicker/podliner) - Podcasts in any terminal. Fast, clean, offline.
 - [lochidev/Expandroid](https://github.com/lochidev/Expandroid) - Text expander for android - with espanso config import/export
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -3069,6 +3070,7 @@
 
 ## linux 
 
+- [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) - NixOS + Hyprland rice with flakes, home-manager and dev-shells
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
@@ -3636,7 +3638,7 @@
 
 ## open-source 
 
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Share files and directories anywhere - Local or Public Internet
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Share files and directories anywhere - Local or Global
 - [arafaysaleem/ez_tickets_app](https://github.com/arafaysaleem/ez_tickets_app) - A cinema ticket booking app made with Flutter SDK
 - [vernu/textbee](https://github.com/vernu/textbee) - open-source sms-gateway. turn any android phone into an sms gateway
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
@@ -3714,6 +3716,8 @@
 
 ## others 
 
+- [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) - Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
+- [MatthewCash/nix-inputs](https://github.com/MatthewCash/nix-inputs) - Inputs for nixos-config
 - [Finatext/gha-fix](https://github.com/Finatext/gha-fix) - Automates security and maintenance fixes in GitHub Actions workflows
 - [Kamyil/work-tuimer](https://github.com/Kamyil/work-tuimer) - Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
@@ -5069,7 +5073,7 @@
 
 ## p2p 
 
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Share files and directories anywhere - Local or Public Internet
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Share files and directories anywhere - Local or Global
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [airdcpp-web/airdcpp-webclient](https://github.com/airdcpp-web/airdcpp-webclient) - Communal peer-to-peer file sharing application for file servers/NAS devices
@@ -5183,7 +5187,7 @@
 
 ## privacy 
 
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Share files and directories anywhere - Local or Public Internet
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Share files and directories anywhere - Local or Global
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [QubesOS/qvm-create-windows-qube](https://github.com/QubesOS/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
@@ -5518,7 +5522,7 @@
 - [shimberger/gohls](https://github.com/shimberger/gohls) - A server that exposes a directory for video streaming via web interface
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [damaera/react-acrylic](https://github.com/damaera/react-acrylic) - Frost glass effect, Acrylic Material react component
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
@@ -5584,7 +5588,7 @@
 
 ## rust 
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x Faster than MinIO for 4K Small Files.  RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows mirroring external repositories to GitLab, GitHub and possibly more.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
