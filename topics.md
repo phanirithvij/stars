@@ -1535,7 +1535,7 @@
 - [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - ❄️ My NixOS, macOS and home-manager configurations
 - [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal effort.
 - [jpetrucciani/nix](https://github.com/jpetrucciani/nix) - ❄️ my nix modules, overlays, host configurations, and more!
-- [momeemt/nixos-configuration](https://github.com/momeemt/nixos-configuration) - Build once, bring everything up.
+- [momeemt/config](https://github.com/momeemt/config) - Build once, bring everything up.
 - [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
 - [ehllie/dotfiles](https://github.com/ehllie/dotfiles) - Nix flake with my system configuration
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
@@ -2991,7 +2991,7 @@
 
 - [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
 - [hall/kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix
-- [momeemt/nixos-configuration](https://github.com/momeemt/nixos-configuration) - Build once, bring everything up.
+- [momeemt/config](https://github.com/momeemt/config) - Build once, bring everything up.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [papanito/cheats](https://github.com/papanito/cheats) - Cheatsheets that work with https://github.com/denisidoro/navi
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -4497,7 +4497,7 @@
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [ThePrimeagen/no-flap-november](https://github.com/ThePrimeagen/no-flap-november) - the greatest
 - [ThePrimeagen/anime](https://github.com/ThePrimeagen/anime) - The repo that everyone deserves
-- [kisom/goutils](https://github.com/kisom/goutils) - Moved to sourcehut.
+- [kisom/goutils](https://github.com/kisom/goutils) - Moved to gitea.
 - [maforget/ComicRackKeygen](https://github.com/maforget/ComicRackKeygen) - 
 - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - 
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen) - 😎 Awesome list of Library Genesis, the world's largest free library.
