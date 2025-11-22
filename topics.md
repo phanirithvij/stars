@@ -121,6 +121,7 @@
 - [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
 - [html](#html)
+- [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
@@ -292,6 +293,7 @@
 ## ai 
 
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -1163,6 +1165,7 @@
 
 ## css 
 
+- [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
 - [RodrigoWebDev/lessPass-standalone-html](https://github.com/RodrigoWebDev/lessPass-standalone-html) - A single HTML file lessPass version
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
@@ -2614,6 +2617,8 @@
 
 ## html 
 
+- [molybdenumsoftware/htnl](https://github.com/molybdenumsoftware/htnl) - Nix library for declaring and bundling HTML
+- [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [RodrigoWebDev/lessPass-standalone-html](https://github.com/RodrigoWebDev/lessPass-standalone-html) - A single HTML file lessPass version
@@ -2637,8 +2642,13 @@
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [andrejewski/himalaya](https://github.com/andrejewski/himalaya) - JavaScript HTML to JSON Parser
 
+## html-css-javascript 
+
+- [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
+
 ## html5 
 
+- [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [RodrigoWebDev/lessPass-standalone-html](https://github.com/RodrigoWebDev/lessPass-standalone-html) - A single HTML file lessPass version
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
@@ -2800,6 +2810,7 @@
 
 ## javascript 
 
+- [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -3049,6 +3060,7 @@
 
 ## library 
 
+- [molybdenumsoftware/htnl](https://github.com/molybdenumsoftware/htnl) - Nix library for declaring and bundling HTML
 - [capjamesg/cv-book-svg](https://github.com/capjamesg/cv-book-svg) - Turn an image of a bookshelf into an interactive SVG.
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
@@ -3355,6 +3367,7 @@
 
 ## markdown 
 
+- [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -3715,6 +3728,7 @@
 
 ## others 
 
+- [jakehamilton/idc](https://github.com/jakehamilton/idc) - Import Nix projects regardless of how they are exposed.
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) - Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [MatthewCash/nix-inputs](https://github.com/MatthewCash/nix-inputs) - Inputs for nixos-config
 - [Finatext/gha-fix](https://github.com/Finatext/gha-fix) - Automates security and maintenance fixes in GitHub Actions workflows
@@ -3727,6 +3741,7 @@
 - [fzakaria/nix-auto-follow](https://github.com/fzakaria/nix-auto-follow) - A script to achieve automatically following all flake inputs for Nix
 - [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
 - [dfrankland/envoluntary](https://github.com/dfrankland/envoluntary) - Automatic Nix development environments for your shell.
+- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [NixOS/nixpkgs-committers](https://github.com/NixOS/nixpkgs-committers) - Tracking of changes to Nixpkgs committers
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
@@ -3902,7 +3917,7 @@
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) - A collection of hacks and one-off scripts
 - [Od1gree/btDownloadManager](https://github.com/Od1gree/btDownloadManager) - A python script implements anti-leech-abuse for qBittorrent.
 - [lorenzleutgeb/nur](https://github.com/lorenzleutgeb/nur) - 
-- [JulienMalka/lila](https://github.com/JulienMalka/lila) - Nix hash collection software, to aggregate build reports from several builders
+- [nix-community/lila](https://github.com/nix-community/lila) - Nix hash collection software, to aggregate build reports from several builders
 - [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and home-manager configurations with Nix.
 - [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
 - [castholm/zig-examples](https://github.com/castholm/zig-examples) - Collection of small Zig example projects
@@ -3910,7 +3925,7 @@
 - [blitz/hydrasect](https://github.com/blitz/hydrasect) - The tool that makes bisecting nixpkgs pleasant.
 - [fzakaria/shrinkwrap](https://github.com/fzakaria/shrinkwrap) - A tool that embosses the needed dependencies on the top level executable
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
-- [baileyluTCD/bun2nix](https://github.com/baileyluTCD/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix
+- [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileyluTCD]
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
 - [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages.
 - [Saik0s/mcp-browser-use](https://github.com/Saik0s/mcp-browser-use) - 
@@ -6298,6 +6313,7 @@
 
 ## web 
 
+- [molybdenumsoftware/htnl](https://github.com/molybdenumsoftware/htnl) - Nix library for declaring and bundling HTML
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
