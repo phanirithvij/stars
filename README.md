@@ -1675,7 +1675,7 @@
 
 ## Nix 
 
-- [molybdenumsoftware/htnl](https://github.com/molybdenumsoftware/htnl) - Nix library for declaring and bundling HTML
+- [molybdenumsoftware/htnl](https://github.com/molybdenumsoftware/htnl) - Nix library for making websites
 - [jakehamilton/idc](https://github.com/jakehamilton/idc) - Import Nix projects regardless of how they are exposed.
 - [MatthewCash/nix-inputs](https://github.com/MatthewCash/nix-inputs) - Inputs for nixos-config
 - [expede/nix-command-utils](https://github.com/expede/nix-command-utils) - 
