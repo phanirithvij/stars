@@ -910,6 +910,7 @@
 
 ## cli 
 
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
@@ -2510,6 +2511,7 @@
 
 ## hacktoberfest 
 
+- [Mic92/vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -3836,6 +3838,15 @@
 
 ## others 
 
+- [Koha-Community/Koha](https://github.com/Koha-Community/Koha) - Koha is a free software integrated library system (ILS). Koha is distributed under the GNU GPL version 3 or later. ***Note: this is a synced mirror of the official Koha repo. Note: This project uses i
+- [anvaka/map-of-github-data](https://github.com/anvaka/map-of-github-data) - This repository contains tiles and data for the map of github
+- [sfermigier/awesome-foss-alternatives](https://github.com/sfermigier/awesome-foss-alternatives) - Awesome Free / Open Source Alternatives (to common SaaS products) for Business Use
+- [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
+- [Mic92/fast-flake-update](https://github.com/Mic92/fast-flake-update) - Update flake.lock with the latest commit of a local checkout
+- [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
+- [Mic92/nix-build-uncached](https://github.com/Mic92/nix-build-uncached) - A CI friendly wrapper around nix-build.
+- [Mic92/ssh-to-age](https://github.com/Mic92/ssh-to-age) - Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
+- [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions
 - [molybdenumsoftware/docstra](https://github.com/molybdenumsoftware/docstra) - Nix-powered documentation authoring library
 - [ysard/mi_remote_database](https://github.com/ysard/mi_remote_database) - Proof of concept aiming to reproduce and query the infrared code database (IRDB) used by the Xiaomi *Mi Remote* application.
@@ -4032,7 +4043,7 @@
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) - A collection of hacks and one-off scripts
 - [Od1gree/btDownloadManager](https://github.com/Od1gree/btDownloadManager) - A python script implements anti-leech-abuse for qBittorrent.
 - [lorenzleutgeb/nur](https://github.com/lorenzleutgeb/nur) - 
-- [nix-community/lila](https://github.com/nix-community/lila) - Nix hash collection software, to aggregate build reports from several builders
+- [nix-community/lila](https://github.com/nix-community/lila) - Nix hash collection software, to aggregate build reports from several builders  [maintainer=@JulienMalka, @raboof]
 - [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and home-manager configurations with Nix.
 - [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
 - [castholm/zig-examples](https://github.com/castholm/zig-examples) - Collection of small Zig example projects
@@ -5966,6 +5977,7 @@
 
 ## shell 
 
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
@@ -6143,6 +6155,7 @@
 
 ## terminal 
 
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
