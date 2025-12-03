@@ -1315,7 +1315,7 @@
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Spreadsheet with AI, Code, Connections
 - [imartinezl/knowledge-map](https://github.com/imartinezl/knowledge-map) - Knowledge Concept Map
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosys
 - [diffgram/diffgram](https://github.com/diffgram/diffgram) - The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data.
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
@@ -2322,7 +2322,7 @@
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally and in any CI
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosys
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
@@ -2722,6 +2722,7 @@
 
 ## html 
 
+- [k3rs3d/ringfairy](https://github.com/k3rs3d/ringfairy) - 🧚 Static webring generator in Rust
 - [molybdenumsoftware/htnl](https://github.com/molybdenumsoftware/htnl) - Nix library for making websites
 - [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
@@ -3349,7 +3350,7 @@
 
 ## low-code 
 
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosys
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -3841,6 +3842,7 @@
 
 ## others 
 
+- [splitbrain/infra-nas-nixos](https://github.com/splitbrain/infra-nas-nixos) - NixOS configuration for my NAS
 - [nrabulinski/cursed-nix](https://github.com/nrabulinski/cursed-nix) - 
 - [celesrenata/nixos-k3s-configs](https://github.com/celesrenata/nixos-k3s-configs) - Intel 185H Kubernetes with SR-IOV GPU Passthrough to cluster w/ various projects. Now with working Intel SR-IOV to KubeVirt!
 - [celesrenata/OneTrainer-flake](https://github.com/celesrenata/OneTrainer-flake) - This is a NixOS flake for OneTrainer
@@ -4920,7 +4922,7 @@
 - [eboudrant/net.ebt.muzei.miyazaki](https://github.com/eboudrant/net.ebt.muzei.miyazaki) - Muzei Ghibli, an extension for Muzei Live Wallpaper Android
 - [screeps/screeps](https://github.com/screeps/screeps) - A standalone server for programming game Screeps
 - [VijayLalwani/SeaOwl](https://github.com/VijayLalwani/SeaOwl) - dotfiles for my post.
-- [flutter/devtools](https://github.com/flutter/devtools) - Performance tools for Flutter
+- [flutter/devtools](https://github.com/flutter/devtools) - Developer tools for Flutter & Dart
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [Errichto/youtube](https://github.com/Errichto/youtube) - codes for my streams and YT videos
 - [12dmodel/deep_motion_mag](https://github.com/12dmodel/deep_motion_mag) - Tensorflow implementation of Learning-based Video Motion Magnification
@@ -5406,7 +5408,7 @@
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) - Repo for https://zig.guide content. Get up to speed with Zig quickly.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosys
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [alilleybrinker/langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration.
 - [golang/go](https://github.com/golang/go) - The Go programming language
