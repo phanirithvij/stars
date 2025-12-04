@@ -454,6 +454,11 @@
 
 ## Dart 
 
+- [filiph/conference_darwin](https://github.com/filiph/conference_darwin) - A library for building conference schedules using a genetic algorithm.
+- [filiph/linkcheck](https://github.com/filiph/linkcheck) - Fast link checker
+- [filiph/unsure](https://github.com/filiph/unsure) - Unsure Calculator
+- [fastforgedev/fastforge](https://github.com/fastforgedev/fastforge) - The ultimate all-in-one Flutter application packaging and distribution tool, providing a seamless solution for all your distribution needs.
+- [2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) - Flutter Launch Timeline Demo
 - [roughike/inKino](https://github.com/roughike/inKino) - A multiplatform Dart movie app with 40% of code sharing between Flutter and the Web.
 - [BlassGO/AppManager-GUI](https://github.com/BlassGO/AppManager-GUI) - A multiplatform tool using ADB to effortlessly manage Android apps: extract icons, view app info, debloat, reinstall, and more with intuitive controls
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -471,7 +476,7 @@
 - [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [authpass/authpass-cloud](https://github.com/authpass/authpass-cloud) - 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
@@ -532,7 +537,6 @@
 - [hanshengchiu/reorderables](https://github.com/hanshengchiu/reorderables) - Reorderable table, row, column, wrap, and sliver list that allow drag and drop of the children. https://pub.dartlang.org/packages/reorderables
 - [akshathjain/sliding_up_panel](https://github.com/akshathjain/sliding_up_panel) - A draggable Flutter widget that makes implementing a SlidingUpPanel much easier!
 - [hathibelagal/CandyLauncher](https://github.com/hathibelagal/CandyLauncher) - An experimental launcher for Android created using Flutter.
-- [2d-inc/Flare-Flutter](https://github.com/2d-inc/Flare-Flutter) - Load and get full control of your Rive files in a Flutter project using this library.
 - [flutter/packages](https://github.com/flutter/packages) - A collection of useful packages maintained by the Flutter team
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [fluttercommunity/font_awesome_flutter](https://github.com/fluttercommunity/font_awesome_flutter) - The Font Awesome Icon pack available as Flutter Icons
@@ -1025,7 +1029,6 @@
 - [hallazzang/syso](https://github.com/hallazzang/syso) - :wrench: tool for embedding various type of resources in go Windows executable
 - [hallazzang/go-tray-icons-tutorial](https://github.com/hallazzang/go-tray-icons-tutorial) - 
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.
-- [go-flutter-desktop/hover](https://github.com/go-flutter-desktop/hover) - Hover helps developers to release Flutter applications on desktop.
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
@@ -1145,7 +1148,6 @@
 
 - [MuntashirAkon/libadb-android](https://github.com/MuntashirAkon/libadb-android) - ADB library for Android
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ghuls/re7zip](https://github.com/ghuls/re7zip) - 7zip version capable of downloading files from archives on HTTP servers
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
@@ -1244,6 +1246,7 @@
 
 ## JavaScript 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [anvaka/map-of-github-data](https://github.com/anvaka/map-of-github-data) - This repository contains tiles and data for the map of github
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
@@ -1270,6 +1273,7 @@
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [tomayac/fugu-greetings](https://github.com/tomayac/fugu-greetings) - A sample app that features a lot of Project Fugu 🐡 APIs.
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [simov/stars](https://github.com/simov/stars) - GitHub Stars History and Stats
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
@@ -1648,6 +1652,7 @@
 
 ## Makefile 
 
+- [datakurre/nix-build-pack-docker](https://github.com/datakurre/nix-build-pack-docker) - Nix to Docker buildpack
 - [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collection of some awesome public Zig programming language projects.
 - [yuk7/AlpineWSL](https://github.com/yuk7/AlpineWSL) - Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.
 - [pop-os/wallpapers](https://github.com/pop-os/wallpapers) - Wallpapers for Pop!_OS
@@ -1679,6 +1684,7 @@
 
 ## Nix 
 
+- [datakurre/operaton-robot-playground](https://github.com/datakurre/operaton-robot-playground) - Open Source Robot Framework Orchestration Playground
 - [splitbrain/infra-nas-nixos](https://github.com/splitbrain/infra-nas-nixos) - NixOS configuration for my NAS
 - [nrabulinski/cursed-nix](https://github.com/nrabulinski/cursed-nix) - 
 - [celesrenata/nixos-k3s-configs](https://github.com/celesrenata/nixos-k3s-configs) - Intel 185H Kubernetes with SR-IOV GPU Passthrough to cluster w/ various projects. Now with working Intel SR-IOV to KubeVirt!
@@ -2047,6 +2053,7 @@
 
 ## Others 
 
+- [AnimMouse/NixOS-ISO-Torrents](https://github.com/AnimMouse/NixOS-ISO-Torrents) - NixOS ISO Torrents
 - [sfermigier/awesome-foss-alternatives](https://github.com/sfermigier/awesome-foss-alternatives) - Awesome Free / Open Source Alternatives (to common SaaS products) for Business Use
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
@@ -2081,7 +2088,6 @@
 - [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [ekala-project/ekapkgs-roadmap](https://github.com/ekala-project/ekapkgs-roadmap) - Roadmap to ekapkgs being fully available
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) - 
-- [AnimMouse/NixOS-ISO-Torrents](https://github.com/AnimMouse/NixOS-ISO-Torrents) - NixOS ISO Torrents
 - [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 - [Sec-ant/a2d2-firefox](https://github.com/Sec-ant/a2d2-firefox) - The Firefox build that evades JavaScript anti-debugging debugger mechanisms
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
@@ -2243,7 +2249,7 @@
 - [jborean93/ansible-role-win_openssh](https://github.com/jborean93/ansible-role-win_openssh) - Ansible Role to install Win32-OpenSSH on Windows - https://github.com/PowerShell/Win32-OpenSSH
 - [thomaspreischl/install-wsl-and-ansible](https://github.com/thomaspreischl/install-wsl-and-ansible) - 
 - [TheRandomLabs/scoop-nonportable](https://github.com/TheRandomLabs/scoop-nonportable) - A Scoop bucket for nonportable applications.
-- [anderlli0053/DEV-tools](https://github.com/anderlli0053/DEV-tools) - 📦 General development tools for applications and games and pretty much everything else too :) . Created and maintained by Andrew Poženel - anderlli0053 . 📦
+- [anderlli0053/DEV-tools](https://github.com/anderlli0053/DEV-tools) - 📦 Originally started as a Scoop repo for general development tools for applications and games and now it has become a "sanctuary" for pretty much everything else too :) 📦
 - [KNOXDEV/scoop-backup](https://github.com/KNOXDEV/scoop-backup) - Backup your entire current scoop installation with one command
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
@@ -2260,6 +2266,8 @@
 
 ## Python 
 
+- [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+- [bekirbostanci/ros2_robotframework](https://github.com/bekirbostanci/ros2_robotframework) - Test ROS2 package with Robot Framework
 - [Nerogar/OneTrainer](https://github.com/Nerogar/OneTrainer) - OneTrainer is a one-stop solution for all your stable diffusion training needs.
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [Mic92/fast-flake-update](https://github.com/Mic92/fast-flake-update) - Update flake.lock with the latest commit of a local checkout
@@ -2688,6 +2696,7 @@
 
 ## Rust 
 
+- [mcmah309/containeryard](https://github.com/mcmah309/containeryard) - ContainerYard is a declarative, reproducible, and reusable decentralized approach for defining containers.
 - [k3rs3d/ringfairy](https://github.com/k3rs3d/ringfairy) - 🧚 Static webring generator in Rust
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools
@@ -3046,6 +3055,9 @@
 
 ## TypeScript 
 
+- [linyinfeng/oranc-action](https://github.com/linyinfeng/oranc-action) - 
+- [mmntm/weblate-mcp](https://github.com/mmntm/weblate-mcp) - 
+- [shiruken/admin-tattler](https://github.com/shiruken/admin-tattler) - Get notified when the Reddit Admins action content in your subreddit
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
@@ -3053,6 +3065,7 @@
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
@@ -3098,7 +3111,7 @@
 - [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer) - Drag and drop interface to organize playlists on YouTube
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [Chocobo1/bencode_online](https://github.com/Chocobo1/bencode_online) - Bencode & bdecode in your browser
-- [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
+- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [AnimaApp/scooby](https://github.com/AnimaApp/scooby) - UI regression and fidelity testing framework
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [sourcegraph/cody-public-snapshot](https://github.com/sourcegraph/cody-public-snapshot) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
@@ -3233,7 +3246,6 @@
 ## Vue 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [hiatus-hiatus/hiatus-hiatus.github.io](https://github.com/hiatus-hiatus/hiatus-hiatus.github.io) - The source code for the HxH hiatus chart.
 - [jurassicjs/nuxt3-docker-tut](https://github.com/jurassicjs/nuxt3-docker-tut) - Not maintained, just an example
