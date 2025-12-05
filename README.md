@@ -693,7 +693,7 @@
 - [ssbc/go-ssb-room](https://github.com/ssbc/go-ssb-room) - Room server implemented in Go
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples
-- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A TUI bluetooth manager for Linux.
+- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [hyperreal64/distrobox-tui](https://github.com/hyperreal64/distrobox-tui) - A TUI for DistroBox
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -1684,6 +1684,10 @@
 
 ## Nix 
 
+- [lix-project/flake-compat](https://github.com/lix-project/flake-compat) - Mirror for Lix's flake-compat fork. Contributions OK, but we strongly prefer: https://git.lix.systems/lix-project/flake-compat
+- [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
+- [zakuciael/nixos-dotfiles](https://github.com/zakuciael/nixos-dotfiles) - A repository containing configuration files for my NixOS machine
+- [katexochen/gobuild.nix](https://github.com/katexochen/gobuild.nix) - Experiment in new Go builders for Nix (not a go2nix tool)
 - [datakurre/operaton-robot-playground](https://github.com/datakurre/operaton-robot-playground) - Open Source Robot Framework Orchestration Playground
 - [splitbrain/infra-nas-nixos](https://github.com/splitbrain/infra-nas-nixos) - NixOS configuration for my NAS
 - [nrabulinski/cursed-nix](https://github.com/nrabulinski/cursed-nix) - 
@@ -1798,7 +1802,7 @@
 - [RossComputerGuy/nixpkgs-llvm-ws](https://github.com/RossComputerGuy/nixpkgs-llvm-ws) - Flake workspace / repo to stage and track Nixpkgs/NixOS's ability to be compiled completely with LLVM
 - [alyraffauf/nixcfg](https://github.com/alyraffauf/nixcfg) - Multi-host NixOS, Darwin, and home-manager configurations with Nix.
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
-- [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileyluTCD]
+- [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121]
 - [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages.
 - [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [TornaxO7/dotfiles](https://github.com/TornaxO7/dotfiles) - My config
@@ -2915,6 +2919,8 @@
 
 ## Shell 
 
+- [Ninlives/relocatable.nix](https://github.com/Ninlives/relocatable.nix) - A nix bundler that produces relocatable deployment script for nix store paths.
+- [ZilchOS/bootstrap-from-tcc](https://github.com/ZilchOS/bootstrap-from-tcc) - Starting with a single ~400 KB TinyCC binary, compile a Clang 17 toolchain and Nix package manager
 - [jacopone/antigravity-nix](https://github.com/jacopone/antigravity-nix) - Auto-updating Nix package for Google Antigravity agentic IDE. Updates 3x/week. FHS environment with overlay support for NixOS/Home Manager.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
@@ -3055,6 +3061,7 @@
 
 ## TypeScript 
 
+- [Lymphatus/caesium-v3](https://github.com/Lymphatus/caesium-v3) - 
 - [linyinfeng/oranc-action](https://github.com/linyinfeng/oranc-action) - 
 - [mmntm/weblate-mcp](https://github.com/mmntm/weblate-mcp) - 
 - [shiruken/admin-tattler](https://github.com/shiruken/admin-tattler) - Get notified when the Reddit Admins action content in your subreddit
