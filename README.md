@@ -557,6 +557,7 @@
 
 ## Elm 
 
+- [imincik/geospatial-nix-page](https://github.com/imincik/geospatial-nix-page) - Nixpkgs maintainers page - Geospatial Team
 - [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
 - [imincik/nix-forge](https://github.com/imincik/nix-forge) - Simplified Nix packaging with maximum added value.
 - [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes.
@@ -1591,6 +1592,7 @@
 
 ## Lua 
 
+- [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
 - [picnoir/nix-dissector](https://github.com/picnoir/nix-dissector) - Wireshark dissector for the Nix daemon protocol.
 - [hishamhm/f-strings](https://github.com/hishamhm/f-strings) - String interpolation for Lua
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
@@ -1684,6 +1686,8 @@
 
 ## Nix 
 
+- [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer.
+- [nix-open-org/org](https://github.com/nix-open-org/org) - Prototype for a declarative NixOS organization
 - [lix-project/flake-compat](https://github.com/lix-project/flake-compat) - Mirror for Lix's flake-compat fork. Contributions OK, but we strongly prefer: https://git.lix.systems/lix-project/flake-compat
 - [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
 - [zakuciael/nixos-dotfiles](https://github.com/zakuciael/nixos-dotfiles) - A repository containing configuration files for my NixOS machine
@@ -2700,6 +2704,8 @@
 
 ## Rust 
 
+- [nix-community/namaka](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea [maintainer=@figsoda]
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [mcmah309/containeryard](https://github.com/mcmah309/containeryard) - ContainerYard is a declarative, reproducible, and reusable decentralized approach for defining containers.
 - [k3rs3d/ringfairy](https://github.com/k3rs3d/ringfairy) - 🧚 Static webring generator in Rust
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
