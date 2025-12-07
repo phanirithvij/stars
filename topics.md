@@ -4407,7 +4407,6 @@
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
 - [pop4959/Chunky](https://github.com/pop4959/Chunky) - Pre-generates chunks, quickly, efficiently, and safely.
-- [viperML/activation-manager](https://github.com/viperML/activation-manager) - The missing piece for effectful operations with Nix
 - [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
