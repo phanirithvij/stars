@@ -557,7 +557,6 @@
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [bradford-smith94/informant](https://github.com/bradford-smith94/informant) - An Arch Linux News reader and pacman hook
-- [joehillen/paruz](https://github.com/joehillen/paruz) - A fzf terminal UI for paru or pacman
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [alfunx/.dotfiles](https://github.com/alfunx/.dotfiles) - There's no place like ~ !
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
@@ -693,7 +692,7 @@
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
 - [Divide-By-0/ideas-for-projects-people-would-use](https://github.com/Divide-By-0/ideas-for-projects-people-would-use) - Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase i
-- [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collection of some awesome public Zig programming language projects.
+- [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collection of awesome projects in Zig.
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [jippi/awesome-nomad](https://github.com/jippi/awesome-nomad) - A curated list of amazingly awesome Nomad tools and shiny things.
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
@@ -764,7 +763,6 @@
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
 - [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [joehillen/paruz](https://github.com/joehillen/paruz) - A fzf terminal UI for paru or pacman
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
@@ -948,7 +946,6 @@
 - [oberblastmeister/trashy](https://github.com/oberblastmeister/trashy) - a cli system trash manager, alternative to rm and trash-cli
 - [vimpostor/blobdrop](https://github.com/vimpostor/blobdrop) - Drag and drop files directly out of the terminal
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
-- [joehillen/paruz](https://github.com/joehillen/paruz) - A fzf terminal UI for paru or pacman
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
@@ -1409,7 +1406,7 @@
 - [alexanderisora/startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [CodingTrain/website-archive](https://github.com/CodingTrain/website-archive) - Archive of the Coding Train website (first version)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -3860,6 +3857,7 @@
 
 ## others 
 
+- [hey-adora/artbounty](https://github.com/hey-adora/artbounty) - 
 - [imincik/geospatial-nix-page](https://github.com/imincik/geospatial-nix-page) - Nixpkgs maintainers page - Geospatial Team
 - [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer.
 - [nix-open-org/org](https://github.com/nix-open-org/org) - Prototype for a declarative NixOS organization
@@ -5696,7 +5694,7 @@
 - [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [edvinlinden/killedby.tech](https://github.com/edvinlinden/killedby.tech) - DEPRECATED A graveyard for discontinued products and services from companies like Google, Apple and Microsoft.
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
@@ -6060,7 +6058,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [bobbens/sketch_simplification](https://github.com/bobbens/sketch_simplification) - Models and code related to sketch simplification of rough sketches.
@@ -6725,7 +6723,7 @@
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
 - [ekzhang/redis-rope](https://github.com/ekzhang/redis-rope) - 🪢 A fast native data type for manipulating large strings in Redis
 - [ziglibs/repository](https://github.com/ziglibs/repository) - A community-maintained repository of zig packages
-- [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collection of some awesome public Zig programming language projects.
+- [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collection of awesome projects in Zig.
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [ikskuh/zig-network](https://github.com/ikskuh/zig-network) - A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP
 - [dundalek/notcurses-zig-example](https://github.com/dundalek/notcurses-zig-example) - Demo showing how to use Notcurses library for building terminal UIs with Zig
