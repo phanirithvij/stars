@@ -2525,6 +2525,7 @@
 
 ## hacktoberfest 
 
+- [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
@@ -3376,6 +3377,7 @@
 
 ## lua 
 
+- [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
@@ -3932,7 +3934,7 @@
 - [NixOS/nixpkgs-committers](https://github.com/NixOS/nixpkgs-committers) - Tracking of changes to Nixpkgs committers
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
-- [Mic92/niks3](https://github.com/Mic92/niks3) - Nix binary caches based on S3-compatible storage
+- [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with GC
 - [tonistiigi/go-actions-cache](https://github.com/tonistiigi/go-actions-cache) - 
 - [fzakaria/nix-nar-kaitai-spec](https://github.com/fzakaria/nix-nar-kaitai-spec) - Kaitai Struct specification for the Nix Archive (.nar) format.
 - [samestep/npc](https://github.com/samestep/npc) - Nixpkgs channel history CLI
@@ -6393,6 +6395,7 @@
 
 ## ubuntu 
 
+- [noql-net/debs](https://github.com/noql-net/debs) - 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [lavabit/robox](https://github.com/lavabit/robox) - The tools needed to robotically create/configure/provision a large number of operating systems, for a variety of hypervisors, using packer.
@@ -6518,6 +6521,7 @@
 
 ## web 
 
+- [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 - [molybdenumsoftware/htnl](https://github.com/molybdenumsoftware/htnl) - Nix library for making websites
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
