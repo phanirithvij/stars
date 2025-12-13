@@ -1687,6 +1687,7 @@
 
 ## Nix 
 
+- [vic/dendritic-unflake](https://github.com/vic/dendritic-unflake) - Example Dendritic Nix setup implemented **without** flakes nor flake-parts.
 - [noql-net/debs](https://github.com/noql-net/debs) - 
 - [Lalit64/snowflake](https://github.com/Lalit64/snowflake) - ❄️ Snowflake
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
