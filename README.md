@@ -138,7 +138,6 @@
 - [MidstallSoftware/mobile-nixos](https://github.com/MidstallSoftware/mobile-nixos) - 
 - [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
 - [radareorg/radare2-book](https://github.com/radareorg/radare2-book) - The Official Radare2 Book
-- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
@@ -293,6 +292,7 @@
 - [maxrd2/SubtitleComposer](https://github.com/maxrd2/SubtitleComposer) - Subtitle Composer - KF5/Qt Video Subtitle Editor
 - [Chigau/HINO](https://github.com/Chigau/HINO) - An hardsub extractor for recognize merged subtitles, correct and convert them to .srt
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
+- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
 - [nzbgetcom/nzbget](https://github.com/nzbgetcom/nzbget) - Efficient usenet downloader
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) - 
@@ -1665,6 +1665,7 @@
 
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
@@ -2702,6 +2703,7 @@
 
 ## Ruby 
 
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [whitequark/irclogger](https://github.com/whitequark/irclogger) - Simple and good-looking IRC log viewer. Logger is included. No strings are attached.
 - [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them
 - [jerith666/nix-top](https://github.com/jerith666/nix-top) - Originally https://github.com/samueldr/nix-top
@@ -2718,6 +2720,7 @@
 
 ## Rust 
 
+- [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together
 - [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - nixpkgs prs bot
 - [lheckemann/ssh-agent-notifier](https://github.com/lheckemann/ssh-agent-notifier) - 
 - [cyrinux/push2talk](https://github.com/cyrinux/push2talk) - Push-to-Talk: Seamless Integration with Wayland, X11, PulseAudio & PipeWire for linux 🎤
@@ -2942,6 +2945,7 @@
 
 ## Shell 
 
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [Ninlives/relocatable.nix](https://github.com/Ninlives/relocatable.nix) - A nix bundler that produces relocatable deployment script for nix store paths.
 - [ZilchOS/bootstrap-from-tcc](https://github.com/ZilchOS/bootstrap-from-tcc) - Starting with a single ~400 KB TinyCC binary, compile a Clang 17 toolchain and Nix package manager
 - [jacopone/antigravity-nix](https://github.com/jacopone/antigravity-nix) - Auto-updating Nix package for Google Antigravity agentic IDE. Updates 3x/week. FHS environment with overlay support for NixOS/Home Manager.
@@ -2980,7 +2984,6 @@
 - [nickexyz/ntfy-shellscripts](https://github.com/nickexyz/ntfy-shellscripts) - A few scripts for the amazing ntfy project: (https://github.com/binwiederhier/ntfy)
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
-- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [snowfallorg/flake](https://github.com/snowfallorg/flake) - Simplify Nix Flakes on the command line.
@@ -3083,6 +3086,8 @@
 
 ## TypeScript 
 
+- [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [Lymphatus/caesium-v3](https://github.com/Lymphatus/caesium-v3) - 
 - [linyinfeng/oranc-action](https://github.com/linyinfeng/oranc-action) - 
 - [mmntm/weblate-mcp](https://github.com/mmntm/weblate-mcp) - 
