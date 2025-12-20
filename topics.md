@@ -168,6 +168,7 @@
 - [material-design](#material-design)
 - [matlab](#matlab)
 - [maven](#maven)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -3564,6 +3565,10 @@
 ## maven 
 
 - [status-im/go-maven-resolver](https://github.com/status-im/go-maven-resolver) - Tool for resolving Java Maven dependencies
+
+## microservices 
+
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 
 ## microsoft 
 
