@@ -619,7 +619,7 @@
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) - A collection of hacks and one-off scripts
 - [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages.
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
-- [idursun/jjui](https://github.com/idursun/jjui) - Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
+- [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
 - [picosh/git-pr](https://github.com/picosh/git-pr) - A pastebin supercharged for git collaboration
 - [qbit/mcchunkie](https://github.com/qbit/mcchunkie) - 
 - [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
@@ -1596,6 +1596,7 @@
 
 ## Lua 
 
+- [LnL7/dotfiles](https://github.com/LnL7/dotfiles) - 
 - [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
 - [picnoir/nix-dissector](https://github.com/picnoir/nix-dissector) - Wireshark dissector for the Nix daemon protocol.
 - [hishamhm/f-strings](https://github.com/hishamhm/f-strings) - String interpolation for Lua
