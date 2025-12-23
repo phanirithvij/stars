@@ -330,6 +330,7 @@
 
 ## ai-agents 
 
+- [YPares/rigup.nix](https://github.com/YPares/rigup.nix) - Build your AI agent's rig: parameterizable skills and tools, all packaged together in a reproducible fashion via Nix modules
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 
@@ -560,6 +561,7 @@
 
 ## archlinux 
 
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [bradford-smith94/informant](https://github.com/bradford-smith94/informant) - An Arch Linux News reader and pacman hook
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
@@ -618,6 +620,7 @@
 
 ## awesome 
 
+- [Necior/awesome-jj](https://github.com/Necior/awesome-jj) - A curated list of awesome Jujutsu things
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
@@ -677,6 +680,7 @@
 
 ## awesome-list 
 
+- [Necior/awesome-jj](https://github.com/Necior/awesome-jj) - A curated list of awesome Jujutsu things
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
@@ -1742,6 +1746,7 @@
 
 ## emacs 
 
+- [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - Build an entire Emacs configuration as a Nix package in a pure, reproducible way
 - [Vonfry/dotfiles](https://github.com/Vonfry/dotfiles) - vonfry's dotfiles.
 - [zendo/nsworld](https://github.com/zendo/nsworld) - Welcome to NixOS world ❄️
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
@@ -1998,6 +2003,7 @@
 
 ## git 
 
+- [Necior/awesome-jj](https://github.com/Necior/awesome-jj) - A curated list of awesome Jujutsu things
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows mirroring external repositories to GitLab, GitHub and possibly more.
 - [talshorer/git-dissect](https://github.com/talshorer/git-dissect) - Distributed git bisect
 - [hercules-ci/gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Nix functions for filtering local git sources
@@ -2089,6 +2095,7 @@
 
 ## go 
 
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
@@ -2264,6 +2271,7 @@
 
 ## golang 
 
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
@@ -2538,6 +2546,7 @@
 
 ## hacktoberfest 
 
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
@@ -2746,7 +2755,7 @@
 ## homebrew 
 
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
-- [ivaquero/oxidizer](https://github.com/ivaquero/oxidizer) - 🛠️ Simple & Extensible Dotfile Manager That Unifies Your Terminal Operations ⛓️
+- [ivaquero/oxidizer](https://github.com/ivaquero/oxidizer) - Simple & Extensible Dotfile Manager That Unifies Your Terminal Operations
 - [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 
@@ -3886,6 +3895,10 @@
 
 ## others 
 
+- [aanderse/trix](https://github.com/aanderse/trix) - trick yourself into flakes
+- [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [leilee/gitbatch](https://github.com/leilee/gitbatch) - manage your git repositories in one place
 - [LnL7/dotfiles](https://github.com/LnL7/dotfiles) - 
 - [Mic92/nix-sysdig](https://github.com/Mic92/nix-sysdig) - Wrapper to debug sysdig builds
 - [Ninlives/minecraft.nix](https://github.com/Ninlives/minecraft.nix) - Command line Minecraft launcher managed by nix
@@ -3939,7 +3952,7 @@
 - [Mic92/ssh-to-age](https://github.com/Mic92/ssh-to-age) - Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
 - [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions
-- [molybdenumsoftware/docstra](https://github.com/molybdenumsoftware/docstra) - Nix-powered documentation authoring library
+- [molybdenumsoftware/docstra](https://github.com/molybdenumsoftware/docstra) - Nix library for authoring documentation
 - [ysard/mi_remote_database](https://github.com/ysard/mi_remote_database) - Proof of concept aiming to reproduce and query the infrared code database (IRDB) used by the Xiaomi *Mi Remote* application.
 - [probonopd/irdb](https://github.com/probonopd/irdb) - One of the largest crowd-sourced, manufacturer-independent databases of infrared remote control codes on the web, and aspiring to become the most comprehensive and most accurate one
 - [kieranabrennan/every-breath-you-take](https://github.com/kieranabrennan/every-breath-you-take) - Heart Rate Variability Training with the Polar H10 Monitor
@@ -4305,8 +4318,6 @@
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
-- [ekala-project/eka](https://github.com/ekala-project/eka) - A command-line tool for decentralized software dependency management using the Atom Protocol.
-- [ekala-project/atom](https://github.com/ekala-project/atom) - Efficient source archive format with deterministic properties
 - [ekala-project/ekapkgs-roadmap](https://github.com/ekala-project/ekapkgs-roadmap) - Roadmap to ekapkgs being fully available
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK UI
@@ -5398,7 +5409,7 @@
 ## powershell 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-- [ivaquero/oxidizer](https://github.com/ivaquero/oxidizer) - 🛠️ Simple & Extensible Dotfile Manager That Unifies Your Terminal Operations ⛓️
+- [ivaquero/oxidizer](https://github.com/ivaquero/oxidizer) - Simple & Extensible Dotfile Manager That Unifies Your Terminal Operations
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -5756,7 +5767,7 @@
 - [shimberger/gohls](https://github.com/shimberger/gohls) - A server that exposes a directory for video streaming via web interface
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share.
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [damaera/react-acrylic](https://github.com/damaera/react-acrylic) - Frost glass effect, Acrylic Material react component
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
@@ -6854,7 +6865,7 @@
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [ivaquero/oxidizer](https://github.com/ivaquero/oxidizer) - 🛠️ Simple & Extensible Dotfile Manager That Unifies Your Terminal Operations ⛓️
+- [ivaquero/oxidizer](https://github.com/ivaquero/oxidizer) - Simple & Extensible Dotfile Manager That Unifies Your Terminal Operations
 - [alfunx/.dotfiles](https://github.com/alfunx/.dotfiles) - There's no place like ~ !
 - [lmburns/dotfiles](https://github.com/lmburns/dotfiles) - Dotfiles for Arch Linux - neovim, zsh
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
