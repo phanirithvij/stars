@@ -1961,7 +1961,7 @@
 - [sudosubin/nixos-config](https://github.com/sudosubin/nixos-config) - Personal nix files, installs some dotfiles and softwares
 - [MatthewCroughan/nixcfg](https://github.com/MatthewCroughan/nixcfg) - My nix configuration(s), using flakes. It's my laptop, it's my servers, it's my everything, in code.
 - [matt1432/nixos-configs](https://github.com/matt1432/nixos-configs) - Mirror of https://git.nelim.org/matt1432/nixos-configs
-- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
+- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [AtaraxiaSjel/nixos-config](https://github.com/AtaraxiaSjel/nixos-config) - 
 - [teto/home](https://github.com/teto/home) - Configurations
 - [bjornfor/nixos-config](https://github.com/bjornfor/nixos-config) - My NixOS configuration files. (This public mirror is not updated anymore.)
@@ -2545,7 +2545,7 @@
 - [shibukawa/imagesize_py](https://github.com/shibukawa/imagesize_py) - 
 - [dawoudt/JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) - Python 3 JustWatch.com API - https://justwatch.com
 - [eric-switzer/mtree-parse](https://github.com/eric-switzer/mtree-parse) - Parse output spec files from 'mtree' and do data management tasks
-- [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
+- [lncrawl/lightnovel-crawler](https://github.com/lncrawl/lightnovel-crawler) - Generate and download e-books from online sources.
 - [scardine/image_size](https://github.com/scardine/image_size) - Get image width and height given a file path using minimal dependencies (no need for PIL, libjpeg, libpng, etc)
 - [code-rgb/USERGE-X](https://github.com/code-rgb/USERGE-X) - USERGE-X. What the X ?
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -2789,7 +2789,7 @@
 - [blitz/hydrasect](https://github.com/blitz/hydrasect) - The tool that makes bisecting nixpkgs pleasant.
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
 - [uncenter/nixpkgs-track](https://github.com/uncenter/nixpkgs-track) - 📦 Track where Nixpkgs pull requests have reached.
-- [nix-community/manix](https://github.com/nix-community/manix) - A fast CLI documentation searcher for Nix [maintainers=@IogaMaster, @bayou-brogrammer]
+- [nix-community/manix](https://github.com/nix-community/manix) - A fast CLI documentation searcher for Nix [maintainers=@IogaMaster, @Feyorsh]
 - [o-santi/nix-forall](https://github.com/o-santi/nix-forall) - Nix bindings for all languages
 - [pdtpartners/nix-ninja](https://github.com/pdtpartners/nix-ninja) - Ninja-compatible incremental build system for Nix
 - [LordGrimmauld/nix-check-deps](https://github.com/LordGrimmauld/nix-check-deps) - scan nix packages for unused buildInputs
