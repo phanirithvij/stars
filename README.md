@@ -1600,7 +1600,6 @@
 ## Lua 
 
 - [LnL7/dotfiles](https://github.com/LnL7/dotfiles) - 
-- [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
 - [picnoir/nix-dissector](https://github.com/picnoir/nix-dissector) - Wireshark dissector for the Nix daemon protocol.
 - [hishamhm/f-strings](https://github.com/hishamhm/f-strings) - String interpolation for Lua
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
@@ -1695,6 +1694,7 @@
 
 ## Nix 
 
+- [dominicegginton/dotfiles](https://github.com/dominicegginton/dotfiles) - Declarative system, package & home environment configurations - WIP Always.
 - [jim3692/server.nix](https://github.com/jim3692/server.nix) - A flake providing a framework for steamlined declarative management of NixOS containers and VMs
 - [Naxdy/nix-bwrapper](https://github.com/Naxdy/nix-bwrapper) - A user-friendly method of sandboxing applications using bubblewrap with portals support.
 - [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - Build an entire Emacs configuration as a Nix package in a pure, reproducible way
@@ -1710,6 +1710,7 @@
 - [lheckemann/undrv](https://github.com/lheckemann/undrv) - cursed
 - [lheckemann/nixbuntu-samples](https://github.com/lheckemann/nixbuntu-samples) - 
 - [privatevoid-net/depot](https://github.com/privatevoid-net/depot) - Private Void's monorepo for packages and infrastructure configuration
+- [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
 - [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer.
 - [nix-open-org/org](https://github.com/nix-open-org/org) - Prototype for a declarative NixOS organization
 - [lix-project/flake-compat](https://github.com/lix-project/flake-compat) - Mirror for Lix's flake-compat fork. Contributions OK, but we strongly prefer: https://git.lix.systems/lix-project/flake-compat
