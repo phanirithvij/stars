@@ -1934,7 +1934,7 @@
 - [functionalops/nix-cookbook](https://github.com/functionalops/nix-cookbook) - A cookbook of snippets that show you how you can accomplish common tasks using the Nix expression language
 - [momeemt/config](https://github.com/momeemt/config) - Build once, bring everything up.
 - [justinlime/dotfiles](https://github.com/justinlime/dotfiles) - My general config and dotfiles for linux
-- [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines
+- [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines. Mirror of https://git.notthebe.ee/notthebee/nix-config
 - [Suya1671/commafiles](https://github.com/Suya1671/commafiles) - My new dots, since my old ones broke
 - [sodiboo/system](https://github.com/sodiboo/system) - i use NixOS btw
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
