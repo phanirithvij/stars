@@ -589,6 +589,8 @@
 
 ## Go 
 
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
+- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON, CSV, and TSV using SQL.
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [leilee/gitbatch](https://github.com/leilee/gitbatch) - manage your git repositories in one place
@@ -1714,7 +1716,7 @@
 - [lheckemann/undrv](https://github.com/lheckemann/undrv) - cursed
 - [lheckemann/nixbuntu-samples](https://github.com/lheckemann/nixbuntu-samples) - 
 - [privatevoid-net/depot](https://github.com/privatevoid-net/depot) - Private Void's monorepo for packages and infrastructure configuration
-- [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring awesome and neovim
+- [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring niri and neovim
 - [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer.
 - [nix-open-org/org](https://github.com/nix-open-org/org) - Prototype for a declarative NixOS organization
 - [lix-project/flake-compat](https://github.com/lix-project/flake-compat) - Mirror for Lix's flake-compat fork. Contributions OK, but we strongly prefer: https://git.lix.systems/lix-project/flake-compat
@@ -2307,6 +2309,9 @@
 
 ## Python 
 
+- [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
+- [repology/repology-rules](https://github.com/repology/repology-rules) - Package normalization ruleset for Repology
+- [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [t184256/nixpkgs-python-importer](https://github.com/t184256/nixpkgs-python-importer) - Violate Nix philosophy, install Python packages mid-session with `from nixpkgs.scipy import scipy`.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [Mic92/nix-sysdig](https://github.com/Mic92/nix-sysdig) - Wrapper to debug sysdig builds
@@ -2745,6 +2750,9 @@
 
 ## Rust 
 
+- [repology/repology-rs](https://github.com/repology/repology-rs) - Source code of all Repology components
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
+- [neunenak/diskonaut](https://github.com/neunenak/diskonaut) - Terminal disk space navigator 🔭
 - [owo-uwu-nyaa/jellyhaj](https://github.com/owo-uwu-nyaa/jellyhaj) - jellyfin tui in rust
 - [RohanAdwankar/newt](https://github.com/RohanAdwankar/newt) - A cross-language notebook terminal interface and server.
 - [aanderse/trix](https://github.com/aanderse/trix) - trick yourself into flakes
