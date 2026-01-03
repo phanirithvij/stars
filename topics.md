@@ -268,6 +268,7 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [unity](#unity)
+- [userscript](#userscript)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -4787,7 +4788,6 @@
 - [skeeto/skeeto.github.com](https://github.com/skeeto/skeeto.github.com) - Personal website/blog
 - [iOrange/QOIThumbnailProvider](https://github.com/iOrange/QOIThumbnailProvider) - Adds thumbnails for QOI images in Windows
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
-- [cvzi/Spotify-Genius-Lyrics-userscript](https://github.com/cvzi/Spotify-Genius-Lyrics-userscript) - Userscript, shows lyrics from genius.com on Spotify web
 - [umair-khanzada/multi-user-login-app](https://github.com/umair-khanzada/multi-user-login-app) - The purpose of this app to support multi-user login on front-end like Google's Gmail
 - [Katee/git-bomb](https://github.com/Katee/git-bomb) - A (nearly) uncloneable repo
 - [NiagaraLauncher/Niagara-Issues](https://github.com/NiagaraLauncher/Niagara-Issues) - The latest releases for Niagara Launcher, a modern + minimalist Android home screen optimized for one-✋ access and staying focused.
@@ -6577,6 +6577,12 @@
 ## unity 
 
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
+
+## userscript 
+
+- [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer) - Drag and drop interface to organize playlists on YouTube
+- [cvzi/Spotify-Genius-Lyrics-userscript](https://github.com/cvzi/Spotify-Genius-Lyrics-userscript) - Userscript, shows lyrics from genius.com on Spotify web
+- [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
 
 ## vagrant 
 
