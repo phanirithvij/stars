@@ -2069,7 +2069,6 @@
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [mhwombat/nix-for-numbskulls](https://github.com/mhwombat/nix-for-numbskulls) - Tutorials and the like.
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
-- [schickling/dotfiles](https://github.com/schickling/dotfiles) - Contents of my ~/.config
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [the-argus/nixsys](https://github.com/the-argus/nixsys) - My NixOS system configuration.
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
