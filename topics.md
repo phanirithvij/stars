@@ -610,7 +610,6 @@
 - [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [nikivdev/new](https://github.com/nikivdev/new) - New projects, files, everything
 - [stream-pi/client](https://github.com/stream-pi/client) - Stream-Pi Client
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
@@ -1691,7 +1690,6 @@
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
-- [schickling/dotfiles](https://github.com/schickling/dotfiles) - Contents of my ~/.config
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [the-argus/nixsys](https://github.com/the-argus/nixsys) - My NixOS system configuration.
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
@@ -3951,6 +3949,8 @@
 
 ## others 
 
+- [amitbet/vnc2video](https://github.com/amitbet/vnc2video) - A fully featured VNC client written in golang
+- [TiesPetersen/FloorSweepingOptimizer](https://github.com/TiesPetersen/FloorSweepingOptimizer) - A C++ optimizer that generates efficient floor sweeping routes on grid maps with obstacles using simulated annealing.
 - [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
 - [qbit/xin-status](https://github.com/qbit/xin-status) - A simple management tool for NixOS machines.
 - [joaomoreno/gifcap](https://github.com/joaomoreno/gifcap) - Capture your screen to a GIF in your browser
@@ -4624,6 +4624,7 @@
 - [marler8997/windows-coreutils](https://github.com/marler8997/windows-coreutils) - Just a few cmdline tools to help out on windows
 - [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
 - [nikivdev/research](https://github.com/nikivdev/research) - 
+- [nikivdev/new](https://github.com/nikivdev/new) - New projects & files
 - [chihaya/chihaya](https://github.com/chihaya/chihaya) - A customizable, multi-protocol BitTorrent Tracker
 - [squeek502/watchedoverlay](https://github.com/squeek502/watchedoverlay) - Windows shell extension to mark arbitrary files as 'watched'
 - [richardwilkes/toolbox](https://github.com/richardwilkes/toolbox) - Toolbox for Go
@@ -5620,7 +5621,7 @@
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
+- [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis.
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [rmartin16/qbittorrentui](https://github.com/rmartin16/qbittorrentui) - text user interface for qbittorrent
@@ -6878,7 +6879,7 @@
 
 ## xml 
 
-- [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2025, WikiTeam has preserved more than 600,000 wikis.
+- [WikiTeam/wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis.
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
