@@ -1702,6 +1702,7 @@
 
 ## Nix 
 
+- [linyinfeng/nur-packages](https://github.com/linyinfeng/nur-packages) - My personal NUR repository
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [blitz/polyglot-image](https://github.com/blitz/polyglot-image) - A disk image that boots on multiple architectures
 - [t184256/android-app-nix-example](https://github.com/t184256/android-app-nix-example) - An example of building an Android app with Nix
@@ -2758,6 +2759,7 @@
 
 ## Rust 
 
+- [linyinfeng/angrr](https://github.com/linyinfeng/angrr) - Auto Nix GC Root Retention
 - [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [repology/repology-rs](https://github.com/repology/repology-rs) - Source code of all Repology components
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
