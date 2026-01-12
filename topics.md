@@ -1984,6 +1984,7 @@
 
 ## gamedev 
 
+- [unklnik/mr_snuggles_dungeon_adventure](https://github.com/unklnik/mr_snuggles_dungeon_adventure) - Roguelite game made with Go and Raylib - Demo & Game is available on Steam https://store.steampowered.com/app/2968730/Mr_Snuggles_Dungeon_Adventure/
 - [deathkiller/jazz2-native](https://github.com/deathkiller/jazz2-native) - 🎮 · Jazz² Resurrection: Native C++ reimplementation of Jazz Jackrabbit 2
 - [deathkiller/jazz2](https://github.com/deathkiller/jazz2) - 🎮 · Jazz² Resurrection: Open-source reimplementation of Jazz Jackrabbit 2
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
@@ -2124,6 +2125,7 @@
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
+- [unklnik/mr_snuggles_dungeon_adventure](https://github.com/unklnik/mr_snuggles_dungeon_adventure) - Roguelite game made with Go and Raylib - Demo & Game is available on Steam https://store.steampowered.com/app/2968730/Mr_Snuggles_Dungeon_Adventure/
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -2309,6 +2311,7 @@
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [unklnik/mr_snuggles_dungeon_adventure](https://github.com/unklnik/mr_snuggles_dungeon_adventure) - Roguelite game made with Go and Raylib - Demo & Game is available on Steam https://store.steampowered.com/app/2968730/Mr_Snuggles_Dungeon_Adventure/
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
@@ -3949,6 +3952,8 @@
 
 ## others 
 
+- [linyinfeng/angrr](https://github.com/linyinfeng/angrr) - Auto Nix GC Root Retention
+- [linyinfeng/nur-packages](https://github.com/linyinfeng/nur-packages) - My personal NUR repository
 - [amitbet/vnc2video](https://github.com/amitbet/vnc2video) - A fully featured VNC client written in golang
 - [TiesPetersen/FloorSweepingOptimizer](https://github.com/TiesPetersen/FloorSweepingOptimizer) - A C++ optimizer that generates efficient floor sweeping routes on grid maps with obstacles using simulated annealing.
 - [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
@@ -4329,7 +4334,6 @@
 - [thaider/Tweeki](https://github.com/thaider/Tweeki) - MediaWiki skin based on Twitter's Bootstrap
 - [numtide/nix-vm-test](https://github.com/numtide/nix-vm-test) - Re-use the NixOS VM test infrastructure to test Ubuntu, Debian, and Fedora machines.
 - [Nezreka/Spotify-Plex-Playlist-Sync](https://github.com/Nezreka/Spotify-Plex-Playlist-Sync) - Sync playlist from spotify to your plex server.
-- [unklnik/mr_snuggles_dungeon_adventure](https://github.com/unklnik/mr_snuggles_dungeon_adventure) - Roguelite game made with Go and Raylib - Demo & Game is available on Steam https://store.steampowered.com/app/2968730/Mr_Snuggles_Dungeon_Adventure/
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
 - [uglymagoo/plex-claim-server](https://github.com/uglymagoo/plex-claim-server) - 
 - [SIMKL/Sync-Simkl-to-Plex-Chrome-Extension](https://github.com/SIMKL/Sync-Simkl-to-Plex-Chrome-Extension) - 
