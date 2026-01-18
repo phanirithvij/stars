@@ -547,6 +547,7 @@
 
 ## api 
 
+- [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API
 - [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -2154,6 +2155,7 @@
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
@@ -4634,7 +4636,6 @@
 - [RajaSrinivasan/assignments](https://github.com/RajaSrinivasan/assignments) - 
 - [marler8997/windows-coreutils](https://github.com/marler8997/windows-coreutils) - Just a few cmdline tools to help out on windows
 - [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
-- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [nikivdev/new](https://github.com/nikivdev/new) - New projects & files
 - [chihaya/chihaya](https://github.com/chihaya/chihaya) - A customizable, multi-protocol BitTorrent Tracker
 - [squeek502/watchedoverlay](https://github.com/squeek502/watchedoverlay) - Windows shell extension to mark arbitrary files as 'watched'
@@ -5215,6 +5216,7 @@
 - [dart-archive/ffi](https://github.com/dart-archive/ffi) - Utilities for working with Foreign Function Interface (FFI) code
 - [Piwigo/Piwigo-Android](https://github.com/Piwigo/Piwigo-Android) - Piwigo Native Android App
 - [CodingGardenCommunity/app-wiki](https://github.com/CodingGardenCommunity/app-wiki) - Getting Started and Contribution Guidelines for all Contributors
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, chat, sell or collaborate. Privately.
 - [nongdenchet/Shortcuts](https://github.com/nongdenchet/Shortcuts) - Sample app tutorial for querying shortcuts from API 25 (to build android launcher)
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [tensor-programming/hex-microservice](https://github.com/tensor-programming/hex-microservice) - 
@@ -5848,7 +5850,6 @@
 - [shimberger/gohls](https://github.com/shimberger/gohls) - A server that exposes a directory for video streaming via web interface
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 - [ipfs/ipfs-webui](https://github.com/ipfs/ipfs-webui) - A frontend for an IPFS Kubo and IPFS Desktop
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [damaera/react-acrylic](https://github.com/damaera/react-acrylic) - Frost glass effect, Acrylic Material react component
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
@@ -5903,6 +5904,7 @@
 
 ## ruby 
 
+- [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
