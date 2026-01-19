@@ -723,6 +723,7 @@
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
 - [nikivdev/new](https://github.com/nikivdev/new) - New projects & files
 - [chihaya/chihaya](https://github.com/chihaya/chihaya) - A customizable, multi-protocol BitTorrent Tracker
 - [gabe565/gh-profile](https://github.com/gabe565/gh-profile) - :octocat: Use multiple GitHub accounts with the gh cli.
@@ -1289,6 +1290,7 @@
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [tomayac/fugu-greetings](https://github.com/tomayac/fugu-greetings) - A sample app that features a lot of Project Fugu 🐡 APIs.
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [simov/stars](https://github.com/simov/stars) - GitHub Stars History and Stats
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
@@ -1336,7 +1338,7 @@
 - [1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [byteyilabs/yi-note](https://github.com/byteyilabs/yi-note) - YiNote browser extension - online video note taking tool
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra 
 - [cvzi/Spotify-Genius-Lyrics-userscript](https://github.com/cvzi/Spotify-Genius-Lyrics-userscript) - Userscript, shows lyrics from genius.com on Spotify web
 - [umair-khanzada/multi-user-login-app](https://github.com/umair-khanzada/multi-user-login-app) - The purpose of this app to support multi-user login on front-end like Google's Gmail
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
@@ -1489,7 +1491,6 @@
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [hq-af/twist-batch-downloader](https://github.com/hq-af/twist-batch-downloader) - Twist.moe CLI Batch Anime Downloader
 - [weizhenye/ASS](https://github.com/weizhenye/ASS) - A lightweight JavaScript ASS subtitle renderer
-- [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in MariaDB.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [justadudewhohacks/face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js) - Simple Node.js package for robust face detection and face recognition. JavaScript and TypeScript API.
@@ -1714,13 +1715,12 @@
 - [jim3692/server.nix](https://github.com/jim3692/server.nix) - A flake providing a framework for steamlined declarative management of NixOS containers and VMs
 - [Naxdy/nix-bwrapper](https://github.com/Naxdy/nix-bwrapper) - A user-friendly method of sandboxing applications using bubblewrap with portals support.
 - [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - Build an entire Emacs configuration as a Nix package in a pure, reproducible way
-- [YPares/rigup.nix](https://github.com/YPares/rigup.nix) - AI agent skills and Nix: parametrable skills and tools, packaged together in a reproducible and modular fashion
+- [YPares/rigup.nix](https://github.com/YPares/rigup.nix) - AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
 - [Ninlives/minecraft.nix](https://github.com/Ninlives/minecraft.nix) - Command line Minecraft launcher managed by nix
 - [MatthewCash/nixos-config](https://github.com/MatthewCash/nixos-config) - NixOS System Configurations
 - [vic/dendritic-unflake](https://github.com/vic/dendritic-unflake) - Example Dendritic Nix setup implemented **without** flakes nor flake-parts.
 - [noql-net/debs](https://github.com/noql-net/debs) - 
-- [Lalit64/snowflake](https://github.com/Lalit64/snowflake) - ❄️ Snowflake
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [lheckemann/cache-gc](https://github.com/lheckemann/cache-gc) - Extremely unpolished tool for garbage-collecting flat-file Nix binary caches.
 - [lheckemann/undrv](https://github.com/lheckemann/undrv) - cursed
@@ -1990,7 +1990,7 @@
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
 - [jonringer/server-configuration](https://github.com/jonringer/server-configuration) - Build server nixos configuration
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
-- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager that supports a normal config directory ... that can easily output mulitiple configured packages! (with example config(s) and in-editor help)
+- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager tuned for outputting mulitiple configured packages from a single config directory
 - [tomodachi94/dotfiles](https://github.com/tomodachi94/dotfiles) - My dotfiles and NixOS configuration: nvim, zsh, i3, and more
 - [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [7c6f434c/7c6f434c-configurations](https://github.com/7c6f434c/7c6f434c-configurations) - 
@@ -2304,7 +2304,7 @@
 - [jborean93/ansible-role-win_openssh](https://github.com/jborean93/ansible-role-win_openssh) - Ansible Role to install Win32-OpenSSH on Windows - https://github.com/PowerShell/Win32-OpenSSH
 - [thomaspreischl/install-wsl-and-ansible](https://github.com/thomaspreischl/install-wsl-and-ansible) - 
 - [TheRandomLabs/scoop-nonportable](https://github.com/TheRandomLabs/scoop-nonportable) - A Scoop bucket for nonportable applications.
-- [anderlli0053/DEV-tools](https://github.com/anderlli0053/DEV-tools) - 📦 Originally started as a Scoop repo for general development tools for applications and games and now it has become a "sanctuary" for pretty much everything else too :) 📦
+- [anderlli0053/DEV-tools](https://github.com/anderlli0053/DEV-tools) - 📦 A versatile Scoop bucket that evolved from development tools into a comprehensive software sanctuary. Originally focused on DEV tools for applications and games, now expanded to include utilities, a
 - [KNOXDEV/scoop-backup](https://github.com/KNOXDEV/scoop-backup) - Backup your entire current scoop installation with one command
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
@@ -2745,6 +2745,7 @@
 
 ## Ruby 
 
+- [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [whitequark/irclogger](https://github.com/whitequark/irclogger) - Simple and good-looking IRC log viewer. Logger is included. No strings are attached.
@@ -3202,7 +3203,6 @@
 - [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer) - Drag and drop interface to organize playlists on YouTube
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [Chocobo1/bencode_online](https://github.com/Chocobo1/bencode_online) - Bencode & bdecode in your browser
-- [nikivdev/research](https://github.com/nikivdev/research) - 
 - [AnimaApp/scooby](https://github.com/AnimaApp/scooby) - UI regression and fidelity testing framework
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [sourcegraph/cody-public-snapshot](https://github.com/sourcegraph/cody-public-snapshot) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
@@ -3280,7 +3280,7 @@
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [versatica/mediasoup-demo](https://github.com/versatica/mediasoup-demo) - mediasoup official demo application
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -3311,6 +3311,7 @@
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [emilioastarita/lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app | New updates at https://github.com/emilioastarita/lyricfier2 (a faster version in golang)
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
+- [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store as JSON file
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 
@@ -3337,7 +3338,6 @@
 ## Vue 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [hiatus-hiatus/hiatus-hiatus.github.io](https://github.com/hiatus-hiatus/hiatus-hiatus.github.io) - The source code for the HxH hiatus chart.
 - [jurassicjs/nuxt3-docker-tut](https://github.com/jurassicjs/nuxt3-docker-tut) - Not maintained, just an example
