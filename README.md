@@ -191,7 +191,6 @@
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [mrlotfi/mpv-libunity](https://github.com/mrlotfi/mpv-libunity) - mpv-libunity
-- [flutter/codelabs](https://github.com/flutter/codelabs) - Flutter codelab examples
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [Francesco149/weebp](https://github.com/Francesco149/weebp) - free and open-source wallpaper engine, set any window as your wallpaper
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
@@ -375,6 +374,7 @@
 - [GlPortal/glPortal](https://github.com/GlPortal/glPortal) - :video_game: Open Source teleportation based first person puzzle-platformer
 - [liuziangexit/HEIF-Utility-Native-DLL](https://github.com/liuziangexit/HEIF-Utility-Native-DLL) - 
 - [Hopson97/open-builder](https://github.com/Hopson97/open-builder) - Open  "Minecraft-like" game with multiplayer support and Lua scripting support for the both client and server
+- [flutter/codelabs](https://github.com/flutter/codelabs) - Flutter codelab examples
 - [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [b73f9/session_lock](https://github.com/b73f9/session_lock) - Small tool for locking the session on notebook lid close
 - [AClouDitation/WPswap](https://github.com/AClouDitation/WPswap) - 
@@ -479,7 +479,7 @@
 - [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [authpass/authpass-cloud](https://github.com/authpass/authpass-cloud) - 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
@@ -1051,7 +1051,7 @@
 - [fogleman/rbgg](https://github.com/fogleman/rbgg) - Isolate and remove the background gradient from images of paper.
 - [fogleman/ln](https://github.com/fogleman/ln) - 3D line art engine.
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
 - [reujab/wallpaper](https://github.com/reujab/wallpaper) - A cross-platform Golang library for getting and setting desktop wallpapers
@@ -1306,7 +1306,7 @@
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) - Browser extension that automatically notifies and redirects you to independent wikis.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
 - [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
@@ -1990,7 +1990,7 @@
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
 - [jonringer/server-configuration](https://github.com/jonringer/server-configuration) - Build server nixos configuration
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
-- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - A nix-based nvim package manager tuned for outputting mulitiple configured packages from a single config directory
+- [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - the predecessor to nix-wrapper-modules#neovim
 - [tomodachi94/dotfiles](https://github.com/tomodachi94/dotfiles) - My dotfiles and NixOS configuration: nvim, zsh, i3, and more
 - [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [7c6f434c/7c6f434c-configurations](https://github.com/7c6f434c/7c6f434c-configurations) - 
@@ -2083,7 +2083,6 @@
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
 - [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
-- [a-h/dotfiles](https://github.com/a-h/dotfiles) - 
 - [zdcthomas/dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
 - [I-Want-ToBelieve/autohide-tdrop](https://github.com/I-Want-ToBelieve/autohide-tdrop) - 100% pure rust implementation that can automatically hide terminals or other applications managed by tdrop when they lose focus
 - [gilligan/kind-kubenix](https://github.com/gilligan/kind-kubenix) - A playground to use kubenix with a kind cluster
@@ -2764,6 +2763,7 @@
 
 ## Rust 
 
+- [xzfc/cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
 - [FliegendeWurst/nixpkgs-pr-build-bot](https://github.com/FliegendeWurst/nixpkgs-pr-build-bot) - Self-hosted ofborg/nixpkgs-review bot for nixpkgs
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
 - [linyinfeng/angrr](https://github.com/linyinfeng/angrr) - Auto Nix GC Root Retention
@@ -2937,7 +2937,7 @@
 - [ArchiveTeam/warrior4-vm](https://github.com/ArchiveTeam/warrior4-vm) - Warrior virtual machine appliance (version 4)
 - [contextfreeinfo/taca](https://github.com/contextfreeinfo/taca) - Wasm runtime for multimedia apps
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [sgeisler/cargo-remote](https://github.com/sgeisler/cargo-remote) - cargo subcommand to compile rust projects remotely
@@ -3048,6 +3048,7 @@
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [imneonizer/android-webcam](https://github.com/imneonizer/android-webcam) - Using android phone as 4K webcam for online meetings
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binar
+- [a-h/dotfiles](https://github.com/a-h/dotfiles) - 
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
 - [termux-pacman/termux-packages](https://github.com/termux-pacman/termux-packages) - A build system and primary set of packages in format pacman for Termux.
@@ -3228,7 +3229,7 @@
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
