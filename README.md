@@ -919,7 +919,7 @@
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [kasvith/simplelb](https://github.com/kasvith/simplelb) - World's most dumbest Load Balancer
 - [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports multimodal content via embedding
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [rlouf/birdland](https://github.com/rlouf/birdland) - A battle-tested recommendation library written in Go.
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [adinfinit/zombies-on-ice](https://github.com/adinfinit/zombies-on-ice) - Ludum Dare 37 Compo submission
@@ -1704,6 +1704,7 @@
 
 ## Nix 
 
+- [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
 - [eljamm/composable-nix-templates](https://github.com/eljamm/composable-nix-templates) - Composable nix templates
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
 - [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways?
