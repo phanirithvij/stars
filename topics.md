@@ -30,6 +30,7 @@
 - [backend](#backend)
 - [bash](#bash)
 - [beginner-project](#beginner-project)
+- [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [bugbounty](#bugbounty)
@@ -55,6 +56,7 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [crawler](#crawler)
+- [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
@@ -90,6 +92,7 @@
 - [english](#english)
 - [es6](#es6)
 - [eslint](#eslint)
+- [ethereum](#ethereum)
 - [facebook](#facebook)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -359,7 +362,7 @@
 
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
-- [alexanderisora/startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
+- [ravi-ojha/startuptoolbox](https://github.com/ravi-ojha/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
@@ -369,6 +372,7 @@
 
 ## android 
 
+- [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
@@ -749,6 +753,7 @@
 
 ## aws 
 
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [lusingander/stu](https://github.com/lusingander/stu) - TUI explorer application for Amazon S3 (AWS S3) 🪣
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -777,6 +782,7 @@
 
 ## bash 
 
+- [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -809,6 +815,10 @@
 ## beginner-project 
 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## blockchain 
+
+- [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 
 ## bootstrap 
 
@@ -937,6 +947,7 @@
 
 ## cli 
 
+- [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
@@ -972,7 +983,7 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [aladdin-io/gitcs](https://github.com/aladdin-io/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
+- [hrtsegv/gitcs](https://github.com/hrtsegv/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [oberblastmeister/trashy](https://github.com/oberblastmeister/trashy) - a cli system trash manager, alternative to rm and trash-cli
@@ -1068,6 +1079,7 @@
 
 ## clojure 
 
+- [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## cloud 
@@ -1204,6 +1216,7 @@
 
 ## continuous-integration 
 
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
@@ -1243,6 +1256,10 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store as JSON file
+
+## cryptocurrency 
+
+- [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 
 ## cryptography 
 
@@ -1436,7 +1453,7 @@
 
 ## design 
 
-- [alexanderisora/startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
+- [ravi-ojha/startuptoolbox](https://github.com/ravi-ojha/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
@@ -1449,6 +1466,7 @@
 
 ## developer-tools 
 
+- [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [nix-community/nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix [maintainer=@jmgilman]
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
@@ -1805,6 +1823,10 @@
 
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
+## ethereum 
+
+- [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
+
 ## facebook 
 
 - [KhunHtetzNaing/xGetter](https://github.com/KhunHtetzNaing/xGetter) - Android library for extract stream/download url from Google Drive,MegaUp,Google Photos,Mp4Upload,Facebook,Mediafire,Ok.Ru,VK,Twitter,Youtube,SolidFiles,Vidoza,UptoStream,SendVid,FanSubs,Uptobox,FEmbed
@@ -2027,6 +2049,7 @@
 
 ## git 
 
+- [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [Necior/awesome-jj](https://github.com/Necior/awesome-jj) - A curated list of awesome Jujutsu things
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows mirroring external repositories to GitLab, GitHub and possibly more.
 - [talshorer/git-dissect](https://github.com/talshorer/git-dissect) - Distributed git bisect
@@ -2044,7 +2067,7 @@
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [aladdin-io/gitcs](https://github.com/aladdin-io/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
+- [hrtsegv/gitcs](https://github.com/hrtsegv/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [josh-project/josh](https://github.com/josh-project/josh) - Just One Single History
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
@@ -2139,7 +2162,7 @@
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [aladdin-io/gitcs](https://github.com/aladdin-io/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
+- [hrtsegv/gitcs](https://github.com/hrtsegv/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2326,7 +2349,7 @@
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [aladdin-io/gitcs](https://github.com/aladdin-io/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
+- [hrtsegv/gitcs](https://github.com/hrtsegv/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
@@ -2910,6 +2933,7 @@
 
 ## ios 
 
+- [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [arafaysaleem/ez_tickets_app](https://github.com/arafaysaleem/ez_tickets_app) - A cinema ticket booking app made with Flutter SDK
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
@@ -3655,6 +3679,7 @@
 
 ## mobile 
 
+- [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅
 - [timer-machine/timer-machine-android](https://github.com/timer-machine/timer-machine-android) - ⏲ A highly customizable interval timer app for Android
@@ -3959,6 +3984,7 @@
 
 ## others 
 
+- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
 - [ChrisLAS/blue-vault](https://github.com/ChrisLAS/blue-vault) - A production-quality TUI app to manage Blu-ray cold storage archives on Linux
 - [eljamm/composable-nix-templates](https://github.com/eljamm/composable-nix-templates) - Composable nix templates
@@ -3987,7 +4013,7 @@
 - [Naxdy/nix-bwrapper](https://github.com/Naxdy/nix-bwrapper) - A user-friendly method of sandboxing applications using bubblewrap with portals support.
 - [aanderse/trix](https://github.com/aanderse/trix) - trick yourself into flakes
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [leilee/gitbatch](https://github.com/leilee/gitbatch) - manage your git repositories in one place
 - [LnL7/dotfiles](https://github.com/LnL7/dotfiles) - 
 - [Mic92/nix-sysdig](https://github.com/Mic92/nix-sysdig) - Wrapper to debug sysdig builds
@@ -4190,7 +4216,7 @@
 - [nanoyaki/flake](https://github.com/nanoyaki/flake) - Mirror of my Codeberg repository
 - [jonringer/basinix](https://github.com/jonringer/basinix) - (WIP) Nix CI pull request review website
 - [jtojnar/what-changed](https://github.com/jtojnar/what-changed) - Find out what changed between two versions of a software project
-- [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) - 
+- [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) - A set-and-forget modern operating system designed for simplicity, speed, and peace of mind.
 - [Bwc9876/nixos-config](https://github.com/Bwc9876/nixos-config) - A flake for my NixOS systems
 - [wayback-x11/wayback](https://github.com/wayback-x11/wayback) - experimental X11 compatibility layer
 - [kristoff-it/bork](https://github.com/kristoff-it/bork) - A TUI chat client tailored for livecoding on Twitch.
@@ -4505,7 +4531,7 @@
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [arvigeus/nixos-config](https://github.com/arvigeus/nixos-config) - 
 - [euank/yaml2nix](https://github.com/euank/yaml2nix) - 
-- [Guanran928/flake](https://github.com/Guanran928/flake) - 
+- [Guanran928/flake](https://github.com/Guanran928/flake) - knockoff of NickCao/flakes
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [MiepHD/cuscon](https://github.com/MiepHD/cuscon) - This icon pack adds variety and dynamism to your Home screen. With no background, each icon looks unique and breaks up the constant pattern of the grid.
 - [nevesnunes/env](https://github.com/nevesnunes/env) - cheatsheets, dotfiles, scripts...
@@ -5537,6 +5563,7 @@
 
 ## productivity 
 
+- [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -5868,6 +5895,7 @@
 
 ## react-native 
 
+- [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
@@ -6106,6 +6134,7 @@
 
 ## self-hosted 
 
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
@@ -6377,7 +6406,7 @@
 - [GeorgeFilipkin/pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [elk-language/go-prompt](https://github.com/elk-language/go-prompt) - Building powerful interactive prompts and REPLs in Go, inspired by python-prompt-toolkit.
@@ -6718,7 +6747,7 @@
 - [Azeirah/nix-deps-treemap](https://github.com/Azeirah/nix-deps-treemap) - Visualize your nix derivation dependency graph as an interactive treemap
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game!
-- [aladdin-io/gitcs](https://github.com/aladdin-io/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
+- [hrtsegv/gitcs](https://github.com/hrtsegv/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [nianticlabs/simplerecon](https://github.com/nianticlabs/simplerecon) - [ECCV 2022] SimpleRecon: 3D Reconstruction Without 3D Convolutions
@@ -6817,7 +6846,7 @@
 
 ## website 
 
-- [alexanderisora/startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
+- [ravi-ojha/startuptoolbox](https://github.com/ravi-ojha/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [Chocobo1/bencode_online](https://github.com/Chocobo1/bencode_online) - Bencode & bdecode in your browser
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
@@ -7006,6 +7035,7 @@
 
 ## zsh 
 
+- [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
