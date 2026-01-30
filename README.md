@@ -16,6 +16,7 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
 - [D](#d)
@@ -437,6 +438,10 @@
 - [christiangenco/chrome-export-history](https://github.com/christiangenco/chrome-export-history) - Chrome Extension to export your entire history in json or csv
 - [wentin/cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
 
+## Clojure 
+
+- [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
+
 ## CoffeeScript 
 
 - [jariz/vibrant.js](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image. JS port of Android's Palette.
@@ -678,7 +683,7 @@
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [aladdin-io/gitcs](https://github.com/aladdin-io/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
+- [hrtsegv/gitcs](https://github.com/hrtsegv/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
@@ -2127,7 +2132,7 @@
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [alexanderisora/startuptoolbox](https://github.com/alexanderisora/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
+- [ravi-ojha/startuptoolbox](https://github.com/ravi-ojha/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
 - [leanflutter/awesome-flutter-desktop](https://github.com/leanflutter/awesome-flutter-desktop) - A curated list of awesome things related to Flutter desktop.
 - [colemickens/niche](https://github.com/colemickens/niche) - `niche` is a self-service nix binary cache tool that manages your signing key and wraps nix build to upload build products
 - [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing
@@ -2765,6 +2770,7 @@
 
 ## Rust 
 
+- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [ChrisLAS/blue-vault](https://github.com/ChrisLAS/blue-vault) - A production-quality TUI app to manage Blu-ray cold storage archives on Linux
 - [xzfc/cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
@@ -3003,6 +3009,8 @@
 
 ## Shell 
 
+- [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [Martchus/openQA-helper](https://github.com/Martchus/openQA-helper) - Scripts and documentation to ease openQA development
 - [vaaleyard/tmux-dotbar](https://github.com/vaaleyard/tmux-dotbar) - a simple and minimalist status bar theme for tmux ☯︎
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
