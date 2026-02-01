@@ -646,6 +646,7 @@
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [ConnectEverything/nats-by-example](https://github.com/ConnectEverything/nats-by-example) - Collection of runnable, reference examples using NATS (https://nats.io)
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [kalbasit/ncps](https://github.com/kalbasit/ncps) - Nix binary cache proxy service -- with local caching and signing.
@@ -678,6 +679,7 @@
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [diamondburned/nix-search](https://github.com/diamondburned/nix-search) - A Nix-channel-compatible package search
+- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
@@ -1512,7 +1514,6 @@
 ## Jinja 
 
 - [DataChefHQ/inception](https://github.com/DataChefHQ/inception) - DataChef's project kickstarter! Reproducible, Declarative and Reliable development environments.
-- [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 
 ## Jsonnet 
 
@@ -1999,7 +2000,6 @@
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
 - [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - the predecessor to nix-wrapper-modules#neovim
 - [tomodachi94/dotfiles](https://github.com/tomodachi94/dotfiles) - My dotfiles and NixOS configuration: nvim, zsh, i3, and more
-- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [7c6f434c/7c6f434c-configurations](https://github.com/7c6f434c/7c6f434c-configurations) - 
 - [solomon-b/nixos-config](https://github.com/solomon-b/nixos-config) - Homelab managed wtih Nix Flakes
 - [auvred/nixos-config](https://github.com/auvred/nixos-config) - ❄️ My NixOS config
@@ -2398,7 +2398,6 @@
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [zulip/zulip-archive](https://github.com/zulip/zulip-archive) - Generate a static HTML archive of messages in any combination of streams in a Zulip organization.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -2534,6 +2533,7 @@
 - [tapannallan/awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
 - [google/spatial-media](https://github.com/google/spatial-media) - Specifications and tools for 360º video and spatial audio.
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
+- [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [python-semver/python-semver](https://github.com/python-semver/python-semver) - Python package to work with Semantic Versioning (https://semver.org/)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
