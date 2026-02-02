@@ -2181,7 +2181,7 @@
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [claby2/make-tui](https://github.com/claby2/make-tui) - Display and run Makefile rules in the terminal
@@ -2369,7 +2369,7 @@
 - [veggiedefender/torrent-client](https://github.com/veggiedefender/torrent-client) - Tiny BitTorrent client written in Go
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [binwiederhier/pcopy](https://github.com/binwiederhier/pcopy) - pcopy is a temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [gen2brain/go-unarr](https://github.com/gen2brain/go-unarr) - Go bindings for unarr (decompression library for RAR, TAR, ZIP and 7z archives)
@@ -3456,7 +3456,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 
@@ -4476,7 +4476,7 @@
 - [matt1432/nixos-jellyfin](https://github.com/matt1432/nixos-jellyfin) - A NixOS module that extends the jellyfin service to configure its settings.
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
-- [Vagahbond/nix-config](https://github.com/Vagahbond/nix-config) - My attempt at an understandable, replicable, NixOS config. I use NixOS BTW.
+- [Vagahbond/nix-config](https://github.com/Vagahbond/nix-config) - My best attempt yet at a simple yet structured, clean, multi-host NixOS configuration. Built with Charpente.
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [NickCao/flakes](https://github.com/NickCao/flakes) - the deterministic
 - [NickCao/bandaid](https://github.com/NickCao/bandaid) - stick your file descriptors together
@@ -5860,6 +5860,7 @@
 ## react 
 
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [edvinlinden/killedby.tech](https://github.com/edvinlinden/killedby.tech) - DEPRECATED A graveyard for discontinued products and services from companies like Google, Apple and Microsoft.
