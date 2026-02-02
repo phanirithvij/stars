@@ -112,7 +112,6 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
-- [sindresorhus/windows-clipboard](https://github.com/sindresorhus/windows-clipboard) - Access the Windows clipboard (copy/paste)
 
 ## C 
 
@@ -736,7 +735,7 @@
 - [gabe565/gh-profile](https://github.com/gabe565/gh-profile) - :octocat: Use multiple GitHub accounts with the gh cli.
 - [s0rg/decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [binwiederhier/pcopy](https://github.com/binwiederhier/pcopy) - pcopy is a temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
 - [richardwilkes/toolbox](https://github.com/richardwilkes/toolbox) - Toolbox for Go
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
@@ -1979,7 +1978,7 @@
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
-- [Vagahbond/nix-config](https://github.com/Vagahbond/nix-config) - My attempt at an understandable, replicable, NixOS config. I use NixOS BTW.
+- [Vagahbond/nix-config](https://github.com/Vagahbond/nix-config) - My best attempt yet at a simple yet structured, clean, multi-host NixOS configuration. Built with Charpente.
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [knoc-off/nixos](https://github.com/knoc-off/nixos) - Nixos Dotfiles
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
@@ -2994,6 +2993,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sindresorhus/windows-wallpaper](https://github.com/sindresorhus/windows-wallpaper) - Manage the desktop wallpaper on Windows
+- [sindresorhus/windows-clipboard](https://github.com/sindresorhus/windows-clipboard) - Access the Windows clipboard (copy/paste)
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
