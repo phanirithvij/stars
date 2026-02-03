@@ -235,7 +235,7 @@
 - [Wauzmons/WauzMusicPlayer](https://github.com/Wauzmons/WauzMusicPlayer) - Audio Player and Manager for Windows 10
 - [contre/Windows-API-Code-Pack-1.1](https://github.com/contre/Windows-API-Code-Pack-1.1) - Windows API Code Pack 1.1
 - [adamsmith/WindowsLayoutSnapshot](https://github.com/adamsmith/WindowsLayoutSnapshot) - Windows app to remember + restore window positions
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [dragouf/CbrPdfConverter](https://github.com/dragouf/CbrPdfConverter) - A pdf&lt;=&gt;cbz converter fork from https://code.google.com/p/cbr-converter/
 - [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
@@ -1169,6 +1169,7 @@
 
 ## Java 
 
+- [woheller69/whisperIME](https://github.com/woheller69/whisperIME) - Android Input Method Editor (IME) based on Whisper
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [MuntashirAkon/libadb-android](https://github.com/MuntashirAkon/libadb-android) - ADB library for Android
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
@@ -2769,6 +2770,7 @@
 
 ## Rust 
 
+- [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - An experimental fork of the Determinate Nix Installer to explore upstreaming.
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [ChrisLAS/blue-vault](https://github.com/ChrisLAS/blue-vault) - A production-quality TUI app to manage Blu-ray cold storage archives on Linux
