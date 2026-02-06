@@ -2145,6 +2145,7 @@
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON, CSV, and TSV using SQL.
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
@@ -2325,6 +2326,7 @@
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON, CSV, and TSV using SQL.
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
@@ -3982,6 +3984,8 @@
 
 ## others 
 
+- [numtide/narwal](https://github.com/numtide/narwal) - Yet another attempt at garbage collecting the cache.nixos.org S3 bucket
+- [jzbor/nix-sweep](https://github.com/jzbor/nix-sweep) - Utility to clean up old Nix profile generations and left-over garbage collection roots
 - [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - An experimental fork of the Determinate Nix Installer to explore upstreaming.
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
