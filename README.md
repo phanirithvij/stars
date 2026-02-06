@@ -594,6 +594,7 @@
 
 ## Go 
 
+- [numtide/narwal](https://github.com/numtide/narwal) - Yet another attempt at garbage collecting the cache.nixos.org S3 bucket
 - [amitbet/vnc2video](https://github.com/amitbet/vnc2video) - A fully featured VNC client written in golang
 - [qbit/xin-status](https://github.com/qbit/xin-status) - A simple management tool for NixOS machines.
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
@@ -2770,6 +2771,7 @@
 
 ## Rust 
 
+- [jzbor/nix-sweep](https://github.com/jzbor/nix-sweep) - Utility to clean up old Nix profile generations and left-over garbage collection roots
 - [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - An experimental fork of the Determinate Nix Installer to explore upstreaming.
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
