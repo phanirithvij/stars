@@ -2327,6 +2327,7 @@
 
 ## Python 
 
+- [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [Aleksanaa/by-name-migrate](https://github.com/Aleksanaa/by-name-migrate) - 
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [repology/repology-rules](https://github.com/repology/repology-rules) - Package normalization ruleset for Repology
@@ -2874,7 +2875,7 @@
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [linyinfeng/oranc](https://github.com/linyinfeng/oranc) - OCI Registry As Nix Cache
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) - `$ mdsh` # a markdown shell pre-processor
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
@@ -3158,6 +3159,7 @@
 
 ## TypeScript 
 
+- [NotAShelf/nix-evaluator-stats](https://github.com/NotAShelf/nix-evaluator-stats) - 
 - [allure-framework/allure3](https://github.com/allure-framework/allure3) - Allure Report is a flexible multi-language test report tool to show you a detailed representation of what has been tested and extract maximum from the everyday execution of tests
 - [joaomoreno/gifcap](https://github.com/joaomoreno/gifcap) - Capture your screen to a GIF in your browser
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
