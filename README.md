@@ -1313,7 +1313,7 @@
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) - Browser extension that automatically notifies and redirects you to independent wikis.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
 - [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
@@ -2654,7 +2654,7 @@
 - [elcorto/imagecluster](https://github.com/elcorto/imagecluster) - Cluster images based on image content using a pre-trained deep neural network, optional time distance scaling and hierarchical clustering.
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [artyshko/smd](https://github.com/artyshko/smd) - Spotify Music Downloader
-- [irahorecka/youtube2audio](https://github.com/irahorecka/youtube2audio) - GUI application to download YouTube videos as annotated MP3 or MP4 files
+- [irahorecka/youtube2audio](https://github.com/irahorecka/youtube2audio) - Convert YouTube videos to annotated MP3 and MP4 files
 - [vimalloc/flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - An open source Flask extension that provides JWT support (with batteries included)!
 - [Eyra-is/Eyra](https://github.com/Eyra-is/Eyra) - 
 - [rootkiwi/an2linuxserver](https://github.com/rootkiwi/an2linuxserver) - Sync Android notifications encrypted to a Linux desktop
@@ -2772,6 +2772,7 @@
 
 ## Rust 
 
+- [Vigintillionn/niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) - A lightweight, external sidebar manager for the Niri window manager.
 - [jzbor/nix-sweep](https://github.com/jzbor/nix-sweep) - Utility to clean up old Nix profile generations and left-over garbage collection roots
 - [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - An fork of the Determinate Nix Installer.
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
