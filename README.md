@@ -799,7 +799,7 @@
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [bouk/babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish
-- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [plicit/scoop-search-multisource](https://github.com/plicit/scoop-search-multisource) - Searches Scoop buckets: local, remote, zip, html
