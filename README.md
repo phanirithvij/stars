@@ -649,6 +649,7 @@
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+- [kachick/nixpkgs-reviewing-workspace](https://github.com/kachick/nixpkgs-reviewing-workspace) - Personal GitHub Action and helper script to review nixpkgs in multiple platforms
 - [kalbasit/ncps](https://github.com/kalbasit/ncps) - Nix binary cache proxy service -- with local caching and signing.
 - [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
@@ -1905,7 +1906,6 @@
 - [emmanuelrosa/sumatrapdf-nix](https://github.com/emmanuelrosa/sumatrapdf-nix) - A Nix Flake for SumatraPDF
 - [grig-iv/nix-config](https://github.com/grig-iv/nix-config) - 
 - [allrealmsoflife/nix-hour-transcripts](https://github.com/allrealmsoflife/nix-hour-transcripts) - A collection of detailed transcripts from Nix Hour series, including all spoken content and code examples.
-- [kachick/nixpkgs-reviewing-workspace](https://github.com/kachick/nixpkgs-reviewing-workspace) - Personal GitHub Action and helper script to review nixpkgs in multiple platforms
 - [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku - Elegant NixOS rice centered around the Niri tiling window manager. A minimalist, functional environment built with the philosophy of constant refinement and transformation. This dotfiles co
 - [raexera/yuki](https://github.com/raexera/yuki) - Snowflake
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
