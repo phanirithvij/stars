@@ -668,7 +668,6 @@
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
-- [Fuwn/yae](https://github.com/Fuwn/yae) - ⛩️ Powerful yet Minimal Nix Dependency Manager
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
@@ -2574,7 +2573,6 @@
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [arkseal/crawlingathome-worker](https://github.com/arkseal/crawlingathome-worker) - 
 - [TheoCoombes/crawlingathome](https://github.com/TheoCoombes/crawlingathome) - A client library for LAION's effort to filter CommonCrawl with CLIP, building a large scale image-text dataset.
-- [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 - [christopher-roelofs/ComicTools](https://github.com/christopher-roelofs/ComicTools) - A set of tools for working with digital comics
 - [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people, characters and companies
 - [cyweb/hammer](https://github.com/cyweb/hammer) - Hammer DDos Script - Python 3
