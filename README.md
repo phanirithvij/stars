@@ -680,7 +680,6 @@
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [diamondburned/nix-search](https://github.com/diamondburned/nix-search) - A Nix-channel-compatible package search
-- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
@@ -1274,7 +1273,7 @@
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [anvaka/map-of-github-data](https://github.com/anvaka/map-of-github-data) - This repository contains tiles and data for the map of github
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -2001,6 +2000,7 @@
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
 - [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - the predecessor to nix-wrapper-modules#neovim
 - [tomodachi94/dotfiles](https://github.com/tomodachi94/dotfiles) - My dotfiles and NixOS configuration: nvim, zsh, i3, and more
+- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [7c6f434c/7c6f434c-configurations](https://github.com/7c6f434c/7c6f434c-configurations) - 
 - [solomon-b/nixos-config](https://github.com/solomon-b/nixos-config) - Homelab managed wtih Nix Flakes
 - [auvred/nixos-config](https://github.com/auvred/nixos-config) - ❄️ My NixOS config
