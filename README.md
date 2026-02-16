@@ -65,7 +65,6 @@
 - [Python](#python)
 - [QML](#qml)
 - [Ren'Py](#ren'py)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -204,6 +203,7 @@
 
 ## C# # 
 
+- [T0biasCZe/Lummich](https://github.com/T0biasCZe/Lummich) - 
 - [timkicker/podliner](https://github.com/timkicker/podliner) - Podcasts in any terminal. Fast, clean, offline.
 - [SebLague/Family-Time](https://github.com/SebLague/Family-Time) - Tiny game for the GMTK jam
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
@@ -1040,7 +1040,7 @@
 - [grandcat/zeroconf](https://github.com/grandcat/zeroconf) - mDNS / DNS-SD Service Discovery in pure Go (also known as Bonjour)
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [g3n/engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
@@ -2746,10 +2746,6 @@
 
 - [renpy/renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 
-## Roff 
-
-- [dustinkirkland/petname](https://github.com/dustinkirkland/petname) - 
-
 ## Ruby 
 
 - [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API
@@ -2774,7 +2770,6 @@
 - [Vigintillionn/niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) - A lightweight, external sidebar manager for the Niri window manager.
 - [jzbor/nix-sweep](https://github.com/jzbor/nix-sweep) - Utility to clean up old Nix profile generations and left-over garbage collection roots
 - [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - An fork of the Determinate Nix Installer.
-- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [ChrisLAS/blue-vault](https://github.com/ChrisLAS/blue-vault) - A production-quality TUI app to manage Blu-ray cold storage archives on Linux
 - [xzfc/cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
@@ -3043,6 +3038,7 @@
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [uglymagoo/plex-claim-server](https://github.com/uglymagoo/plex-claim-server) - 
 - [mrnugget/dotfiles](https://github.com/mrnugget/dotfiles) - My dotfiles, including configuration for zsh, tmux, psql
+- [dustinkirkland/petname](https://github.com/dustinkirkland/petname) - 
 - [vergoh/vnstat-docker](https://github.com/vergoh/vnstat-docker) - vnStat in a container with image output via http
 - [filmil/bazel_local_nix](https://github.com/filmil/bazel_local_nix) - Use a bazel-specific nix repository for hermetic builds
 - [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
@@ -3370,6 +3366,7 @@
 
 ## Zig 
 
+- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
 - [kristoff-it/bork](https://github.com/kristoff-it/bork) - A TUI chat client tailored for livecoding on Twitch.
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
