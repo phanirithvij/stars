@@ -175,7 +175,6 @@
 - [moritzbroe/terminal_minecraft](https://github.com/moritzbroe/terminal_minecraft) - 
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-- [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
@@ -594,6 +593,7 @@
 
 ## Go 
 
+- [mattrco/difftrace](https://github.com/mattrco/difftrace) - Parse and manipulate strace output for easier diffs
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [numtide/narwal](https://github.com/numtide/narwal) - Yet another attempt at garbage collecting the cache.nixos.org S3 bucket
 - [amitbet/vnc2video](https://github.com/amitbet/vnc2video) - A fully featured VNC client written in golang
@@ -1905,7 +1905,7 @@
 - [emmanuelrosa/sumatrapdf-nix](https://github.com/emmanuelrosa/sumatrapdf-nix) - A Nix Flake for SumatraPDF
 - [grig-iv/nix-config](https://github.com/grig-iv/nix-config) - 
 - [allrealmsoflife/nix-hour-transcripts](https://github.com/allrealmsoflife/nix-hour-transcripts) - A collection of detailed transcripts from Nix Hour series, including all spoken content and code examples.
-- [linuxmobile/kaku](https://github.com/linuxmobile/kaku) - 革 | kaku - Elegant NixOS rice centered around the Niri tiling window manager. A minimalist, functional environment built with the philosophy of constant refinement and transformation. This dotfiles co
+- [linuxmobile/shin](https://github.com/linuxmobile/shin) - A study in structural evolution. An elegant NixOS environment designed to move with the rhythm of your creative core.
 - [raexera/yuki](https://github.com/raexera/yuki) - Snowflake
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [numtide/nix-vm-test](https://github.com/numtide/nix-vm-test) - Re-use the NixOS VM test infrastructure to test Ubuntu, Debian, and Fedora machines.
@@ -3362,6 +3362,7 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [kidonng/scoop-docs](https://github.com/kidonng/scoop-docs) - 📚 Scoop documentation done right
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [shibukawa/spa-go-1.16](https://github.com/shibukawa/spa-go-1.16) - Go 1.16 embed + SPA example
 
 ## Zig 
