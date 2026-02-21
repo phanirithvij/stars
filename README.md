@@ -668,6 +668,7 @@
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
+- [Fuwn/yae](https://github.com/Fuwn/yae) - ⛩️ Powerful Yet Minimal Nix Dependency Manager
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
@@ -1728,7 +1729,7 @@
 - [MatthewCash/nixos-config](https://github.com/MatthewCash/nixos-config) - NixOS System Configurations
 - [vic/dendritic-unflake](https://github.com/vic/dendritic-unflake) - Example Dendritic Nix setup implemented **without** flakes nor flake-parts.
 - [noql-net/debs](https://github.com/noql-net/debs) - 
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
 - [lheckemann/cache-gc](https://github.com/lheckemann/cache-gc) - Extremely unpolished tool for garbage-collecting flat-file Nix binary caches.
 - [lheckemann/undrv](https://github.com/lheckemann/undrv) - cursed
 - [lheckemann/nixbuntu-samples](https://github.com/lheckemann/nixbuntu-samples) - 
