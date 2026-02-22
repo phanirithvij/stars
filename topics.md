@@ -4032,7 +4032,7 @@
 - [MatthewCash/nixos-config](https://github.com/MatthewCash/nixos-config) - NixOS System Configurations
 - [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together
 - [vic/dendritic-unflake](https://github.com/vic/dendritic-unflake) - Example Dendritic Nix setup implemented **without** flakes nor flake-parts.
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
+- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
 - [isabelroses/nixpkgs-prs-bot](https://github.com/isabelroses/nixpkgs-prs-bot) - nixpkgs prs bot
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [lheckemann/ssh-agent-notifier](https://github.com/lheckemann/ssh-agent-notifier) - 
@@ -4446,6 +4446,7 @@
 - [Qalculate/qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK UI
 - [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
+- [Fuwn/yae](https://github.com/Fuwn/yae) - ⛩️ Powerful Yet Minimal Nix Dependency Manager
 - [fawazahmed0/action-debug-vscode](https://github.com/fawazahmed0/action-debug-vscode) - Remote Access your GitHub Actions  via Browser Based VS Code
 - [ChrisLAS/nix](https://github.com/ChrisLAS/nix) - 
 - [vereis/nix-config](https://github.com/vereis/nix-config) - Nix Configuration
