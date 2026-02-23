@@ -1709,6 +1709,8 @@
 
 ## Nix 
 
+- [figsoda/drowse](https://github.com/figsoda/drowse) - Nix dynamic derivations made easy
+- [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
 - [andre4ik3/agefs](https://github.com/andre4ik3/agefs) - FUSE filesystem that decrypts age secrets on the fly
 - [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
 - [eljamm/composable-nix-templates](https://github.com/eljamm/composable-nix-templates) - Composable nix templates
@@ -2329,6 +2331,7 @@
 
 ## Python 
 
+- [rajatomar788/pywebcopy](https://github.com/rajatomar788/pywebcopy) - Locally saves webpages to your hard disk with images, css, js & links as is.
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [Aleksanaa/by-name-migrate](https://github.com/Aleksanaa/by-name-migrate) - 
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
