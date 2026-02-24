@@ -3990,6 +3990,7 @@
 
 ## others 
 
+- [cornelius/awesome-digital-sovereignty](https://github.com/cornelius/awesome-digital-sovereignty) - Curated list of resources about digital sovereignty
 - [figsoda/drowse](https://github.com/figsoda/drowse) - Nix dynamic derivations made easy
 - [mattrco/difftrace](https://github.com/mattrco/difftrace) - Parse and manipulate strace output for easier diffs
 - [T0biasCZe/Lummich](https://github.com/T0biasCZe/Lummich) - 
