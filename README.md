@@ -2587,7 +2587,7 @@
 - [eric-switzer/mtree-parse](https://github.com/eric-switzer/mtree-parse) - Parse output spec files from 'mtree' and do data management tasks
 - [lncrawl/lightnovel-crawler](https://github.com/lncrawl/lightnovel-crawler) - Generate and download e-books from online sources.
 - [scardine/image_size](https://github.com/scardine/image_size) - Get image width and height given a file path using minimal dependencies (no need for PIL, libjpeg, libpng, etc)
-- [code-rgb/USERGE-X](https://github.com/code-rgb/USERGE-X) - USERGE-X. What the X ?
+- [sh-himanshu/USERGE-X](https://github.com/sh-himanshu/USERGE-X) - USERGE-X. What the X ?
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - Telegram voice chat userbot made with Pyrogram and MarshalX/tgcalls with playlist support
 - [SpEcHiDe/Media-Search-bot](https://github.com/SpEcHiDe/Media-Search-bot) - Inline bot for searching channels, without using any external third party database
@@ -2773,6 +2773,8 @@
 
 ## Rust 
 
+- [DieracDelta/nix-btm](https://github.com/DieracDelta/nix-btm) - 
+- [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [Vigintillionn/niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) - A lightweight, external sidebar manager for the Niri window manager.
 - [jzbor/nix-sweep](https://github.com/jzbor/nix-sweep) - Utility to clean up old Nix profile generations and left-over garbage collection roots
 - [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - An fork of the Determinate Nix Installer.
