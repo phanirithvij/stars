@@ -2260,7 +2260,7 @@
 - [sp614x/optifine](https://github.com/sp614x/optifine) - 
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
+- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
 - [codepath/android_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -2587,7 +2587,7 @@
 - [eric-switzer/mtree-parse](https://github.com/eric-switzer/mtree-parse) - Parse output spec files from 'mtree' and do data management tasks
 - [lncrawl/lightnovel-crawler](https://github.com/lncrawl/lightnovel-crawler) - Generate and download e-books from online sources.
 - [scardine/image_size](https://github.com/scardine/image_size) - Get image width and height given a file path using minimal dependencies (no need for PIL, libjpeg, libpng, etc)
-- [sh-himanshu/USERGE-X](https://github.com/sh-himanshu/USERGE-X) - USERGE-X. What the X ?
+- [sh-himanshu/userge-x](https://github.com/sh-himanshu/userge-x) - Extensible Telegram UserBot that provides a modular plugin architecture for automating tasks, managing groups
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - Telegram voice chat userbot made with Pyrogram and MarshalX/tgcalls with playlist support
 - [SpEcHiDe/Media-Search-bot](https://github.com/SpEcHiDe/Media-Search-bot) - Inline bot for searching channels, without using any external third party database
@@ -3309,7 +3309,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [ax-design/reveal-highlight](https://github.com/ax-design/reveal-highlight) - Reveal Highlight Component of Axiom Design System for the Web.
-- [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
+- [nteract/archived-desktop-app](https://github.com/nteract/archived-desktop-app) - The old electron based nteract notebook
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
