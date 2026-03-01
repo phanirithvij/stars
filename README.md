@@ -463,7 +463,6 @@
 - [filiph/conference_darwin](https://github.com/filiph/conference_darwin) - A library for building conference schedules using a genetic algorithm.
 - [filiph/linkcheck](https://github.com/filiph/linkcheck) - Fast link checker
 - [filiph/unsure](https://github.com/filiph/unsure) - Unsure Calculator
-- [fastforgedev/fastforge](https://github.com/fastforgedev/fastforge) - The ultimate all-in-one Flutter application packaging and distribution tool, providing a seamless solution for all your distribution needs.
 - [2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) - Flutter Launch Timeline Demo
 - [roughike/inKino](https://github.com/roughike/inKino) - A multiplatform Dart movie app with 40% of code sharing between Flutter and the Web.
 - [BlassGO/AppManager-GUI](https://github.com/BlassGO/AppManager-GUI) - A multiplatform tool using ADB to effortlessly manage Android apps: extract icons, view app info, debloat, reinstall, and more with intuitive controls
@@ -1118,6 +1117,7 @@
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [skeeto/skeeto.github.com](https://github.com/skeeto/skeeto.github.com) - Personal website/blog
 - [charludo/telegram.graphics](https://github.com/charludo/telegram.graphics) - Chat anaylzer for the telegram-client.
+- [plamere/OrganizeYourMusic](https://github.com/plamere/OrganizeYourMusic) - Organize your saved music on Spotify
 - [ryanbradynd05/go-tmdb](https://github.com/ryanbradynd05/go-tmdb) - Golang Wrapper for TheMovieDB API
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [preslavrachev/generative-art-in-go](https://github.com/preslavrachev/generative-art-in-go) - A companion source code repository to the book "Generative Art in Go"
@@ -1373,7 +1373,6 @@
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
-- [plamere/OrganizeYourMusic](https://github.com/plamere/OrganizeYourMusic) - Organize your saved music on Spotify
 - [Cortys/comic-backup](https://github.com/Cortys/comic-backup) - Back up your comics as CBZ.
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [0ibaba/Google-Drive-Index](https://github.com/0ibaba/Google-Drive-Index) - Index Google Drive Files Easily and Free
@@ -2799,6 +2798,7 @@
 - [hey-adora/artbounty](https://github.com/hey-adora/artbounty) - 
 - [nix-community/namaka](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea [maintainer=@figsoda]
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
+- [fastforgedev/fastforge](https://github.com/fastforgedev/fastforge) - The ultimate all-in-one Flutter application packaging and distribution tool, providing a seamless solution for all your distribution needs.
 - [mcmah309/containeryard](https://github.com/mcmah309/containeryard) - ContainerYard is a declarative, reproducible, and reusable decentralized approach for defining containers.
 - [k3rs3d/ringfairy](https://github.com/k3rs3d/ringfairy) - 🧚 Static webring generator in Rust
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
@@ -3362,7 +3362,7 @@
 ## Vue 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [hiatus-hiatus/hiatus-hiatus.github.io](https://github.com/hiatus-hiatus/hiatus-hiatus.github.io) - The source code for the HxH hiatus chart.
 - [jurassicjs/nuxt3-docker-tut](https://github.com/jurassicjs/nuxt3-docker-tut) - Not maintained, just an example
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
