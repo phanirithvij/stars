@@ -94,6 +94,7 @@
 - [eslint](#eslint)
 - [ethereum](#ethereum)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -1833,6 +1834,11 @@
 - [KhunHtetzNaing/xGetter](https://github.com/KhunHtetzNaing/xGetter) - Android library for extract stream/download url from Google Drive,MegaUp,Google Photos,Mp4Upload,Facebook,Mediafire,Ok.Ru,VK,Twitter,Youtube,SolidFiles,Vidoza,UptoStream,SendVid,FanSubs,Uptobox,FEmbed
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 
+## fastapi 
+
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [Delitefully/spotify-canvas-downloader](https://github.com/Delitefully/spotify-canvas-downloader) - Tool to get Canvas cover videos from Spotify
+
 ## firebase 
 
 - [mdanics/fluttergram](https://github.com/mdanics/fluttergram) - A fully functional Instagram clone written in Flutter using Firebase / Firestore
@@ -2801,6 +2807,7 @@
 
 ## haskell 
 
+- [dwayne/elm2nix](https://github.com/dwayne/elm2nix) - A rewrite of cachix/elm2nix with a few changes and improvements.
 - [jeslie0/mkElmDerivation](https://github.com/jeslie0/mkElmDerivation) - A nix flake for simplifiying the packaging of elm projects, inspired by elm2nix.
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
 - [Vonfry/dotfiles](https://github.com/Vonfry/dotfiles) - vonfry's dotfiles.
@@ -3990,6 +3997,8 @@
 
 ## others 
 
+- [zulip/zulip-flutter](https://github.com/zulip/zulip-flutter) - Zulip mobile apps for Android and iOS, using Flutter.
+- [mpizenberg/elm-knowledge](https://github.com/mpizenberg/elm-knowledge) - Knowledge base to build Elm application
 - [DieracDelta/nix-btm](https://github.com/DieracDelta/nix-btm) - 
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [Z7G4N1U8/nixcfg](https://github.com/Z7G4N1U8/nixcfg) - 
