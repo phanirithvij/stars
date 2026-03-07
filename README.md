@@ -3299,7 +3299,7 @@
 - [codediodeio/angular-firestarter](https://github.com/codediodeio/angular-firestarter) - 🍱 :fire: Angular + Firebase Progressive Web App Starter
 - [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to HTML with syntax highlight and more...
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
-- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
 - [sonu27/sonurai.com](https://github.com/sonu27/sonurai.com) - 
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [AInoob/NooBox](https://github.com/AInoob/NooBox) - A Chrome Extension that contains useful tools
