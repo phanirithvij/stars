@@ -2029,7 +2029,7 @@
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [arvigeus/nixos-config](https://github.com/arvigeus/nixos-config) - 
 - [euank/yaml2nix](https://github.com/euank/yaml2nix) - 
-- [Guanran928/flake](https://github.com/Guanran928/flake) - knockoff of NickCao/flakes
+- [Guanran928/flake](https://github.com/Guanran928/flake) - Personal NixOS infra configuration
 - [kradalby/dotfiles](https://github.com/kradalby/dotfiles) - monorepo for everything in my tech life.
 - [workflow/dotfiles](https://github.com/workflow/dotfiles) - 💫 NixOS configuration files
 - [t184256/nix-configs](https://github.com/t184256/nix-configs) - My Nix configs and beyond. NixOS, Nix on Fedora, Nix-on-Droid.
@@ -2787,7 +2787,7 @@
 - [FliegendeWurst/nixpkgs-pr-build-bot](https://github.com/FliegendeWurst/nixpkgs-pr-build-bot) - Self-hosted ofborg/nixpkgs-review bot for nixpkgs
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
 - [linyinfeng/angrr](https://github.com/linyinfeng/angrr) - Auto Nix GC Root Retention
-- [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
+- [utensils/nxv](https://github.com/utensils/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [repology/repology-rs](https://github.com/repology/repology-rs) - Source code of all Repology components
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [neunenak/diskonaut](https://github.com/neunenak/diskonaut) - Terminal disk space navigator 🔭
