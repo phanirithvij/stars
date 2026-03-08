@@ -952,7 +952,7 @@
 
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
-- [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
+- [utensils/nxv](https://github.com/utensils/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
@@ -4558,7 +4558,7 @@
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes.
 - [arvigeus/nixos-config](https://github.com/arvigeus/nixos-config) - 
 - [euank/yaml2nix](https://github.com/euank/yaml2nix) - 
-- [Guanran928/flake](https://github.com/Guanran928/flake) - knockoff of NickCao/flakes
+- [Guanran928/flake](https://github.com/Guanran928/flake) - Personal NixOS infra configuration
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [MiepHD/cuscon](https://github.com/MiepHD/cuscon) - This icon pack adds variety and dynamism to your Home screen. With no background, each icon looks unique and breaks up the constant pattern of the grid.
 - [papanito/cheats](https://github.com/papanito/cheats) - Cheatsheets that work with https://github.com/denisidoro/navi
@@ -5465,7 +5465,7 @@
 
 ## package-manager 
 
-- [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
+- [utensils/nxv](https://github.com/utensils/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -5984,7 +5984,7 @@
 ## rust 
 
 - [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
-- [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
+- [utensils/nxv](https://github.com/utensils/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
 - [RohanAdwankar/newt](https://github.com/RohanAdwankar/newt) - A cross-language notebook terminal interface and server.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
@@ -6309,7 +6309,7 @@
 
 ## sqlite 
 
-- [jamesbrink/nxv](https://github.com/jamesbrink/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
+- [utensils/nxv](https://github.com/utensils/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
