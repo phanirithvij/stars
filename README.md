@@ -551,7 +551,7 @@
 
 ## Dockerfile 
 
-- [luislavena/homelab-headscale](https://github.com/luislavena/homelab-headscale) - Making it easy (for me) to deploy a production-ready Headscale setup to Fly.io
+- [luislavena/homelab-headscale](https://github.com/luislavena/homelab-headscale) - Making it easy (for me) to deploy a production-ready Headscale
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [void-linux/void-containers](https://github.com/void-linux/void-containers) - OCI container images for Void Linux
 - [ryansheehan/terraria](https://github.com/ryansheehan/terraria) - Dockerfile for terraria
