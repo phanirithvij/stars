@@ -4513,7 +4513,7 @@
 - [matt1432/nixos-configs](https://github.com/matt1432/nixos-configs) - Mirror of https://git.nelim.org/matt1432/nixos-configs
 - [AtaraxiaSjel/nixos-config](https://github.com/AtaraxiaSjel/nixos-config) - 
 - [heywoodlh/nixos-configs](https://github.com/heywoodlh/nixos-configs) - nixpkgs
-- [luislavena/homelab-headscale](https://github.com/luislavena/homelab-headscale) - Making it easy (for me) to deploy a production-ready Headscale setup to Fly.io
+- [luislavena/homelab-headscale](https://github.com/luislavena/homelab-headscale) - Making it easy (for me) to deploy a production-ready Headscale
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [bjornfor/nixos-config](https://github.com/bjornfor/nixos-config) - My NixOS configuration files. (This public mirror is not updated anymore.)
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
