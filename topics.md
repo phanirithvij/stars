@@ -63,7 +63,6 @@
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data](#data)
-- [data-analysis](#data-analysis)
 - [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
@@ -332,7 +331,6 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Spreadsheet with AI, Code, Connections
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
@@ -1349,24 +1347,17 @@
 
 ## data 
 
-- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Spreadsheet with AI, Code, Connections
 - [diffgram/diffgram](https://github.com/diffgram/diffgram) - The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data.
 - [jim-schwoebel/voicebook](https://github.com/jim-schwoebel/voicebook) - 🗣️ A book and repo to get you started programming voice computing applications in Python (10 chapters and 200+ scripts).
-
-## data-analysis 
-
-- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Spreadsheet with AI, Code, Connections
 
 ## data-engineering 
 
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
-- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Spreadsheet with AI, Code, Connections
 
 ## data-science 
 
 - [ericmiguel/jupyterlab-simpledark](https://github.com/ericmiguel/jupyterlab-simpledark) - A (growing) dark theme collection for JupyterLab.
 - [daconjam/Recommender-System-Datasets](https://github.com/daconjam/Recommender-System-Datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
-- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Spreadsheet with AI, Code, Connections
 - [imartinezl/knowledge-map](https://github.com/imartinezl/knowledge-map) - Knowledge Concept Map
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
@@ -1570,7 +1561,7 @@
 - [TophC7/dot.nix](https://github.com/TophC7/dot.nix) - Nix config for Homelab and PCs
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [vergoh/vnstat-docker](https://github.com/vergoh/vnstat-docker) - vnStat in a container with image output via http
@@ -3997,6 +3988,7 @@
 
 ## others 
 
+- [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [lisanna-dettwyler/nix-scheduler-hook](https://github.com/lisanna-dettwyler/nix-scheduler-hook) - Nix build hook that forwards builds to job schedulers.
 - [zulip/zulip-flutter](https://github.com/zulip/zulip-flutter) - Zulip mobile apps for Android and iOS, using Flutter.
 - [mpizenberg/elm-knowledge](https://github.com/mpizenberg/elm-knowledge) - Knowledge base to build Elm application
@@ -5723,7 +5715,6 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [Delitefully/spotify-canvas-downloader](https://github.com/Delitefully/spotify-canvas-downloader) - Tool to get Canvas cover videos from Spotify
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Spreadsheet with AI, Code, Connections
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [Yepoleb/gogdb](https://github.com/Yepoleb/gogdb) - Website that collects data on GOG games
@@ -5770,7 +5761,7 @@
 - [rhsimplex/image-match](https://github.com/rhsimplex/image-match) - 🎇 Quickly search over billions of images
 - [matsui528/sis](https://github.com/matsui528/sis) - Simple image search engine
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
@@ -6296,7 +6287,6 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
-- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Spreadsheet with AI, Code, Connections
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
@@ -6326,7 +6316,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
 
 ## stable-diffusion 
 
