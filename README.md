@@ -736,6 +736,7 @@
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
 - [chihaya/chihaya](https://github.com/chihaya/chihaya) - A customizable, multi-protocol BitTorrent Tracker
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [gabe565/gh-profile](https://github.com/gabe565/gh-profile) - :octocat: Use multiple GitHub accounts with the gh cli.
 - [s0rg/decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -1318,7 +1319,6 @@
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) - Browser extension that automatically notifies and redirects you to independent wikis.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
 - [lhotari/action-upterm](https://github.com/lhotari/action-upterm) - Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
@@ -2648,7 +2648,7 @@
 - [sethuiyer/Image-to-Image-Search](https://github.com/sethuiyer/Image-to-Image-Search) - A reverse image search engine powered by elastic search and tensorflow
 - [matsui528/sis](https://github.com/matsui528/sis) - Simple image search engine
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
 - [senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -2776,6 +2776,7 @@
 
 ## Rust 
 
+- [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [DieracDelta/nix-btm](https://github.com/DieracDelta/nix-btm) - 
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [Vigintillionn/niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) - A lightweight, external sidebar manager for the Niri window manager.
@@ -2981,7 +2982,6 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [quadratichq/quadratic](https://github.com/quadratichq/quadratic) - Spreadsheet with AI, Code, Connections
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [ckampfe/russ](https://github.com/ckampfe/russ) - A TUI RSS reader with vim-like controls and a local-first, offline-first focus
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
@@ -3021,6 +3021,7 @@
 
 ## Shell 
 
+- [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) - Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [Martchus/openQA-helper](https://github.com/Martchus/openQA-helper) - Scripts and documentation to ease openQA development
@@ -3204,7 +3205,7 @@
 - [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 - [nixosbrasil/nixpkgs-reviewd](https://github.com/nixosbrasil/nixpkgs-reviewd) - Bot to run nixpkgs-review on GitHub Actions triggered from Telegram
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
 - [pc035860/YCS-cont](https://github.com/pc035860/YCS-cont) - Chrome Extension: YCS. Search for comments and authors in YouTube videos
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [ocfox/nixpkgs-tracker](https://github.com/ocfox/nixpkgs-tracker) - Nixpkgs pr tracker, use Github API.
