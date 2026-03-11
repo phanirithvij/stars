@@ -783,6 +783,7 @@
 
 ## bash 
 
+- [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) - Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
@@ -5457,6 +5458,7 @@
 
 ## package-manager 
 
+- [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) - Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [utensils/nxv](https://github.com/utensils/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
