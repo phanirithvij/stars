@@ -787,7 +787,7 @@
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
@@ -3995,7 +3995,7 @@
 - [lisanna-dettwyler/nix-scheduler-hook](https://github.com/lisanna-dettwyler/nix-scheduler-hook) - Nix build hook that forwards builds to job schedulers.
 - [zulip/zulip-flutter](https://github.com/zulip/zulip-flutter) - Zulip mobile apps for Android and iOS, using Flutter.
 - [mpizenberg/elm-knowledge](https://github.com/mpizenberg/elm-knowledge) - Knowledge base to build Elm application
-- [DieracDelta/nix-btm](https://github.com/DieracDelta/nix-btm) - 
+- [DieracDelta/nix-btm](https://github.com/DieracDelta/nix-btm) - nix plugin + daemon + tui for global system monitoring of all nix activity
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [Z7G4N1U8/nixcfg](https://github.com/Z7G4N1U8/nixcfg) - 
 - [cornelius/awesome-digital-sovereignty](https://github.com/cornelius/awesome-digital-sovereignty) - Curated list of resources about digital sovereignty
@@ -5985,7 +5985,7 @@
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows mirroring external repositories to GitLab, GitHub and possibly more.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
@@ -6233,7 +6233,7 @@
 
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
@@ -7074,7 +7074,7 @@
 ## zsh 
 
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [raexera/yuki](https://github.com/raexera/yuki) - Snowflake
