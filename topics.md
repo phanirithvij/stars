@@ -1651,7 +1651,6 @@
 - [arilotter/dotfiles](https://github.com/arilotter/dotfiles) - my dotfiles for laptop, desktop, and beepy
 - [david-r-cox/nixos-config](https://github.com/david-r-cox/nixos-config) - Cross-platform NixOS + Home Manager configs
 - [jtojnar/nixfiles](https://github.com/jtojnar/nixfiles) - Nix configuration for the machines I manage.
-- [avelino/dotfiles](https://github.com/avelino/dotfiles) - personal files
 - [RossComputerGuy/dotfiles](https://github.com/RossComputerGuy/dotfiles) - My dotfiles for all of my Linux devices
 - [water-sucks/nixed](https://github.com/water-sucks/nixed) - [mirror] - i've nixed any chance I have at human interaction by building this config
 - [astratagem/dotfield](https://github.com/astratagem/dotfield) - All I see is little dots – some are smeared, and some are spots.
@@ -2129,7 +2128,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [christian-korneck/delete-run-artifacts-action](https://github.com/christian-korneck/delete-run-artifacts-action) - github action to delete artifacts at the end of a workflow run
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
-- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
+- [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 
 ## github-api 
