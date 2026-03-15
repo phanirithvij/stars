@@ -490,7 +490,6 @@
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 - [microsoft/surface-duo-sdk-samples-flutter](https://github.com/microsoft/surface-duo-sdk-samples-flutter) - flutter samples for Surface Duo
 - [flutter-tizen/flutter-tizen](https://github.com/flutter-tizen/flutter-tizen) - Flutter tools for Tizen
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [JaffaKetchup/dqoi](https://github.com/JaffaKetchup/dqoi) - A Dart implementation of the "Quite OK Image Format", with a command line interface for console use and a library for use in applications.
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
 - [go-flutter-desktop/examples](https://github.com/go-flutter-desktop/examples) - Examples for go-flutter
@@ -1370,7 +1369,6 @@
 - [rgrove/rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
-- [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [git-school/visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
 - [1j01/anypalette.js](https://github.com/1j01/anypalette.js) - 🎨 Read/write all color palette file formats ❤🧡💛💚💙💜
 - [antonycourtney/tabli](https://github.com/antonycourtney/tabli) - A Window and Tab Manager for Google Chrome
@@ -1577,6 +1575,7 @@
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Unofficial Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Works well with Syncplay on PC. Fully written in Kotlin and Compose multiplatform.
 - [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [trakt/showly](https://github.com/trakt/showly) - Showly is a modern and slick Movies and TV Shows manager.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
@@ -2209,7 +2208,6 @@
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [Arcanemagus/plex-api](https://github.com/Arcanemagus/plex-api) - Unofficial Plex API Documentation
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
-- [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [nono303/memcached](https://github.com/nono303/memcached) - 
@@ -2541,6 +2539,7 @@
 - [miurahr/py7zr](https://github.com/miurahr/py7zr) - 7zip in python3 with ZStandard, PPMd, LZMA2, LZMA1, Delta, BCJ, BZip2, and Deflate compressions, and AES encryption.
 - [alilleybrinker/langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration.
 - [tapannallan/awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
+- [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [google/spatial-media](https://github.com/google/spatial-media) - Specifications and tools for 360º video and spatial audio.
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
@@ -3267,6 +3266,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
+- [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) - A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
