@@ -462,7 +462,7 @@
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [Crazy-Marvin/ToDont](https://github.com/Crazy-Marvin/ToDont) - The reverse to-do list
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
 - [trebleshot/desktop](https://github.com/trebleshot/desktop) - An Open-Source file sharing software for Linux, macOS and Windows allowing you to send and receive files over available connections, and pause and resume transfer process even when an error is given
 - [trebleshot/android](https://github.com/trebleshot/android) - An open-source app that allows you to transfer files one to one securely or using a browser, all without the internet
@@ -1159,7 +1159,7 @@
 - [nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
@@ -1621,7 +1621,7 @@
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1659,7 +1659,7 @@
 - [davidtwco/veritas](https://github.com/davidtwco/veritas) - @davidtwco's deprecated personal mono-repo - containing the declarative configuration of servers, desktops and laptops - including dotfiles; a collection of packages; a static site generator and sourc
 - [linuxmobile/shin](https://github.com/linuxmobile/shin) - A study in structural evolution. An elegant NixOS environment designed to move with the rhythm of your creative core.
 - [raexera/yuki](https://github.com/raexera/yuki) - Snowflake
-- [ncfavier/config](https://github.com/ncfavier/config) - My NixOS configurations
+- [ncfavier/config](https://github.com/ncfavier/config) - Moved to https://codeberg.org/ncf/config
 - [utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix) - Comprehensive configurations of my NixOS workstations and home server.
 - [Eveeifyeve/Dotfiles](https://github.com/Eveeifyeve/Dotfiles) - Nix Configuration for Each Distro/OS
 - [massix/nixos](https://github.com/massix/nixos) - My NixOS configuration (WIP)
@@ -1892,7 +1892,6 @@
 - [flutter-tizen/flutter-tizen](https://github.com/flutter-tizen/flutter-tizen) - Flutter tools for Tizen
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [JaffaKetchup/dqoi](https://github.com/JaffaKetchup/dqoi) - A Dart implementation of the "Quite OK Image Format", with a command line interface for console use and a library for use in applications.
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
 - [go-flutter-desktop/examples](https://github.com/go-flutter-desktop/examples) - Examples for go-flutter
@@ -1936,7 +1935,6 @@
 - [TheAlphamerc/flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
 - [codenoid/pc-auth-notifier](https://github.com/codenoid/pc-auth-notifier) - Someone tried to unlock your device
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -2726,7 +2724,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [Dentrax/GMDB](https://github.com/Dentrax/GMDB) - GMDB is the ultra-simple, cross-platform Movie Library with Features (Search, Take Note, Watch Later, Like, Import, Learn, Instantly Torrent Magnet Watch)
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
@@ -3415,11 +3413,12 @@
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) - 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS)
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
@@ -3575,10 +3574,11 @@
 - [Tom94/tev](https://github.com/Tom94/tev) - High dynamic range (HDR) image viewer for people who care about colors
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) - 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS)
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [NSHipster/articles](https://github.com/NSHipster/articles) - Articles for NSHipster.com
@@ -4323,7 +4323,7 @@
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
 - [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing
-- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks,@Sporif]
+- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainers=@water-sucks,@Sporif]
 - [input-output-hk/capkgs](https://github.com/input-output-hk/capkgs) - Content Addressed Packages
 - [phil-r/awesome-til](https://github.com/phil-r/awesome-til) - :notebook: List of awesome TIL (Today I Learned) repos and websites
 - [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
@@ -6255,7 +6255,7 @@
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [cbucher/console](https://github.com/cbucher/console) - This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.
@@ -6476,7 +6476,7 @@
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
@@ -6944,7 +6944,7 @@
 - [spikespaz/search-deflector](https://github.com/spikespaz/search-deflector) - A small program that forwards searches from Cortana to your preferred browser and search engine.
 - [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
 - [rasa/scoop-directory](https://github.com/rasa/scoop-directory) - A searchable directory of buckets for the scoop package manager for Windows
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
