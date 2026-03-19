@@ -596,6 +596,7 @@
 
 ## Go 
 
+- [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.
 - [mattrco/difftrace](https://github.com/mattrco/difftrace) - Parse and manipulate strace output for easier diffs
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [numtide/narwal](https://github.com/numtide/narwal) - Yet another attempt at garbage collecting the cache.nixos.org S3 bucket
@@ -1573,7 +1574,7 @@
 - [SimpleMobileTools/Simple-Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
-- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Unofficial Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Works well with Syncplay on PC. Fully written in Kotlin and Compose multiplatform.
+- [yuroyami/syncplay-mobile](https://github.com/yuroyami/syncplay-mobile) - 📱 Syncplay Mobile (aka Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.
 - [ligi/SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
@@ -1712,6 +1713,7 @@
 
 ## Nix 
 
+- [ngi-nix/ngi-nix-forge](https://github.com/ngi-nix/ngi-nix-forge) - New experimental NGI apps repository
 - [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
 - [Z7G4N1U8/nixcfg](https://github.com/Z7G4N1U8/nixcfg) - 
 - [figsoda/drowse](https://github.com/figsoda/drowse) - Nix dynamic derivations made easy
@@ -2402,7 +2404,7 @@
 - [Saik0s/mcp-browser-use](https://github.com/Saik0s/mcp-browser-use) - 
 - [mifka01/cache-server](https://github.com/mifka01/cache-server) - A self-hostable, distributed Nix binary cache server with flexible storage strategies
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
