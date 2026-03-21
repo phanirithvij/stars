@@ -1463,6 +1463,7 @@
 
 ## developer-tools 
 
+- [vic/nix-versions](https://github.com/vic/nix-versions) - Search nix packages versions - and minimalist devshell and version manager built on nix - Flake generator for version pinned packages.
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [nix-community/nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix [maintainer=@jmgilman]
