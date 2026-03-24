@@ -1716,7 +1716,7 @@
 ## Nix 
 
 - [MatthewCroughan/nixos-musl](https://github.com/MatthewCroughan/nixos-musl) - a tracking flake for musl/llvm support in nixpkgs
-- [ngi-nix/ngi-nix-forge](https://github.com/ngi-nix/ngi-nix-forge) - New experimental NGI apps repository
+- [ngi-nix/forge](https://github.com/ngi-nix/forge) - New experimental NGI apps repository
 - [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
 - [Z7G4N1U8/nixcfg](https://github.com/Z7G4N1U8/nixcfg) - 
 - [figsoda/drowse](https://github.com/figsoda/drowse) - Nix dynamic derivations made easy
@@ -2060,7 +2060,7 @@
 - [kachick/dotfiles](https://github.com/kachick/dotfiles) - 🤤✂🌳 || 😩 🪒🦬
 - [erictossell/nixflakes](https://github.com/erictossell/nixflakes) - My nixdots, but flaked.
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
-- [zackartz/nixos-dots](https://github.com/zackartz/nixos-dots) - my personal nixos dotfiles c:
+- [zoeyycodes/nixos-dots](https://github.com/zoeyycodes/nixos-dots) - my personal nixos dotfiles c:
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [tars0x9752/home](https://github.com/tars0x9752/home) - My nix configs/dotfiles.
@@ -2407,7 +2407,7 @@
 - [Saik0s/mcp-browser-use](https://github.com/Saik0s/mcp-browser-use) - 
 - [mifka01/cache-server](https://github.com/mifka01/cache-server) - A self-hostable, distributed Nix binary cache server with flexible storage strategies
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
@@ -2586,6 +2586,7 @@
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [arkseal/crawlingathome-worker](https://github.com/arkseal/crawlingathome-worker) - 
 - [TheoCoombes/crawlingathome](https://github.com/TheoCoombes/crawlingathome) - A client library for LAION's effort to filter CommonCrawl with CLIP, building a large scale image-text dataset.
+- [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 - [christopher-roelofs/ComicTools](https://github.com/christopher-roelofs/ComicTools) - A set of tools for working with digital comics
 - [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people, characters and companies
 - [cyweb/hammer](https://github.com/cyweb/hammer) - Hammer DDos Script - Python 3
