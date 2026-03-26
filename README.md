@@ -2132,7 +2132,6 @@
 - [AnimMouse/NixOS-ISO-Torrents](https://github.com/AnimMouse/NixOS-ISO-Torrents) - NixOS ISO Torrents
 - [sfermigier/awesome-foss-alternatives](https://github.com/sfermigier/awesome-foss-alternatives) - Awesome Free / Open Source Alternatives (to common SaaS products) for Business Use
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
-- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [vorburger/vorburger.ch-Notes](https://github.com/vorburger/vorburger.ch-Notes) - Public Blog like Notes like Trip Report et al by http://www.vorburger.ch
 - [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
 - [nrdxp/rfc-evidence](https://github.com/nrdxp/rfc-evidence) - 
@@ -2146,7 +2145,6 @@
 - [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ravi-ojha/startuptoolbox](https://github.com/ravi-ojha/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
 - [leanflutter/awesome-flutter-desktop](https://github.com/leanflutter/awesome-flutter-desktop) - A curated list of awesome things related to Flutter desktop.
 - [colemickens/niche](https://github.com/colemickens/niche) - `niche` is a self-service nix binary cache tool that manages your signing key and wraps nix build to upload build products
