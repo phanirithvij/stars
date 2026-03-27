@@ -598,13 +598,13 @@
 
 ## Go 
 
+- [Vigilant-LLC/runner-guard](https://github.com/Vigilant-LLC/runner-guard) - The first CI/CD scanner to detect AI coding agent attack vectors — Claude,  Cursor, Copilot, MCP config hijacking, plus full source→sink injection  and auto-fix for GitHub Actions.
 - [vic/nix-versions](https://github.com/vic/nix-versions) - Search nix packages versions - and minimalist devshell and version manager built on nix - Flake generator for version pinned packages.
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.
 - [mattrco/difftrace](https://github.com/mattrco/difftrace) - Parse and manipulate strace output for easier diffs
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [numtide/narwal](https://github.com/numtide/narwal) - Yet another attempt at garbage collecting the cache.nixos.org S3 bucket
 - [amitbet/vnc2video](https://github.com/amitbet/vnc2video) - A fully featured VNC client written in golang
-- [qbit/xin-status](https://github.com/qbit/xin-status) - A simple management tool for NixOS machines.
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON and CSV using SQL.
@@ -645,7 +645,6 @@
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
 - [picosh/git-pr](https://github.com/picosh/git-pr) - A pastebin supercharged for git collaboration
-- [qbit/mcchunkie](https://github.com/qbit/mcchunkie) - 
 - [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainers=@water-sucks,@Sporif]
@@ -1888,7 +1887,6 @@
 - [NixOS/flake-compat](https://github.com/NixOS/flake-compat) - 
 - [k1ng440/dotfiles.nix](https://github.com/k1ng440/dotfiles.nix) - 
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
-- [qbit/xin](https://github.com/qbit/xin) - My nix setup
 - [dfangx/nixos-config](https://github.com/dfangx/nixos-config) - 
 - [HexF/dotfiles](https://github.com/HexF/dotfiles) - My dotfiles
 - [RossComputerGuy/dotfiles](https://github.com/RossComputerGuy/dotfiles) - My dotfiles for all of my Linux devices
