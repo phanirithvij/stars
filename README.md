@@ -268,6 +268,7 @@
 
 ## C++ 
 
+- [hoytech/strfry](https://github.com/hoytech/strfry) - a nostr relay
 - [lisanna-dettwyler/nix-scheduler-hook](https://github.com/lisanna-dettwyler/nix-scheduler-hook) - Nix build hook that forwards builds to job schedulers.
 - [TiesPetersen/FloorSweepingOptimizer](https://github.com/TiesPetersen/FloorSweepingOptimizer) - A C++ optimizer that generates efficient floor sweeping routes on grid maps with obstacles using simulated annealing.
 - [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui) - A JSON terminal UI made in C++
@@ -676,7 +677,7 @@
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [Fuwn/yae](https://github.com/Fuwn/yae) - ⛩️ Powerful Yet Minimal Nix Dependency Manager
-- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems
@@ -738,7 +739,7 @@
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [chihaya/chihaya](https://github.com/chihaya/chihaya) - A customizable, multi-protocol BitTorrent Tracker
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [gabe565/gh-profile](https://github.com/gabe565/gh-profile) - :octocat: Use multiple GitHub accounts with the gh cli.
@@ -1931,7 +1932,7 @@
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
 - [percygt/nix-dots](https://github.com/percygt/nix-dots) - My personal nixos config
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
-- [massix/nixos](https://github.com/massix/nixos) - My NixOS configuration (WIP)
+- [massix/nixos](https://github.com/massix/nixos) - My NixOS configuration
 - [eraserhd/dotfiles](https://github.com/eraserhd/dotfiles) - 
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [lobre/nix-home](https://github.com/lobre/nix-home) - NixOS and Home Manager configurations.
@@ -3174,6 +3175,7 @@
 
 ## TypeScript 
 
+- [CodyTseng/jumble](https://github.com/CodyTseng/jumble) - A user-friendly Nostr client for exploring relay feeds
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [NotAShelf/nix-evaluator-stats](https://github.com/NotAShelf/nix-evaluator-stats) - 
 - [allure-framework/allure3](https://github.com/allure-framework/allure3) - Allure Report is a flexible multi-language test report tool to show you a detailed representation of what has been tested and extract maximum from the everyday execution of tests
