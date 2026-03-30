@@ -30,6 +30,7 @@
 - [backend](#backend)
 - [bash](#bash)
 - [beginner-project](#beginner-project)
+- [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
@@ -819,6 +820,10 @@
 ## beginner-project 
 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## bitcoin 
+
+- [CodyTseng/jumble](https://github.com/CodyTseng/jumble) - A user-friendly Nostr client for exploring relay feeds
 
 ## blockchain 
 
@@ -1683,7 +1688,7 @@
 - [ncfavier/config](https://github.com/ncfavier/config) - Moved to https://codeberg.org/ncf/config
 - [utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix) - Comprehensive configurations of my NixOS workstations and home server.
 - [Eveeifyeve/Dotfiles](https://github.com/Eveeifyeve/Dotfiles) - Nix Configuration for Each Distro/OS
-- [massix/nixos](https://github.com/massix/nixos) - My NixOS configuration (WIP)
+- [massix/nixos](https://github.com/massix/nixos) - My NixOS configuration
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [davidak/nixos-config](https://github.com/davidak/nixos-config) - NixOS configurations for server and desktop systems, including user specific config. with Home Manager
 - [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - ❄️ My NixOS, macOS and home-manager configurations
@@ -2199,7 +2204,7 @@
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
@@ -4019,6 +4024,7 @@
 
 ## others 
 
+- [hoytech/strfry](https://github.com/hoytech/strfry) - a nostr relay
 - [Vigilant-LLC/runner-guard](https://github.com/Vigilant-LLC/runner-guard) - The first CI/CD scanner to detect AI coding agent attack vectors — Claude,  Cursor, Copilot, MCP config hijacking, plus full source→sink injection  and auto-fix for GitHub Actions.
 - [2walker2/Astral-Codex](https://github.com/2walker2/Astral-Codex) - A fan-made expansion exploring the origin of The Interloper (EN,JP,CN,RU,FR,KO,IT). @;{&&lt; ?/ })& ?]["[/;| *?/*&+} (?] &?}&
 - [DeterminateSystems/nix-wasm-rust](https://github.com/DeterminateSystems/nix-wasm-rust) - Bindings for writing Nix builtins in Rust
@@ -5621,7 +5627,7 @@
 ## productivity 
 
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
-- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -5671,6 +5677,7 @@
 
 ## pwa 
 
+- [CodyTseng/jumble](https://github.com/CodyTseng/jumble) - A user-friendly Nostr client for exploring relay feeds
 - [tomayac/fugu-greetings](https://github.com/tomayac/fugu-greetings) - A sample app that features a lot of Project Fugu 🐡 APIs.
 - [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -5917,6 +5924,7 @@
 
 ## react 
 
+- [CodyTseng/jumble](https://github.com/CodyTseng/jumble) - A user-friendly Nostr client for exploring relay feeds
 - [ow-mods/ow-mod-man](https://github.com/ow-mods/ow-mod-man) - The mod manager for the Outer Wilds Mod Loader
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
