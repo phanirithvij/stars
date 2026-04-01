@@ -1094,6 +1094,7 @@
 - [rascal999/maxos-legacy](https://github.com/rascal999/maxos-legacy) - Pentest focused NixOS config
 - [Azeirah/nix-deps-treemap](https://github.com/Azeirah/nix-deps-treemap) - Visualize your nix derivation dependency graph as an interactive treemap
 - [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡
+- [vorburger/blog](https://github.com/vorburger/blog) - My Public Blog like Notes like Trip Report et al.
 - [thedoggybrad/WindowsPEBasicEnhanced](https://github.com/thedoggybrad/WindowsPEBasicEnhanced) - Windows PE Basic Enhanced is a portable Windows recovery, deployment, troubleshooting and diagnostic tool that is based from Windows 11 PE version 24H2 (Windows ADK May 2024).
 - [capjamesg/cv-book-svg](https://github.com/capjamesg/cv-book-svg) - Turn an image of a bookshelf into an interactive SVG.
 - [GrapheneOS/adevtool](https://github.com/GrapheneOS/adevtool) - Android device support and bringup tool, designed for maximum automation and speed.
@@ -1308,7 +1309,6 @@
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [tomayac/fugu-greetings](https://github.com/tomayac/fugu-greetings) - A sample app that features a lot of Project Fugu 🐡 APIs.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [simov/stars](https://github.com/simov/stars) - GitHub Stars History and Stats
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
@@ -1837,7 +1837,7 @@
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs for my devices. dotfiles, but way better
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
-- [finix-community/finix](https://github.com/finix-community/finix) - An experimental os, featuring finit as pid 1, to explore the NixOS design space
+- [finix-community/finix](https://github.com/finix-community/finix) - A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space
 - [Gerg-L/mnw](https://github.com/Gerg-L/mnw) - Minimal Neovim Wrapper
 - [TRPB/evict](https://github.com/TRPB/evict) - Evict dotfiles from your home directory
 - [Hjdskes/system](https://github.com/Hjdskes/system) - My Nixified system configurations
@@ -1878,7 +1878,6 @@
 - [arilotter/dotfiles](https://github.com/arilotter/dotfiles) - my dotfiles for laptop, desktop, and beepy
 - [jD91mZM2/dotfiles](https://github.com/jD91mZM2/dotfiles) - Literally just my "dotfiles" (except most don't even have dots in front of them). Not interesting, but 'kay.
 - [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or's Nix-powered "IT infrastructure" repository
-- [david-r-cox/nixos-config](https://github.com/david-r-cox/nixos-config) - Cross-platform NixOS + Home Manager configs
 - [jtojnar/nixfiles](https://github.com/jtojnar/nixfiles) - Nix configuration for the machines I manage.
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
 - [figsoda/utf8](https://github.com/figsoda/utf8) - UTF-8 support for Nix
@@ -1958,6 +1957,7 @@
 - [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - ❄️ My NixOS, macOS and home-manager configurations
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) - Run graphics accelerated programs built with Nix on any Linux distribution.
+- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal effort.
 - [tomberek/nix-runner](https://github.com/tomberek/nix-runner) - Docker wrapper around Nix runtime
 - [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
 - [jpetrucciani/nix](https://github.com/jpetrucciani/nix) - ❄️ my nix modules, overlays, host configurations, and more!
@@ -2048,7 +2048,7 @@
 - [infinisil/system](https://github.com/infinisil/system) - My system configuration
 - [serokell/nix-templates](https://github.com/serokell/nix-templates) - Nix Flake templates for various languages
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
@@ -2130,7 +2130,6 @@
 - [AnimMouse/NixOS-ISO-Torrents](https://github.com/AnimMouse/NixOS-ISO-Torrents) - NixOS ISO Torrents
 - [sfermigier/awesome-foss-alternatives](https://github.com/sfermigier/awesome-foss-alternatives) - Awesome Free / Open Source Alternatives (to common SaaS products) for Business Use
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
-- [vorburger/vorburger.ch-Notes](https://github.com/vorburger/vorburger.ch-Notes) - Public Blog like Notes like Trip Report et al by http://www.vorburger.ch
 - [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
 - [nrdxp/rfc-evidence](https://github.com/nrdxp/rfc-evidence) - 
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
@@ -2535,7 +2534,7 @@
 - [andrewzlee/NeuralBlock](https://github.com/andrewzlee/NeuralBlock) - Neural Network that detects in-video YouTube sponsorships.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [diffgram/diffgram](https://github.com/diffgram/diffgram) - The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data.
 - [NaturalHistoryMuseum/pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar) - Read one-dimensional barcodes and QR codes from Python 2 and 3.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -2575,7 +2574,6 @@
 - [jsergio123/script.module.resolveurl](https://github.com/jsergio123/script.module.resolveurl) - Fork of the UrlResolver from tknorris
 - [JimmXinu/FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
 - [mCodingLLC/VideosSampleCode](https://github.com/mCodingLLC/VideosSampleCode) - Code from the mCoding sample videos
-- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [corkami/mitra](https://github.com/corkami/mitra) - A generator of weird files (binary polyglots, near polyglots, polymocks...)
 - [DohanKim/Screen_Rotator_for_Windows](https://github.com/DohanKim/Screen_Rotator_for_Windows) - Tray application to rotate screen in Windows
@@ -3377,6 +3375,7 @@
 ## Vue 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [hiatus-hiatus/hiatus-hiatus.github.io](https://github.com/hiatus-hiatus/hiatus-hiatus.github.io) - The source code for the HxH hiatus chart.
 - [jurassicjs/nuxt3-docker-tut](https://github.com/jurassicjs/nuxt3-docker-tut) - Not maintained, just an example
