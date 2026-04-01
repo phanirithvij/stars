@@ -671,7 +671,7 @@
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [tapannallan/awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
@@ -4171,7 +4171,7 @@
 - [imincik/nix-forge](https://github.com/imincik/nix-forge) - Simplified Nix packaging with maximum added value.
 - [richen604/hydenix](https://github.com/richen604/hydenix) - a nixos implementation of hyprdots, a HyDE dotfiles configuration
 - [divnix/quick-nix-registry](https://github.com/divnix/quick-nix-registry) - Speed up the Nix registry by caching nixpkgs locally
-- [vorburger/blog](https://github.com/vorburger/blog) - Public Blog like Notes like Trip Report et al by http://www.vorburger.ch
+- [vorburger/blog](https://github.com/vorburger/blog) - My Public Blog like Notes like Trip Report et al.
 - [lopsided98/nixos-config](https://github.com/lopsided98/nixos-config) - Configuration for my NixOS machines
 - [lopsided98/nix-ros-overlay](https://github.com/lopsided98/nix-ros-overlay) - ROS overlay for the Nix package manager
 - [jutraim/niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell) - A very segsy desktop shell ported to niri wm.
@@ -4267,7 +4267,7 @@
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [cgsecurity/testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
-- [finix-community/finix](https://github.com/finix-community/finix) - An experimental os, featuring finit as pid 1, to explore the NixOS design space
+- [finix-community/finix](https://github.com/finix-community/finix) - A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space
 - [Gerg-L/mnw](https://github.com/Gerg-L/mnw) - Minimal Neovim Wrapper
 - [TRPB/evict](https://github.com/TRPB/evict) - Evict dotfiles from your home directory
 - [rdalbuquerque/viewsearch](https://github.com/rdalbuquerque/viewsearch) - Bubbletea's viewport with vim-like search feature
@@ -4615,7 +4615,7 @@
 - [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes.
 - [serokell/nix-templates](https://github.com/serokell/nix-templates) - Nix Flake templates for various languages
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
@@ -5764,7 +5764,7 @@
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [miurahr/py7zr](https://github.com/miurahr/py7zr) - 7zip in python3 with ZStandard, PPMd, LZMA2, LZMA1, Delta, BCJ, BZip2, and Deflate compressions, and AES encryption.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
