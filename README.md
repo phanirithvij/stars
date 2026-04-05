@@ -600,6 +600,7 @@
 
 ## Go 
 
+- [fiatjaf/njump](https://github.com/fiatjaf/njump) - a Nostr-to-web HTML and OpenGraph gateway
 - [Vigilant-LLC/runner-guard](https://github.com/Vigilant-LLC/runner-guard) - The first CI/CD scanner to detect AI coding agent attack vectors — Claude,  Cursor, Copilot, MCP config hijacking, plus full source→sink injection  and auto-fix for GitHub Actions.
 - [vic/nix-versions](https://github.com/vic/nix-versions) - Search nix packages versions - and minimalist devshell and version manager built on nix - Flake generator for version pinned packages.
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.
@@ -1283,6 +1284,7 @@
 
 ## JavaScript 
 
+- [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [anvaka/map-of-github-data](https://github.com/anvaka/map-of-github-data) - This repository contains tiles and data for the map of github
@@ -1553,6 +1555,8 @@
 
 ## Kotlin 
 
+- [KoalaSat/samiz](https://github.com/KoalaSat/samiz) - BLE mesh for nostr notes when the internet is down
+- [fiatjaf/topaz](https://github.com/fiatjaf/topaz) - a nostr relay for android
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [httptoolkit/httptoolkit-android](https://github.com/httptoolkit/httptoolkit-android) - Automatic Android interception & debugging with HTTP Toolkit, for Android
 - [regulad/SupIR](https://github.com/regulad/SupIR) - SupIR is an open-source general-purpose IR blaster for Android using the irdb database. Inspired by the now-abandoned AndroidInfraRed, SupIR puts the power of a Universal Remote or a Flipper Zero in y
@@ -1718,6 +1722,7 @@
 
 ## Nix 
 
+- [MatthewCroughan/nix-dropper-bundle](https://github.com/MatthewCroughan/nix-dropper-bundle) - Bundlers to drop software onto systems, for good or bad intent
 - [MatthewCroughan/nixos-musl](https://github.com/MatthewCroughan/nixos-musl) - a tracking flake for musl/llvm support in nixpkgs
 - [ngi-nix/forge](https://github.com/ngi-nix/forge) - New experimental NGI apps repository
 - [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
@@ -2122,6 +2127,8 @@
 
 ## Others 
 
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+- [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
 - [mpizenberg/elm-knowledge](https://github.com/mpizenberg/elm-knowledge) - Knowledge base to build Elm application
 - [cornelius/awesome-digital-sovereignty](https://github.com/cornelius/awesome-digital-sovereignty) - Curated list of resources about digital sovereignty
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 40% faster, and unlimited caching. Best alternative to Actions Runner Controller.
@@ -3031,6 +3038,7 @@
 
 ## Shell 
 
+- [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) - Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [Martchus/openQA-helper](https://github.com/Martchus/openQA-helper) - Scripts and documentation to ease openQA development
