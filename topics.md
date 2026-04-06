@@ -378,6 +378,7 @@
 
 ## android 
 
+- [HomuHomu833/android-ndk-custom](https://github.com/HomuHomu833/android-ndk-custom) - Android NDK with custom LLVM built using various libc's, supporting multiple architectures and platforms.
 - [KoalaSat/samiz](https://github.com/KoalaSat/samiz) - BLE mesh for nostr notes when the internet is down
 - [woheller69/whisperIME](https://github.com/woheller69/whisperIME) - Android Input Method Editor (IME) based on Whisper
 - [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
@@ -395,7 +396,6 @@
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
-- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
@@ -1910,7 +1910,6 @@
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [KhoaSuperman/findseat](https://github.com/KhoaSuperman/findseat) - A Completed Functional Flutter App - FindSeat (BLoC + Json API + Unit Test + Firebase Auth)
 - [leanflutter/awesome-flutter-desktop](https://github.com/leanflutter/awesome-flutter-desktop) - A curated list of awesome things related to Flutter desktop.
-- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [mdanics/fluttergram](https://github.com/mdanics/fluttergram) - A fully functional Instagram clone written in Flutter using Firebase / Firestore
@@ -2971,7 +2970,6 @@
 - [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [arafaysaleem/ez_tickets_app](https://github.com/arafaysaleem/ez_tickets_app) - A cinema ticket booking app made with Flutter SDK
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
-- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
@@ -3347,6 +3345,7 @@
 
 ## linux 
 
+- [HomuHomu833/android-ndk-custom](https://github.com/HomuHomu833/android-ndk-custom) - Android NDK with custom LLVM built using various libc's, supporting multiple architectures and platforms.
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [rascal999/maxos-legacy](https://github.com/rascal999/maxos-legacy) - Pentest focused NixOS config
 - [dominicegginton/dotfiles](https://github.com/dominicegginton/dotfiles) - Declarative system, package & home environment configurations - WIP Always.
@@ -4040,7 +4039,7 @@
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
 - [valeoai/ZS3](https://github.com/valeoai/ZS3) - Zero-Shot Semantic Segmentation
 - [hoytech/strfry](https://github.com/hoytech/strfry) - a nostr relay
-- [Vigilant-LLC/runner-guard](https://github.com/Vigilant-LLC/runner-guard) - The first CI/CD scanner to detect AI coding agent attack vectors — Claude,  Cursor, Copilot, MCP config hijacking, plus full source→sink injection  and auto-fix for GitHub Actions.
+- [Vigilant-LLC/runner-guard](https://github.com/Vigilant-LLC/runner-guard) - CI/CD supply chain security scanner for GitHub Actions — source-to-sink injection, AI agent config poisoning, steganography, compromised package detection, batch scanning, and auto-fix.
 - [2walker2/Astral-Codex](https://github.com/2walker2/Astral-Codex) - A fan-made expansion exploring the origin of The Interloper (EN,JP,CN,RU,FR,KO,IT). @;{&&lt; ?/ })& ?]["[/;| *?/*&+} (?] &?}&
 - [DeterminateSystems/nix-wasm-rust](https://github.com/DeterminateSystems/nix-wasm-rust) - Bindings for writing Nix builtins in Rust
 - [MatthewCroughan/nixos-musl](https://github.com/MatthewCroughan/nixos-musl) - a tracking flake for musl/llvm support in nixpkgs
@@ -6234,7 +6233,6 @@
 - [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) - A plugin which brings broadcasts to gotify.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod
-- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [asciimoo/omnom](https://github.com/asciimoo/omnom) - A web content preservation service
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -6557,6 +6555,7 @@
 
 ## termux 
 
+- [HomuHomu833/android-ndk-custom](https://github.com/HomuHomu833/android-ndk-custom) - Android NDK with custom LLVM built using various libc's, supporting multiple architectures and platforms.
 - [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 - [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
 - [termux-pacman/termux-packages](https://github.com/termux-pacman/termux-packages) - A build system and primary set of packages in format pacman for Termux.
@@ -6960,6 +6959,7 @@
 
 ## windows 
 
+- [HomuHomu833/android-ndk-custom](https://github.com/HomuHomu833/android-ndk-custom) - Android NDK with custom LLVM built using various libc's, supporting multiple architectures and platforms.
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [QubesOS/qvm-create-windows-qube](https://github.com/QubesOS/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
@@ -7107,6 +7107,8 @@
 
 ## zig 
 
+- [lalinsky/nats.zig](https://github.com/lalinsky/nats.zig) - A Zig client library for NATS
+- [HomuHomu833/android-ndk-custom](https://github.com/HomuHomu833/android-ndk-custom) - Android NDK with custom LLVM built using various libc's, supporting multiple architectures and platforms.
 - [Lulzx/zs3](https://github.com/Lulzx/zs3) - S3-compatible storage in Zig. Zero dependencies.
 - [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
