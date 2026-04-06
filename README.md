@@ -114,6 +114,7 @@
 
 ## C 
 
+- [HomuHomu833/android-ndk-custom](https://github.com/HomuHomu833/android-ndk-custom) - Android NDK with custom LLVM built using various libc's, supporting multiple architectures and platforms.
 - [Accacio/pendulum](https://github.com/Accacio/pendulum) - Inverted pendulum simulation on the terminal using c
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [leahneukirchen/mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
@@ -478,7 +479,6 @@
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [KhoaSuperman/findseat](https://github.com/KhoaSuperman/findseat) - A Completed Functional Flutter App - FindSeat (BLoC + Json API + Unit Test + Firebase Auth)
-- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) - Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [mdanics/fluttergram](https://github.com/mdanics/fluttergram) - A fully functional Instagram clone written in Flutter using Firebase / Firestore
@@ -601,7 +601,7 @@
 ## Go 
 
 - [fiatjaf/njump](https://github.com/fiatjaf/njump) - a Nostr-to-web HTML and OpenGraph gateway
-- [Vigilant-LLC/runner-guard](https://github.com/Vigilant-LLC/runner-guard) - The first CI/CD scanner to detect AI coding agent attack vectors — Claude,  Cursor, Copilot, MCP config hijacking, plus full source→sink injection  and auto-fix for GitHub Actions.
+- [Vigilant-LLC/runner-guard](https://github.com/Vigilant-LLC/runner-guard) - CI/CD supply chain security scanner for GitHub Actions — source-to-sink injection, AI agent config poisoning, steganography, compromised package detection, batch scanning, and auto-fix.
 - [vic/nix-versions](https://github.com/vic/nix-versions) - Search nix packages versions - and minimalist devshell and version manager built on nix - Flake generator for version pinned packages.
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.
 - [mattrco/difftrace](https://github.com/mattrco/difftrace) - Parse and manipulate strace output for easier diffs
@@ -3402,6 +3402,7 @@
 
 ## Zig 
 
+- [lalinsky/nats.zig](https://github.com/lalinsky/nats.zig) - A Zig client library for NATS
 - [Lulzx/zs3](https://github.com/Lulzx/zs3) - S3-compatible storage in Zig. Zero dependencies.
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control: a programmer's text editor
