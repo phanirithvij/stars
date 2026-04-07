@@ -2792,6 +2792,7 @@
 
 ## Rust 
 
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [ow-mods/ow-mod-man](https://github.com/ow-mods/ow-mod-man) - The mod manager for the Outer Wilds Mod Loader
 - [DeterminateSystems/nix-wasm-rust](https://github.com/DeterminateSystems/nix-wasm-rust) - Bindings for writing Nix builtins in Rust
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
