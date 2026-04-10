@@ -4439,7 +4439,7 @@
 - [Matroxt/one-pace-to-plex](https://github.com/Matroxt/one-pace-to-plex) - Guide to adapt One Pace releases to a format Plex can use
 - [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) - ⛅ Check the forecast for today's Nix builds
 - [kalbasit/ncps](https://github.com/kalbasit/ncps) - Nix binary cache proxy service -- with local caching and signing.
-- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
+- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [nixcon/NixConContent](https://github.com/nixcon/NixConContent) - A collection of all the content from NixCon Paris 2022 and beyond
 - [nixosbrasil/nixpkgs-reviewd](https://github.com/nixosbrasil/nixpkgs-reviewd) - Bot to run nixpkgs-review on GitHub Actions triggered from Telegram
 - [authpass/authpass-cloud](https://github.com/authpass/authpass-cloud) - 
