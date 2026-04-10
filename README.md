@@ -662,7 +662,7 @@
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [kachick/nixpkgs-reviewing-workspace](https://github.com/kachick/nixpkgs-reviewing-workspace) - Personal GitHub Action and helper script to review nixpkgs in multiple platforms
 - [kalbasit/ncps](https://github.com/kalbasit/ncps) - Nix binary cache proxy service -- with local caching and signing.
-- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale Stack
+- [owncloud/ocis](https://github.com/owncloud/ocis) - :atom_symbol: ownCloud Infinite Scale
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [jollheef/appvm](https://github.com/jollheef/appvm) - Nix-based app VMs
 - [unklnik/mr_snuggles_dungeon_adventure](https://github.com/unklnik/mr_snuggles_dungeon_adventure) - Roguelite game made with Go and Raylib - Demo & Game is available on Steam https://store.steampowered.com/app/2968730/Mr_Snuggles_Dungeon_Adventure/
