@@ -94,6 +94,7 @@
 ## Astro 
 
 - [edvinlinden/killedby.tech](https://github.com/edvinlinden/killedby.tech) - DEPRECATED A graveyard for discontinued products and services from companies like Google, Apple and Microsoft.
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 
 ## AutoHotkey 
 
@@ -427,7 +428,6 @@
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [ericmiguel/jupyterlab-simpledark](https://github.com/ericmiguel/jupyterlab-simpledark) - A (growing) dark theme collection for JupyterLab.
 - [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) - Aesthetic Dotfiles for my Arch Linux rabbit hole 🐇
 - [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
@@ -567,6 +567,7 @@
 
 ## Elm 
 
+- [ngi-nix/forge](https://github.com/ngi-nix/forge) - New experimental NGI apps repository
 - [dillonkearns/elm-markdown](https://github.com/dillonkearns/elm-markdown) - Extensible markdown parser with custom rendering, in pure Elm.
 - [mpizenberg/elm-url-navigation-port](https://github.com/mpizenberg/elm-url-navigation-port) - Port-based SPA navigation for Elm apps
 - [imincik/geospatial-team-page](https://github.com/imincik/geospatial-team-page) - Nixpkgs maintainers page - Geospatial Team
@@ -1724,7 +1725,6 @@
 
 - [MatthewCroughan/nix-dropper-bundle](https://github.com/MatthewCroughan/nix-dropper-bundle) - Bundlers to drop software onto systems, for good or bad intent
 - [MatthewCroughan/nixos-musl](https://github.com/MatthewCroughan/nixos-musl) - a tracking flake for musl/llvm support in nixpkgs
-- [ngi-nix/forge](https://github.com/ngi-nix/forge) - New experimental NGI apps repository
 - [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
 - [Z7G4N1U8/nixcfg](https://github.com/Z7G4N1U8/nixcfg) - 
 - [figsoda/drowse](https://github.com/figsoda/drowse) - Nix dynamic derivations made easy
@@ -2419,7 +2419,7 @@
 - [Saik0s/mcp-browser-use](https://github.com/Saik0s/mcp-browser-use) - 
 - [mifka01/cache-server](https://github.com/mifka01/cache-server) - A self-hostable, distributed Nix binary cache server with flexible storage strategies
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
@@ -2998,7 +2998,7 @@
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
@@ -3040,6 +3040,7 @@
 
 ## Shell 
 
+- [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images
 - [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) - Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
