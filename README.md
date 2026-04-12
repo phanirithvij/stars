@@ -269,6 +269,7 @@
 
 ## C++ 
 
+- [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer) - Library for reducing tail latency in RAM reads
 - [hoytech/strfry](https://github.com/hoytech/strfry) - a nostr relay
 - [lisanna-dettwyler/nix-scheduler-hook](https://github.com/lisanna-dettwyler/nix-scheduler-hook) - Nix build hook that forwards builds to job schedulers.
 - [TiesPetersen/FloorSweepingOptimizer](https://github.com/TiesPetersen/FloorSweepingOptimizer) - A C++ optimizer that generates efficient floor sweeping routes on grid maps with obstacles using simulated annealing.
@@ -2347,6 +2348,7 @@
 
 ## Python 
 
+- [buildwithparallel/haven-manet-ip-mesh-radio](https://github.com/buildwithparallel/haven-manet-ip-mesh-radio) - Haven – MANET IP Mesh Radio toolkit
 - [Sigmanificient/nixpkgs-failure-dashboard](https://github.com/Sigmanificient/nixpkgs-failure-dashboard) - A better way to search and categorize build logs
 - [valeoai/ZS3](https://github.com/valeoai/ZS3) - Zero-Shot Semantic Segmentation
 - [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
