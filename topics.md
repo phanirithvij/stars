@@ -1704,7 +1704,6 @@
 - [MatthewCroughan/nixcfg](https://github.com/MatthewCroughan/nixcfg) - My nix configuration(s), using flakes. It's my laptop, it's my servers, it's my everything, in code.
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [teto/home](https://github.com/teto/home) - Configurations
-- [Vonfry/dotfiles](https://github.com/Vonfry/dotfiles) - vonfry's dotfiles.
 - [Enzime/dotfiles-nix](https://github.com/Enzime/dotfiles-nix) - Use Nix to declaratively manage and configure all of my systems everywhere all at once
 - [tomodachi94/dotfiles](https://github.com/tomodachi94/dotfiles) - My dotfiles and NixOS configuration: nvim, zsh, i3, and more
 - [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
@@ -1807,7 +1806,6 @@
 ## emacs 
 
 - [emacs-twist/twist.nix](https://github.com/emacs-twist/twist.nix) - Build an entire Emacs configuration as a Nix package in a pure, reproducible way
-- [Vonfry/dotfiles](https://github.com/Vonfry/dotfiles) - vonfry's dotfiles.
 - [zendo/nsworld](https://github.com/zendo/nsworld) - Welcome to NixOS world ❄️
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [GTrunSec/nixos-flk](https://github.com/GTrunSec/nixos-flk) - highly structured NixOS configuration based on devos
@@ -2831,7 +2829,6 @@
 - [dwayne/elm2nix](https://github.com/dwayne/elm2nix) - A rewrite of cachix/elm2nix with a few changes and improvements.
 - [jeslie0/mkElmDerivation](https://github.com/jeslie0/mkElmDerivation) - A nix flake for simplifiying the packaging of elm projects, inspired by elm2nix.
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
-- [Vonfry/dotfiles](https://github.com/Vonfry/dotfiles) - vonfry's dotfiles.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
@@ -4028,6 +4025,7 @@
 
 ## others 
 
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [buildwithparallel/haven-manet-ip-mesh-radio](https://github.com/buildwithparallel/haven-manet-ip-mesh-radio) - Haven – MANET IP Mesh Radio toolkit
 - [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer) - Library for reducing tail latency in RAM reads
 - [jenseng/dynamic-uses](https://github.com/jenseng/dynamic-uses) - Dynamically resolve and use another GitHub action
