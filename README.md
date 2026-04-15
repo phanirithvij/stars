@@ -578,7 +578,6 @@
 ## Emacs Lisp 
 
 - [alezost/pretty-sha-path.el](https://github.com/alezost/pretty-sha-path.el) - Prettify Guix/Nix store paths in Emacs
-- [Vonfry/dotfiles](https://github.com/Vonfry/dotfiles) - vonfry's dotfiles.
 
 ## Fluent 
 
@@ -1724,6 +1723,7 @@
 
 ## Nix 
 
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [MatthewCroughan/nix-dropper-bundle](https://github.com/MatthewCroughan/nix-dropper-bundle) - Bundlers to drop software onto systems, for good or bad intent
 - [MatthewCroughan/nixos-musl](https://github.com/MatthewCroughan/nixos-musl) - a tracking flake for musl/llvm support in nixpkgs
 - [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
