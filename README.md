@@ -601,6 +601,7 @@
 
 ## Go 
 
+- [eljamm/gowt](https://github.com/eljamm/gowt) - fuzzy TUI for managing git worktrees, written in Go
 - [fiatjaf/njump](https://github.com/fiatjaf/njump) - a Nostr-to-web HTML and OpenGraph gateway
 - [Vigilant-LLC/runner-guard](https://github.com/Vigilant-LLC/runner-guard) - CI/CD supply chain security scanner for GitHub Actions — source-to-sink injection, AI agent config poisoning, steganography, compromised package detection, batch scanning, and auto-fix.
 - [vic/nix-versions](https://github.com/vic/nix-versions) - Search nix packages versions - and minimalist devshell and version manager built on nix - Flake generator for version pinned packages.
@@ -3269,7 +3270,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
