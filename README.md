@@ -568,7 +568,7 @@
 
 ## Elm 
 
-- [ngi-nix/forge](https://github.com/ngi-nix/forge) - New experimental NGI apps repository
+- [ngi-nix/forge](https://github.com/ngi-nix/forge) - Software distribution system for NGI
 - [dillonkearns/elm-markdown](https://github.com/dillonkearns/elm-markdown) - Extensible markdown parser with custom rendering, in pure Elm.
 - [mpizenberg/elm-url-navigation-port](https://github.com/mpizenberg/elm-url-navigation-port) - Port-based SPA navigation for Elm apps
 - [imincik/geospatial-team-page](https://github.com/imincik/geospatial-team-page) - Nixpkgs maintainers page - Geospatial Team
