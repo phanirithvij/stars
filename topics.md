@@ -4033,6 +4033,12 @@
 
 ## others 
 
+- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
+- [andersonjoseph/jailed-agents](https://github.com/andersonjoseph/jailed-agents) - Secure Nix sandbox for LLM agents
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
+- [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
+- [xiro-codes/gog.nix](https://github.com/xiro-codes/gog.nix) - 
+- [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [buildwithparallel/haven-manet-ip-mesh-radio](https://github.com/buildwithparallel/haven-manet-ip-mesh-radio) - Haven – MANET IP Mesh Radio toolkit
 - [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer) - Library for reducing tail latency in RAM reads
@@ -4052,7 +4058,7 @@
 - [2walker2/Astral-Codex](https://github.com/2walker2/Astral-Codex) - A fan-made expansion exploring the origin of The Interloper (EN,JP,CN,RU,FR,KO,IT). @;{&&lt; ?/ })& ?]["[/;| *?/*&+} (?] &?}&
 - [DeterminateSystems/nix-wasm-rust](https://github.com/DeterminateSystems/nix-wasm-rust) - Bindings for writing Nix builtins in Rust
 - [MatthewCroughan/nixos-musl](https://github.com/MatthewCroughan/nixos-musl) - a tracking flake for musl/llvm support in nixpkgs
-- [ngi-nix/forge](https://github.com/ngi-nix/forge) - Software distribution system for NGI
+- [ngi-nix/forge](https://github.com/ngi-nix/forge) - Software distribution system for projects funded via Next Generation Internet (NGI)
 - [mpizenberg/elm-url-navigation-port](https://github.com/mpizenberg/elm-url-navigation-port) - Port-based SPA navigation for Elm apps
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [lisanna-dettwyler/nix-scheduler-hook](https://github.com/lisanna-dettwyler/nix-scheduler-hook) - Nix build hook that forwards builds to job schedulers.
@@ -6174,6 +6180,7 @@
 
 ## security 
 
+- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
 - [rascal999/maxos-legacy](https://github.com/rascal999/maxos-legacy) - Pentest focused NixOS config
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
@@ -6216,6 +6223,7 @@
 
 ## security-tools 
 
+- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
@@ -6300,6 +6308,7 @@
 
 ## shell 
 
+- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
