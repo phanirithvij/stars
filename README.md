@@ -568,7 +568,7 @@
 
 ## Elm 
 
-- [ngi-nix/forge](https://github.com/ngi-nix/forge) - Software distribution system for NGI
+- [ngi-nix/forge](https://github.com/ngi-nix/forge) - Software distribution system for projects funded via Next Generation Internet (NGI)
 - [dillonkearns/elm-markdown](https://github.com/dillonkearns/elm-markdown) - Extensible markdown parser with custom rendering, in pure Elm.
 - [mpizenberg/elm-url-navigation-port](https://github.com/mpizenberg/elm-url-navigation-port) - Port-based SPA navigation for Elm apps
 - [imincik/geospatial-team-page](https://github.com/imincik/geospatial-team-page) - Nixpkgs maintainers page - Geospatial Team
@@ -601,6 +601,7 @@
 
 ## Go 
 
+- [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
 - [eljamm/gowt](https://github.com/eljamm/gowt) - fuzzy TUI for managing git worktrees, written in Go
 - [fiatjaf/njump](https://github.com/fiatjaf/njump) - a Nostr-to-web HTML and OpenGraph gateway
 - [Vigilant-LLC/runner-guard](https://github.com/Vigilant-LLC/runner-guard) - CI/CD supply chain security scanner for GitHub Actions — source-to-sink injection, AI agent config poisoning, steganography, compromised package detection, batch scanning, and auto-fix.
@@ -1161,6 +1162,7 @@
 
 ## Haskell 
 
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
 - [dwayne/elm2nix](https://github.com/dwayne/elm2nix) - A rewrite of cachix/elm2nix with a few changes and improvements.
 - [jeslie0/mkElmDerivation](https://github.com/jeslie0/mkElmDerivation) - A nix flake for simplifiying the packaging of elm projects, inspired by elm2nix.
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
@@ -1724,6 +1726,9 @@
 
 ## Nix 
 
+- [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
+- [andersonjoseph/jailed-agents](https://github.com/andersonjoseph/jailed-agents) - Secure Nix sandbox for LLM agents
+- [xiro-codes/gog.nix](https://github.com/xiro-codes/gog.nix) - 
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [MatthewCroughan/nix-dropper-bundle](https://github.com/MatthewCroughan/nix-dropper-bundle) - Bundlers to drop software onto systems, for good or bad intent
 - [MatthewCroughan/nixos-musl](https://github.com/MatthewCroughan/nixos-musl) - a tracking flake for musl/llvm support in nixpkgs
@@ -2797,6 +2802,7 @@
 
 ## Rust 
 
+- [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [ow-mods/ow-mod-man](https://github.com/ow-mods/ow-mod-man) - The mod manager for the Outer Wilds Mod Loader
 - [DeterminateSystems/nix-wasm-rust](https://github.com/DeterminateSystems/nix-wasm-rust) - Bindings for writing Nix builtins in Rust
@@ -3043,6 +3049,7 @@
 
 ## Shell 
 
+- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
 - [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images
 - [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) - Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
