@@ -568,7 +568,6 @@
 
 ## Elm 
 
-- [ngi-nix/forge](https://github.com/ngi-nix/forge) - Software distribution system for projects funded via Next Generation Internet (NGI)
 - [dillonkearns/elm-markdown](https://github.com/dillonkearns/elm-markdown) - Extensible markdown parser with custom rendering, in pure Elm.
 - [mpizenberg/elm-url-navigation-port](https://github.com/mpizenberg/elm-url-navigation-port) - Port-based SPA navigation for Elm apps
 - [imincik/geospatial-team-page](https://github.com/imincik/geospatial-team-page) - Nixpkgs maintainers page - Geospatial Team
@@ -1732,6 +1731,7 @@
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [MatthewCroughan/nix-dropper-bundle](https://github.com/MatthewCroughan/nix-dropper-bundle) - Bundlers to drop software onto systems, for good or bad intent
 - [MatthewCroughan/nixos-musl](https://github.com/MatthewCroughan/nixos-musl) - a tracking flake for musl/llvm support in nixpkgs
+- [ngi-nix/forge](https://github.com/ngi-nix/forge) - Software distribution system for projects funded via Next Generation Internet (NGI)
 - [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
 - [Z7G4N1U8/nixcfg](https://github.com/Z7G4N1U8/nixcfg) - 
 - [figsoda/drowse](https://github.com/figsoda/drowse) - Nix dynamic derivations made easy
