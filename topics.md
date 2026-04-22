@@ -6248,6 +6248,7 @@
 - [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) - A plugin which brings broadcasts to gotify.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [asciimoo/omnom](https://github.com/asciimoo/omnom) - A web content preservation service
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
