@@ -134,7 +134,7 @@
 - [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
 - [NickCao/bandaid](https://github.com/NickCao/bandaid) - stick your file descriptors together
 - [heywoodlh/nixos-configs](https://github.com/heywoodlh/nixos-configs) - nixpkgs
-- [MidstallSoftware/mobile-nixos](https://github.com/MidstallSoftware/mobile-nixos) - 
+- [Midstall/mobile-nixos](https://github.com/Midstall/mobile-nixos) - 
 - [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
 - [radareorg/radare2-book](https://github.com/radareorg/radare2-book) - The Official Radare2 Book
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
@@ -2428,7 +2428,7 @@
 - [Saik0s/mcp-browser-use](https://github.com/Saik0s/mcp-browser-use) - 
 - [mifka01/cache-server](https://github.com/mifka01/cache-server) - A self-hostable, distributed Nix binary cache server with flexible storage strategies
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
@@ -2502,7 +2502,7 @@
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [mlswg/mls-protocol](https://github.com/mlswg/mls-protocol) - MLS protocol
-- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
+- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway, Hyprland and Niri
 - [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
 - [haidaraM/ansible-playbook-grapher](https://github.com/haidaraM/ansible-playbook-grapher) - A command line tool to create a graph representing your Ansible playbook tasks and roles
