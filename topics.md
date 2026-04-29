@@ -37,6 +37,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -903,6 +904,14 @@
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
+
+## c-sharp 
+
+- [EslaMx7/PasteIntoFile](https://github.com/EslaMx7/PasteIntoFile) - Paste Clipboard Contents Into Files Directly (New Version Released 🔥)
+- [Pryaxis/TShock](https://github.com/Pryaxis/TShock) - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
+- [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
+- [DubyaDude/WindowsMediaController](https://github.com/DubyaDude/WindowsMediaController) - Allows developers to more easily get information from and interact with the Windows 10/11 OS media interface. (Also referred to Windows System Media Transport Controls (SMTC))
+- [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 
 ## chatbot 
 
@@ -4896,14 +4905,12 @@
 - [jmc2obj/j-mc-2-obj](https://github.com/jmc2obj/j-mc-2-obj) - Java-based Minecraft-to-OBJ exporter.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
-- [EslaMx7/PasteIntoFile](https://github.com/EslaMx7/PasteIntoFile) - Paste Clipboard Contents Into Files Directly (New Version Released 🔥)
 - [gcb/AdbPaste](https://github.com/gcb/AdbPaste) - uses the Android adb tool to send input. StdIn will be massaged to go trhu all the hops adb uses unchanged. Require python, but after that, it's as cross-platform as it goes, while using adb directly,
 - [mousabaker/poetryup](https://github.com/mousabaker/poetryup) - 
 - [plicit/scoop-search-multisource](https://github.com/plicit/scoop-search-multisource) - Searches Scoop buckets: local, remote, zip, html
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [ryansheehan/terraria](https://github.com/ryansheehan/terraria) - Dockerfile for terraria
-- [Pryaxis/TShock](https://github.com/Pryaxis/TShock) - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [carykh/jumpcutter](https://github.com/carykh/jumpcutter) - Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
 - [troglobit/awesome-switcher](https://github.com/troglobit/awesome-switcher) - Familiar Alt-Tab functionality in Awesome WM (3.5.5)
