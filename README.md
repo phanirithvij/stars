@@ -302,7 +302,7 @@
 - [maxrd2/SubtitleComposer](https://github.com/maxrd2/SubtitleComposer) - Subtitle Composer - KF5/Qt Video Subtitle Editor
 - [Chigau/HINO](https://github.com/Chigau/HINO) - An hardsub extractor for recognize merged subtitles, correct and convert them to .srt
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
-- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
 - [nzbgetcom/nzbget](https://github.com/nzbgetcom/nzbget) - Efficient usenet downloader
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) - 
 - [airdcpp-web/airdcpp-webclient](https://github.com/airdcpp-web/airdcpp-webclient) - Communal peer-to-peer file sharing application for file servers/NAS devices
