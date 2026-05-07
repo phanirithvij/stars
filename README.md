@@ -302,7 +302,7 @@
 - [maxrd2/SubtitleComposer](https://github.com/maxrd2/SubtitleComposer) - Subtitle Composer - KF5/Qt Video Subtitle Editor
 - [Chigau/HINO](https://github.com/Chigau/HINO) - An hardsub extractor for recognize merged subtitles, correct and convert them to .srt
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
-- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
+- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app
 - [nzbgetcom/nzbget](https://github.com/nzbgetcom/nzbget) - Efficient usenet downloader
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) - 
 - [airdcpp-web/airdcpp-webclient](https://github.com/airdcpp-web/airdcpp-webclient) - Communal peer-to-peer file sharing application for file servers/NAS devices
@@ -2007,7 +2007,6 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [Vagahbond/nix-config](https://github.com/Vagahbond/nix-config) - My best attempt yet at a simple yet structured, clean, multi-host NixOS configuration. Built with Charpente.
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
-- [knoc-off/nixos](https://github.com/knoc-off/nixos) - Nixos Dotfiles
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [sudosubin/nixos-config](https://github.com/sudosubin/nixos-config) - Personal nix files, installs some dotfiles and softwares
 - [MatthewCroughan/nixcfg](https://github.com/MatthewCroughan/nixcfg) - My nix configuration(s), using flakes. It's my laptop, it's my servers, it's my everything, in code.
@@ -2923,6 +2922,7 @@
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
 - [viperML/miq](https://github.com/viperML/miq) - Master's thesis - Immutable package management for Linux
+- [knoc-off/nixos](https://github.com/knoc-off/nixos) - Nixos Dotfiles
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
 - [ogarcia/rockpass](https://github.com/ogarcia/rockpass) - [MIRROR] A small and ultrasecure Lesspass database server written in Rust
 - [71/lesspass.rs](https://github.com/71/lesspass.rs) - Rust library and CLI implementation of the LessPass password generator.
