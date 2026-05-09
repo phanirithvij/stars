@@ -4049,6 +4049,7 @@
 
 ## others 
 
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [xit-vcs/xitui](https://github.com/xit-vcs/xitui) - a TUI library for zig
 - [xit-vcs/xit](https://github.com/xit-vcs/xit) - a git alternative written in zig
