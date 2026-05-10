@@ -607,6 +607,7 @@
 
 ## Go 
 
+- [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
 - [eljamm/gowt](https://github.com/eljamm/gowt) - fuzzy TUI for managing git worktrees, written in Go
 - [fiatjaf/njump](https://github.com/fiatjaf/njump) - a Nostr-to-web HTML and OpenGraph gateway
@@ -1729,6 +1730,7 @@
 
 ## Nix 
 
+- [Dauliac/nix-oci](https://github.com/Dauliac/nix-oci) - Flake-parts module to manage OCI repositories
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [andersonjoseph/jailed-agents](https://github.com/andersonjoseph/jailed-agents) - Secure Nix sandbox for LLM agents
@@ -1970,7 +1972,7 @@
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [jetify-com/nixtest](https://github.com/jetify-com/nixtest) - A tiny unit testing framework written in pure Nix
-- [trofi/nixpkgs-overlays](https://github.com/trofi/nixpkgs-overlays) - Various overlays I use on top of nixpkgs: new packages and patches on top of existing ones
+- [trofi/nixpkgs-overlays](https://github.com/trofi/nixpkgs-overlays) - Various overlays I use on top of nixpkgs: new packages and patches on top of existing ones. The repository does not update since 2026-05-09. Moved to https://codeberg.org/trofi/nixpkgs-overlays
 - [fluidattacks/makes](https://github.com/fluidattacks/makes) - A software supply chain framework powered by Nix.
 - [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - ❄️ My NixOS, macOS and home-manager configurations
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
@@ -2809,6 +2811,7 @@
 
 ## Rust 
 
+- [tsandrini/flake-parts-builder](https://github.com/tsandrini/flake-parts-builder) - Nix flakes interactive template builder based on flake-parts written in Rust. [maintainer=@tsandrini]
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [snowfallorg/nix-software-center](https://github.com/snowfallorg/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
 - [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
