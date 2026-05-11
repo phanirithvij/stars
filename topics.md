@@ -4049,6 +4049,9 @@
 
 ## others 
 
+- [mightyiam/files](https://github.com/mightyiam/files) - In-repository file generation flake-parts module
+- [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
+- [denful/flake-file](https://github.com/denful/flake-file) - Generate flake.nix from module options. Input and Output schemas. Works with flakes, unflake, npins or nixlock.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [Dauliac/nix-oci](https://github.com/Dauliac/nix-oci) - Flake-parts module to manage OCI repositories
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
