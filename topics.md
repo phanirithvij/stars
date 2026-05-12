@@ -575,7 +575,6 @@
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [molybdenumsoftware/pr-tracker](https://github.com/molybdenumsoftware/pr-tracker) - A system for finding out which branches a GitHub pull request landed in
-- [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
 - [airdcpp-web/airdcpp-webclient](https://github.com/airdcpp-web/airdcpp-webclient) - Communal peer-to-peer file sharing application for file servers/NAS devices
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
@@ -980,6 +979,7 @@
 
 ## cli 
 
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [ow-mods/ow-mod-man](https://github.com/ow-mods/ow-mod-man) - The mod manager for the Outer Wilds Mod Loader
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
@@ -1160,7 +1160,6 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
-- [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath) - Inspect and refine PATH environment variable on Windows, Linux and MacOS.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
@@ -1533,6 +1532,7 @@
 
 ## devops 
 
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -1590,6 +1590,7 @@
 
 ## django 
 
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [sleepytaco/UnTube](https://github.com/sleepytaco/UnTube) - A simple, comprehensive YouTube playlist manager web app powered by YouTube Data API V3. Built with ❤ using Django, htmx and Bootstrap.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
@@ -1677,6 +1678,7 @@
 
 ## dotfiles 
 
+- [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [dominicegginton/dotfiles](https://github.com/dominicegginton/dotfiles) - Declarative system, package & home environment configurations - WIP Always.
 - [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring niri and neovim
 - [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
@@ -2398,7 +2400,6 @@
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [pufferpanel/pufferpanel](https://github.com/pufferpanel/pufferpanel) - PufferPanel is an open source game server management panel, designed for both small networks and personal use
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-- [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [hrtsegv/gitcs](https://github.com/hrtsegv/gitcs) - 📈 Command line tool written in Go. It allows developers to scan their local Git repositories and generate a visual contributions graph.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
@@ -3212,7 +3213,6 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [lochidev/Expandroid](https://github.com/lochidev/Expandroid) - Text expander for android - with espanso config import/export
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
-- [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [edvinlinden/killedby.tech](https://github.com/edvinlinden/killedby.tech) - DEPRECATED A graveyard for discontinued products and services from companies like Google, Apple and Microsoft.
@@ -3600,6 +3600,7 @@
 
 ## macos 
 
+- [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [fossable/goldboot](https://github.com/fossable/goldboot) - Build golden images with CI
@@ -3766,6 +3767,7 @@
 
 ## monitoring 
 
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -5682,7 +5684,6 @@
 
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
-- [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
@@ -6074,6 +6075,7 @@
 
 ## rust 
 
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [tsandrini/flake-parts-builder](https://github.com/tsandrini/flake-parts-builder) - Nix flakes interactive template builder based on flake-parts written in Rust. [maintainer=@tsandrini]
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [ow-mods/ow-mod-man](https://github.com/ow-mods/ow-mod-man) - The mod manager for the Outer Wilds Mod Loader
@@ -6656,6 +6658,7 @@
 
 ## tui 
 
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [eljamm/gowt](https://github.com/eljamm/gowt) - fuzzy TUI for managing git worktrees, written in Go
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
