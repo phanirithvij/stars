@@ -3366,6 +3366,7 @@
 
 ## linux 
 
+- [WitteShadovv/deferred-apps](https://github.com/WitteShadovv/deferred-apps) - Download apps on-demand while still showing them as installed to keep the host lighter
 - [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images
 - [HomuHomu833/android-ndk-custom](https://github.com/HomuHomu833/android-ndk-custom) - Android NDK with custom LLVM built using various libc's, supporting multiple architectures and platforms.
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
@@ -4051,6 +4052,7 @@
 
 ## others 
 
+- [Mic92/nixfmt-rs](https://github.com/Mic92/nixfmt-rs) - A from-scratch Rust reimplementation of nixfmt that produces byte-identical output to the Haskell original.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [mightyiam/files](https://github.com/mightyiam/files) - In-repository file generation flake-parts module
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
