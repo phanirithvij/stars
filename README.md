@@ -721,7 +721,7 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [gotd/td](https://github.com/gotd/td) - Telegram client, in Go. (MTProto API)
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
 - [teamgram/teamgram-server](https://github.com/teamgram/teamgram-server) - Unofficial open source mtproto server written in golang with compatible telegram client.
 - [tgdrive/rclone](https://github.com/tgdrive/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
