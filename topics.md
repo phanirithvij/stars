@@ -4052,6 +4052,7 @@
 
 ## others 
 
+- [bogorad/protected-laptop](https://github.com/bogorad/protected-laptop) - YubiKey-protected NixOS laptop with Tails fallback
 - [Mic92/nixfmt-rs](https://github.com/Mic92/nixfmt-rs) - A from-scratch Rust reimplementation of nixfmt that produces byte-identical output to the Haskell original.
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [mightyiam/files](https://github.com/mightyiam/files) - In-repository file generation flake-parts module
