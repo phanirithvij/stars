@@ -1693,7 +1693,6 @@
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs for my devices. dotfiles, but way better
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
-- [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config) - A collection of my system configs and dotfiles
 - [TophC7/dot.nix](https://github.com/TophC7/dot.nix) - Nix config for Homelab and PCs
 - [legendofmiracles/dotnix](https://github.com/legendofmiracles/dotnix) - nix stuff
@@ -2408,7 +2407,7 @@
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [gotd/td](https://github.com/gotd/td) - Telegram client, in Go. (MTProto API)
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [teamgram/teamgram-server](https://github.com/teamgram/teamgram-server) - Unofficial open source mtproto server written in golang with compatible telegram client.
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -3214,7 +3213,7 @@
 - [lochidev/Expandroid](https://github.com/lochidev/Expandroid) - Text expander for android - with espanso config import/export
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [edvinlinden/killedby.tech](https://github.com/edvinlinden/killedby.tech) - DEPRECATED A graveyard for discontinued products and services from companies like Google, Apple and Microsoft.
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
@@ -4336,6 +4335,7 @@
 - [nir9/lightwm](https://github.com/nir9/lightwm) - Minimalist Tiling Window Manager for Microsoft Windows (&lt;20KB)
 - [tsoding/nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
 - [Hjdskes/system](https://github.com/Hjdskes/system) - My Nixified system configurations
+- [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - Moved to https://git.toostveen.nl/tom/puntbestanden
 - [nanoyaki/flake](https://github.com/nanoyaki/flake) - Mirror of my Codeberg repository
 - [jonringer/basinix](https://github.com/jonringer/basinix) - (WIP) Nix CI pull request review website
 - [jtojnar/what-changed](https://github.com/jtojnar/what-changed) - Find out what changed between two versions of a software project
