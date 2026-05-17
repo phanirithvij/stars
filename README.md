@@ -721,7 +721,7 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [gotd/td](https://github.com/gotd/td) - Telegram client, in Go. (MTProto API)
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [teamgram/teamgram-server](https://github.com/teamgram/teamgram-server) - Unofficial open source mtproto server written in golang with compatible telegram client.
 - [tgdrive/rclone](https://github.com/tgdrive/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
@@ -1867,7 +1867,7 @@
 - [Gerg-L/mnw](https://github.com/Gerg-L/mnw) - Minimal Neovim Wrapper
 - [TRPB/evict](https://github.com/TRPB/evict) - Evict dotfiles from your home directory
 - [Hjdskes/system](https://github.com/Hjdskes/system) - My Nixified system configurations
-- [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
+- [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - Moved to https://git.toostveen.nl/tom/puntbestanden
 - [nanoyaki/flake](https://github.com/nanoyaki/flake) - Mirror of my Codeberg repository
 - [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config) - A collection of my system configs and dotfiles
 - [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) - A set-and-forget modern operating system designed for simplicity, speed, and peace of mind.
