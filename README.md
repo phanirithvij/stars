@@ -607,6 +607,7 @@
 
 ## Go 
 
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
 - [eljamm/gowt](https://github.com/eljamm/gowt) - fuzzy TUI for managing git worktrees, written in Go
@@ -1729,6 +1730,9 @@
 
 ## Nix 
 
+- [phaer/red-tape](https://github.com/phaer/red-tape) - 
+- [adisbladis/flake-incompat](https://github.com/adisbladis/flake-incompat) - 
+- [llakala/adios-wrappers](https://github.com/llakala/adios-wrappers) - 
 - [Mic92/adios-flake](https://github.com/Mic92/adios-flake) - Composable flake outputs using the adios module system — the ergonomics of flake-parts without the evaluation overhead.
 - [bogorad/protected-laptop](https://github.com/bogorad/protected-laptop) - YubiKey-protected NixOS laptop with Tails fallback
 - [WitteShadovv/deferred-apps](https://github.com/WitteShadovv/deferred-apps) - Download apps on-demand while still showing them as installed to keep the host lighter
@@ -2756,6 +2760,7 @@
 - [libass/JavascriptSubtitlesOctopus](https://github.com/libass/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format from JavaScript. Supports most SSA/ASS features, easily integrates with HTML5 videos.
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [guessit-io/guessit](https://github.com/guessit-io/guessit) - GuessIt is a python library that extracts as much information as possible from a video filename.
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [prabaprakash/Saavn-Downloader](https://github.com/prabaprakash/Saavn-Downloader) - Saavn Downloader
 - [kaushalvivek/Mass-Mailing-Script](https://github.com/kaushalvivek/Mass-Mailing-Script) - A script to send mass mails that are rich in content with HTML formatting and attachments.
@@ -2792,7 +2797,6 @@
 - [DrewNaylor/Retiled](https://github.com/DrewNaylor/Retiled) - An attempt at creating a "desktop" environment mainly for Linux phones and tablets that's similar in function to some parts of Microsoft's Windows Phone 8.x, primarily the Start screen, Search app, na
 - [popov895/pminhibition](https://github.com/popov895/pminhibition) - KDE Plasma 5 applet that provides information about power management inhibition.
 - [amlwwalker/got-qt](https://github.com/amlwwalker/got-qt) - A framework for building cross platform GUI interfaces in Go and QML
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## Ren'Py 
 
