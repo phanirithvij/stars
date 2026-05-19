@@ -4052,6 +4052,10 @@
 
 ## others 
 
+- [phaer/red-tape](https://github.com/phaer/red-tape) - 
+- [adisbladis/flake-incompat](https://github.com/adisbladis/flake-incompat) - 
+- [llakala/adios-wrappers](https://github.com/llakala/adios-wrappers) - 
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [Mic92/adios-flake](https://github.com/Mic92/adios-flake) - Composable flake outputs using the adios module system — the ergonomics of flake-parts without the evaluation overhead.
 - [bogorad/protected-laptop](https://github.com/bogorad/protected-laptop) - YubiKey-protected NixOS laptop with Tails fallback
 - [Mic92/nixfmt-rs](https://github.com/Mic92/nixfmt-rs) - A from-scratch Rust reimplementation of nixfmt that produces byte-identical output to the Haskell original.
