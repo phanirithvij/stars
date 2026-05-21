@@ -2760,6 +2760,7 @@
 - [libass/JavascriptSubtitlesOctopus](https://github.com/libass/JavascriptSubtitlesOctopus) - Displays subtitles in .ass format from JavaScript. Supports most SSA/ASS features, easily integrates with HTML5 videos.
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [guessit-io/guessit](https://github.com/guessit-io/guessit) - GuessIt is a python library that extracts as much information as possible from a video filename.
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [prabaprakash/Saavn-Downloader](https://github.com/prabaprakash/Saavn-Downloader) - Saavn Downloader
 - [kaushalvivek/Mass-Mailing-Script](https://github.com/kaushalvivek/Mass-Mailing-Script) - A script to send mass mails that are rich in content with HTML formatting and attachments.
@@ -2796,7 +2797,6 @@
 - [DrewNaylor/Retiled](https://github.com/DrewNaylor/Retiled) - An attempt at creating a "desktop" environment mainly for Linux phones and tablets that's similar in function to some parts of Microsoft's Windows Phone 8.x, primarily the Start screen, Search app, na
 - [popov895/pminhibition](https://github.com/popov895/pminhibition) - KDE Plasma 5 applet that provides information about power management inhibition.
 - [amlwwalker/got-qt](https://github.com/amlwwalker/got-qt) - A framework for building cross platform GUI interfaces in Go and QML
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## Ren'Py 
 
