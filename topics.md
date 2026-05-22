@@ -610,7 +610,7 @@
 ## artificial-intelligence 
 
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
-- [daconjam/Recommender-System-Datasets](https://github.com/daconjam/Recommender-System-Datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
+- [daconjam/recommender-system-datasets](https://github.com/daconjam/recommender-system-datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
@@ -1138,7 +1138,7 @@
 
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-- [daconjam/Recommender-System-Datasets](https://github.com/daconjam/Recommender-System-Datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
+- [daconjam/recommender-system-datasets](https://github.com/daconjam/recommender-system-datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
@@ -1389,7 +1389,7 @@
 ## data-science 
 
 - [ericmiguel/jupyterlab-simpledark](https://github.com/ericmiguel/jupyterlab-simpledark) - A (growing) dark theme collection for JupyterLab.
-- [daconjam/Recommender-System-Datasets](https://github.com/daconjam/Recommender-System-Datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
+- [daconjam/recommender-system-datasets](https://github.com/daconjam/recommender-system-datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
 - [imartinezl/knowledge-map](https://github.com/imartinezl/knowledge-map) - Knowledge Concept Map
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
@@ -1425,7 +1425,7 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
-- [daconjam/Recommender-System-Datasets](https://github.com/daconjam/Recommender-System-Datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
+- [daconjam/recommender-system-datasets](https://github.com/daconjam/recommender-system-datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
@@ -3574,7 +3574,7 @@
 
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
-- [daconjam/Recommender-System-Datasets](https://github.com/daconjam/Recommender-System-Datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
+- [daconjam/recommender-system-datasets](https://github.com/daconjam/recommender-system-datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
@@ -3785,7 +3785,7 @@
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything! ⭐ Star the project if you like it!
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal
-- [daconjam/Recommender-System-Datasets](https://github.com/daconjam/Recommender-System-Datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
+- [daconjam/recommender-system-datasets](https://github.com/daconjam/recommender-system-datasets) - A list of compatible datasets, noting other major repositories containing popular real-world datasets, along with sample code for a range of recommendation tasks.
 - [Divide-By-0/ideas-for-projects-people-would-use](https://github.com/Divide-By-0/ideas-for-projects-people-would-use) - Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase i
 - [bartleyg/my-spotify-canvas](https://github.com/bartleyg/my-spotify-canvas) - A dynamically updated audio video canvas of my recently played Spotify music.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
