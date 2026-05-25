@@ -607,6 +607,7 @@
 
 ## Go 
 
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
@@ -1190,6 +1191,7 @@
 
 ## Java 
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [woheller69/whisperIME](https://github.com/woheller69/whisperIME) - Android Input Method Editor (IME) based on Whisper
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [MuntashirAkon/libadb-android](https://github.com/MuntashirAkon/libadb-android) - ADB library for Android
@@ -1290,6 +1292,7 @@
 
 ## JavaScript 
 
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
@@ -1930,7 +1933,7 @@
 - [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config) - NixOS, Nix-Darwin and home-manager configurations.
 - [nix-community/nixpkgs.lib](https://github.com/nix-community/nixpkgs.lib) - nixpkgs lib for cheap instantiation [maintainer=@yunfachi] (with initial help from @blaggacao)
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
-- [aaronchall/config](https://github.com/aaronchall/config) - 
+- [aaronchall/config](https://github.com/aaronchall/config) - My all-in-one config for my computers. You can copy to get yourself started.
 - [YorikSar/dotfiles](https://github.com/YorikSar/dotfiles) - My .files
 - [kamadorueda/nixel](https://github.com/kamadorueda/nixel) - Parser for the Nix Expressions Language
 - [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
