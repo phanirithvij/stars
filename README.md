@@ -225,7 +225,6 @@
 - [maforget/ComicRackKeygen](https://github.com/maforget/ComicRackKeygen) - 
 - [nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 - [Gonkee/Gepe3D](https://github.com/Gonkee/Gepe3D) - Gonkee's Epic Physics Engine 3D (Gepe3D)
-- [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [nmaier/simpleDLNA](https://github.com/nmaier/simpleDLNA) - A simple, zero-config DLNA media server, that you can just fire up and be done with it.
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
@@ -654,7 +653,6 @@
 - [water-sucks/optnix](https://github.com/water-sucks/optnix) - [mirror] - an options searcher for nix module systems
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
-- [asciimoo/omnom](https://github.com/asciimoo/omnom) - A web content preservation service
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) - A collection of hacks and one-off scripts
 - [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages.
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
@@ -1082,7 +1080,7 @@
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
+- [xyproto/wallutils](https://github.com/xyproto/wallutils) - :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers + display available VRAM
 - [reujab/wallpaper](https://github.com/reujab/wallpaper) - A cross-platform Golang library for getting and setting desktop wallpapers
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -1171,6 +1169,7 @@
 
 ## Haskell 
 
+- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
 - [dwayne/elm2nix](https://github.com/dwayne/elm2nix) - A rewrite of cachix/elm2nix with a few changes and improvements.
 - [jeslie0/mkElmDerivation](https://github.com/jeslie0/mkElmDerivation) - A nix flake for simplifiying the packaging of elm projects, inspired by elm2nix.
@@ -1191,6 +1190,7 @@
 
 ## Java 
 
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [woheller69/whisperIME](https://github.com/woheller69/whisperIME) - Android Input Method Editor (IME) based on Whisper
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
@@ -1292,6 +1292,7 @@
 
 ## JavaScript 
 
+- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
@@ -1382,7 +1383,6 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
-- [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [rgrove/rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
@@ -1733,6 +1733,8 @@
 
 ## Nix 
 
+- [llakala/adios](https://github.com/llakala/adios) - 
+- [imincik/nixos-framework](https://github.com/imincik/nixos-framework) - Framework for NixOS systems development, testing and deployment
 - [phaer/red-tape](https://github.com/phaer/red-tape) - 
 - [adisbladis/flake-incompat](https://github.com/adisbladis/flake-incompat) - 
 - [llakala/adios-wrappers](https://github.com/llakala/adios-wrappers) - 
@@ -2270,7 +2272,6 @@
 - [datenwolf/codesamples](https://github.com/datenwolf/codesamples) - This is a growing collection of code samples, fully working demonstration programs I wrote as supplementary material for articles posted at forums, newsgroups, Q&A sites, blogs, and so on.
 - [gophercon/2015-talks](https://github.com/gophercon/2015-talks) - Slides from 2015 Talks
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
-- [yoyeung/web-workers-demo](https://github.com/yoyeung/web-workers-demo) - For web worker and Web assembly study
 - [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
 - [jarrodmedrano/desktop-backgrounds](https://github.com/jarrodmedrano/desktop-backgrounds) - Desktop bgs saved from momentum
 - [microsoft/live-share](https://github.com/microsoft/live-share) - Real-time collaborative development from the comfort of your favorite tools
@@ -2376,6 +2377,7 @@
 
 ## Python 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [buildwithparallel/haven-manet-ip-mesh-radio](https://github.com/buildwithparallel/haven-manet-ip-mesh-radio) - Haven – MANET IP Mesh Radio toolkit
 - [Sigmanificient/nixpkgs-failure-dashboard](https://github.com/Sigmanificient/nixpkgs-failure-dashboard) - A better way to search and categorize build logs
@@ -2826,6 +2828,7 @@
 
 ## Rust 
 
+- [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
 - [Mic92/nixfmt-rs](https://github.com/Mic92/nixfmt-rs) - A from-scratch Rust reimplementation of nixfmt that produces byte-identical output to the Haskell original.
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [tsandrini/flake-parts-builder](https://github.com/tsandrini/flake-parts-builder) - Nix flakes interactive template builder based on flake-parts written in Rust. [maintainer=@tsandrini]
@@ -3078,6 +3081,7 @@
 
 ## Shell 
 
+- [physics-enthusiast/mido-nix](https://github.com/physics-enthusiast/mido-nix) - The Secure Microsoft Windows Downloader
 - [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
 - [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images
 - [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
@@ -3228,6 +3232,8 @@
 
 ## TypeScript 
 
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
 - [CodyTseng/jumble](https://github.com/CodyTseng/jumble) - A user-friendly Nostr client for exploring relay feeds
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
