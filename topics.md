@@ -4640,7 +4640,7 @@
 - [diamondburned/nix-search](https://github.com/diamondburned/nix-search) - A Nix-channel-compatible package search
 - [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) - the predecessor to nix-wrapper-modules#neovim
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [filmil/bazel_local_nix](https://github.com/filmil/bazel_local_nix) - Use a bazel-specific nix repository for hermetic builds
+- [filmil/bazel_local_nix](https://github.com/filmil/bazel_local_nix) - Ephemeral Nix installation repository for hermetic builds
 - [7c6f434c/7c6f434c-configurations](https://github.com/7c6f434c/7c6f434c-configurations) - 
 - [solomon-b/nixos-config](https://github.com/solomon-b/nixos-config) - Homelab managed wtih Nix Flakes
 - [auvred/nixos-config](https://github.com/auvred/nixos-config) - ❄️ My NixOS config
