@@ -3116,7 +3116,6 @@
 - [dustinkirkland/petname](https://github.com/dustinkirkland/petname) - 
 - [vergoh/vnstat-docker](https://github.com/vergoh/vnstat-docker) - vnStat in a container with image output via http
 - [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
-- [filmil/bazel_local_nix](https://github.com/filmil/bazel_local_nix) - Use a bazel-specific nix repository for hermetic builds
 - [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [papanito/cheats](https://github.com/papanito/cheats) - Cheatsheets that work with https://github.com/denisidoro/navi
@@ -3205,6 +3204,7 @@
 ## Starlark 
 
 - [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs) - Rules for importing Nixpkgs packages into Bazel.
+- [filmil/bazel_local_nix](https://github.com/filmil/bazel_local_nix) - Ephemeral Nix installation repository for hermetic builds
 
 ## Svelte 
 
