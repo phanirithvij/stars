@@ -606,6 +606,8 @@
 
 ## Go 
 
+- [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
@@ -1734,6 +1736,7 @@
 
 ## Nix 
 
+- [blokyk/packages.nix](https://github.com/blokyk/packages.nix) - A custom lil nix repo with some packaged software and personal nixos/hm modules
 - [llakala/adios](https://github.com/llakala/adios) - 
 - [imincik/nixos-framework](https://github.com/imincik/nixos-framework) - Framework for NixOS systems development, testing and deployment
 - [phaer/red-tape](https://github.com/phaer/red-tape) - 
@@ -1809,7 +1812,7 @@
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [jlesquembre/dotfiles](https://github.com/jlesquembre/dotfiles) - My dotfiles
-- [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - Create NixOS VMs on macOS or Linux using Lima
+- [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - NixOS VMs on macOS or Linux using Lima
 - [tfc/nixos-configs](https://github.com/tfc/nixos-configs) - My personal NixOS configs for different machines.
 - [fricklerhandwerk/lazy-drv](https://github.com/fricklerhandwerk/lazy-drv) - Realise Nix derivations on demand.
 - [fricklerhandwerk/flake-inputs](https://github.com/fricklerhandwerk/flake-inputs) - A helper to use remote references from `flake.lock` in stable Nix.
@@ -3046,6 +3049,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [ckampfe/russ](https://github.com/ckampfe/russ) - A TUI RSS reader with vim-like controls and a local-first, offline-first focus
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
@@ -3322,7 +3326,6 @@
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
