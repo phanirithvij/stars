@@ -4058,6 +4058,8 @@
 
 ## others 
 
+- [blokyk/packages.nix](https://github.com/blokyk/packages.nix) - A custom lil nix repo with some packaged software and personal nixos/hm modules
+- [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
 - [ylxdzsw/dssd](https://github.com/ylxdzsw/dssd) - Dead Simple Secret Daemon
 - [garnix-io/garnix-ci](https://github.com/garnix-io/garnix-ci) - CI and hosting for nix-based, flakified github repos
 - [llakala/adios](https://github.com/llakala/adios) - 
@@ -4242,7 +4244,7 @@
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [erikarvstedt/nix-zig-build](https://github.com/erikarvstedt/nix-zig-build) - A Nix Flake for developing Zig
-- [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - Create NixOS VMs on macOS or Linux using Lima
+- [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - NixOS VMs on macOS or Linux using Lima
 - [tfc/nixos-configs](https://github.com/tfc/nixos-configs) - My personal NixOS configs for different machines.
 - [fricklerhandwerk/lazy-drv](https://github.com/fricklerhandwerk/lazy-drv) - Realise Nix derivations on demand.
 - [fricklerhandwerk/flake-inputs](https://github.com/fricklerhandwerk/flake-inputs) - A helper to use remote references from `flake.lock` in stable Nix.
@@ -4387,7 +4389,7 @@
 - [cid-chan/peerix](https://github.com/cid-chan/peerix) - Peer2Peer Nix-Binary-Cache
 - [water-sucks/optnix](https://github.com/water-sucks/optnix) - [mirror] - an options searcher for nix module systems
 - [samuela/nixpkgs-upkeep](https://github.com/samuela/nixpkgs-upkeep) - Auto-updates and CI 🤖 for Nixpkgs
-- [flox/floxpkgs](https://github.com/flox/floxpkgs) - 
+- [flox/floxpkgs.v1](https://github.com/flox/floxpkgs.v1) - 
 - [tomberek/incremental](https://github.com/tomberek/incremental) - 
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [numtide/nix-gl-host](https://github.com/numtide/nix-gl-host) - Run OpenGL/Cuda programs built with Nix, on all Linux distributions.
@@ -6289,6 +6291,7 @@
 
 ## self-hosted 
 
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
