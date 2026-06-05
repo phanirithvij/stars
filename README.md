@@ -924,7 +924,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [vbatts/go-mtree](https://github.com/vbatts/go-mtree) - File systems verification utility and library, in likeness of mtree(8)
 - [libp2p/go-libp2p-discovery](https://github.com/libp2p/go-libp2p-discovery) - Active Peer Discovery
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [Gurkengewuerz/cefgo](https://github.com/Gurkengewuerz/cefgo) - Go bindings for the Chromium Embedded Framework (CEF)
@@ -2832,6 +2832,7 @@
 
 ## Rust 
 
+- [Mic92/hestia](https://github.com/Mic92/hestia) - Nix binary cache backed by the GitHub Actions cache (alpha, work in progress)
 - [ylxdzsw/dssd](https://github.com/ylxdzsw/dssd) - Dead Simple Secret Daemon
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
 - [Mic92/nixfmt-rs](https://github.com/Mic92/nixfmt-rs) - A from-scratch Rust reimplementation of nixfmt that produces byte-identical output to the Haskell original.
