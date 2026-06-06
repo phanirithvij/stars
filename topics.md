@@ -4058,7 +4058,8 @@
 
 ## others 
 
-- [Mic92/hestia](https://github.com/Mic92/hestia) - Nix binary cache backed by the GitHub Actions cache (alpha, work in progress)
+- [benkoppe/nixsearch](https://github.com/benkoppe/nixsearch) - Fast, no-nonsense Nix search engine
+- [Mic92/hestia](https://github.com/Mic92/hestia) - Nix binary cache backed by the GitHub Actions cache: zero setup, deduplicated uploads, automatic GC (beta)
 - [blokyk/packages.nix](https://github.com/blokyk/packages.nix) - A custom lil nix repo with some packaged software and personal nixos/hm modules
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
 - [ylxdzsw/dssd](https://github.com/ylxdzsw/dssd) - Dead Simple Secret Daemon
