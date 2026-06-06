@@ -2832,7 +2832,8 @@
 
 ## Rust 
 
-- [Mic92/hestia](https://github.com/Mic92/hestia) - Nix binary cache backed by the GitHub Actions cache (alpha, work in progress)
+- [benkoppe/nixsearch](https://github.com/benkoppe/nixsearch) - Fast, no-nonsense Nix search engine
+- [Mic92/hestia](https://github.com/Mic92/hestia) - Nix binary cache backed by the GitHub Actions cache: zero setup, deduplicated uploads, automatic GC (beta)
 - [ylxdzsw/dssd](https://github.com/ylxdzsw/dssd) - Dead Simple Secret Daemon
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
 - [Mic92/nixfmt-rs](https://github.com/Mic92/nixfmt-rs) - A from-scratch Rust reimplementation of nixfmt that produces byte-identical output to the Haskell original.
