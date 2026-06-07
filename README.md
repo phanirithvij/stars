@@ -2298,7 +2298,6 @@
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [caocuong0306/awesome-object-proposals](https://github.com/caocuong0306/awesome-object-proposals) - A curated list of object proposals resources for object detection
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
-- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [vpashkov/awesome-nim](https://github.com/vpashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [orlp/dev-on-windows](https://github.com/orlp/dev-on-windows) - An opiniated guide to set up a development environment on Windows.
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
@@ -2746,6 +2745,7 @@
 - [fogleman/Tiling](https://github.com/fogleman/Tiling) - Tilings of regular polygons.
 - [fogleman/GraphLayout](https://github.com/fogleman/GraphLayout) - Graph drawing using simulated annealing for layout.
 - [fogleman/PirateMap](https://github.com/fogleman/PirateMap) - Procedurally generate pirate treasure maps.
+- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [carpedm20/emoji](https://github.com/carpedm20/emoji) - emoji terminal output for Python
 - [SubhrajitPrusty/wallgen](https://github.com/SubhrajitPrusty/wallgen) - Generate HQ poly wallpapers
