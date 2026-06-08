@@ -924,7 +924,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [vbatts/go-mtree](https://github.com/vbatts/go-mtree) - File systems verification utility and library, in likeness of mtree(8)
 - [libp2p/go-libp2p-discovery](https://github.com/libp2p/go-libp2p-discovery) - Active Peer Discovery
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [Gurkengewuerz/cefgo](https://github.com/Gurkengewuerz/cefgo) - Go bindings for the Chromium Embedded Framework (CEF)
@@ -1735,6 +1735,7 @@
 
 ## Nix 
 
+- [nix-community/nix-installers](https://github.com/nix-community/nix-installers) - Nix installers for legacy distributions (rpm & deb & pacman) [maintainer=@adisbladis]
 - [blokyk/packages.nix](https://github.com/blokyk/packages.nix) - A custom lil nix repo with some packaged software and personal nixos/hm modules
 - [llakala/adios](https://github.com/llakala/adios) - 
 - [imincik/nixos-framework](https://github.com/imincik/nixos-framework) - Framework for NixOS systems development, testing and deployment
@@ -2832,6 +2833,7 @@
 
 ## Rust 
 
+- [thejohncrafter/nixos-harden-systemd](https://github.com/thejohncrafter/nixos-harden-systemd) - Discover the Best Hardening Options for Systemd Services in NixOS
 - [benkoppe/nixsearch](https://github.com/benkoppe/nixsearch) - Fast, no-nonsense Nix search engine
 - [Mic92/hestia](https://github.com/Mic92/hestia) - Nix binary cache backed by the GitHub Actions cache: zero setup, deduplicated uploads, automatic GC (beta)
 - [ylxdzsw/dssd](https://github.com/ylxdzsw/dssd) - Dead Simple Secret Daemon
