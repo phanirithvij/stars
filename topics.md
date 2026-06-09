@@ -1819,7 +1819,6 @@
 ## elixir 
 
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
-- [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog makes world-class developer pods. This is our open source platform.
@@ -4058,6 +4057,7 @@
 
 ## others 
 
+- [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
 - [nix-community/nix-installers](https://github.com/nix-community/nix-installers) - Nix installers for legacy distributions (rpm & deb & pacman) [maintainer=@adisbladis]
 - [thejohncrafter/nixos-harden-systemd](https://github.com/thejohncrafter/nixos-harden-systemd) - Discover the Best Hardening Options for Systemd Services in NixOS
 - [benkoppe/nixsearch](https://github.com/benkoppe/nixsearch) - Fast, no-nonsense Nix search engine
@@ -4362,6 +4362,7 @@
 - [Hjdskes/system](https://github.com/Hjdskes/system) - My Nixified system configurations
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - Moved to https://git.toostveen.nl/tom/puntbestanden
 - [nanoyaki/flake](https://github.com/nanoyaki/flake) - Mirror of my Codeberg repository
+- [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
 - [jonringer/basinix](https://github.com/jonringer/basinix) - (WIP) Nix CI pull request review website
 - [jtojnar/what-changed](https://github.com/jtojnar/what-changed) - Find out what changed between two versions of a software project
 - [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) - A set-and-forget modern operating system designed for simplicity, speed, and peace of mind.
@@ -6178,7 +6179,7 @@
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [sgeisler/cargo-remote](https://github.com/sgeisler/cargo-remote) - cargo subcommand to compile rust projects remotely
-- [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
+- [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -6596,7 +6597,7 @@
 - [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
 - [coderofsalvation/kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity hackers & managers (csv-based) #scriptable #nestable #statistics #singlefile #shellscript #issuetracker #git
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
-- [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
+- [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
@@ -6739,7 +6740,7 @@
 - [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings
 - [topydo/topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
-- [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
+- [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
