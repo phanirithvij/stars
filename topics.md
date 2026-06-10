@@ -4066,7 +4066,7 @@
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
 - [ylxdzsw/dssd](https://github.com/ylxdzsw/dssd) - Dead Simple Secret Daemon
 - [garnix-io/garnix-ci](https://github.com/garnix-io/garnix-ci) - CI and hosting for nix-based, flakified github repos
-- [llakala/adios](https://github.com/llakala/adios) - 
+- [llakala/lladios](https://github.com/llakala/lladios) - 
 - [physics-enthusiast/mido-nix](https://github.com/physics-enthusiast/mido-nix) - The Secure Microsoft Windows Downloader
 - [imincik/nixos-framework](https://github.com/imincik/nixos-framework) - Framework for NixOS systems development, testing and deployment
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
@@ -5786,7 +5786,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [lenskit/lkpy](https://github.com/lenskit/lkpy) - Python recommendation toolkit
 - [clalancette/pycdlib](https://github.com/clalancette/pycdlib) - Python library to read and write ISOs
-- [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
+- [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - SBOM, provenance, dependency graph, and vulnerability tools for Nix.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
@@ -6247,7 +6247,7 @@
 - [NixOS/nix-security-tracker](https://github.com/NixOS/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
 - [QubesOS/qvm-create-windows-qube](https://github.com/QubesOS/qvm-create-windows-qube) - Spin up new Windows qubes quickly, effortlessly and securely on Qubes OS
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-- [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
+- [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - SBOM, provenance, dependency graph, and vulnerability tools for Nix.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
