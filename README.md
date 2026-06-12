@@ -179,6 +179,7 @@
 - [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
@@ -236,7 +237,6 @@
 - [Wauzmons/WauzMusicPlayer](https://github.com/Wauzmons/WauzMusicPlayer) - Audio Player and Manager for Windows 10
 - [contre/Windows-API-Code-Pack-1.1](https://github.com/contre/Windows-API-Code-Pack-1.1) - Windows API Code Pack 1.1
 - [adamsmith/WindowsLayoutSnapshot](https://github.com/adamsmith/WindowsLayoutSnapshot) - Windows app to remember + restore window positions
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [dragouf/CbrPdfConverter](https://github.com/dragouf/CbrPdfConverter) - A pdf&lt;=&gt;cbz converter fork from https://code.google.com/p/cbr-converter/
 - [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
@@ -1734,6 +1734,7 @@
 
 ## Nix 
 
+- [snugnug/micros](https://github.com/snugnug/micros) - Microscopic NixOS build designed for embedded environments. [Maintainers=@NotAShelf, @DamitusThyYeetus123]]
 - [nix-community/nix-installers](https://github.com/nix-community/nix-installers) - Nix installers for legacy distributions (rpm & deb & pacman) [maintainer=@adisbladis]
 - [blokyk/packages.nix](https://github.com/blokyk/packages.nix) - A custom lil nix repo with some packaged software and personal nixos/hm modules
 - [llakala/lladios](https://github.com/llakala/lladios) - 
@@ -1748,7 +1749,7 @@
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [mightyiam/files](https://github.com/mightyiam/files) - In-repository file generation flake-parts module
 - [denful/with-inputs](https://github.com/denful/with-inputs) - A flake-inputs adapter for Nix projects that don't use `flake.nix`.
-- [denful/flake-file](https://github.com/denful/flake-file) - Generate flake.nix from module options. Input and Output schemas. Works with flakes, unflake, npins or nixlock.
+- [denful/flake-file](https://github.com/denful/flake-file) - Generate flake.nix from module options. Input and Output schemas. Works with flakes, unflake, npins or tack
 - [Dauliac/nix-oci](https://github.com/Dauliac/nix-oci) - Flake-parts module to manage OCI repositories
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
@@ -1809,7 +1810,6 @@
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
-- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [jlesquembre/dotfiles](https://github.com/jlesquembre/dotfiles) - My dotfiles
 - [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - NixOS VMs on macOS or Linux using Lima
 - [tfc/nixos-configs](https://github.com/tfc/nixos-configs) - My personal NixOS configs for different machines.
@@ -2175,6 +2175,7 @@
 - [sfermigier/awesome-foss-alternatives](https://github.com/sfermigier/awesome-foss-alternatives) - Awesome Free / Open Source Alternatives (to common SaaS products) for Business Use
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
+- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [twelve-factor/twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
 - [nrdxp/rfc-evidence](https://github.com/nrdxp/rfc-evidence) - 
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
@@ -2383,7 +2384,7 @@
 - [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
-- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
+- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent, now in Python.
 - [buildwithparallel/haven-manet-ip-mesh-radio](https://github.com/buildwithparallel/haven-manet-ip-mesh-radio) - Haven – MANET IP Mesh Radio toolkit
 - [Sigmanificient/nixpkgs-failure-dashboard](https://github.com/Sigmanificient/nixpkgs-failure-dashboard) - A better way to search and categorize build logs
 - [valeoai/ZS3](https://github.com/valeoai/ZS3) - Zero-Shot Semantic Segmentation
