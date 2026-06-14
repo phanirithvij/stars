@@ -1479,7 +1479,7 @@
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
-- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -5298,7 +5298,7 @@
 - [singingwolfboy/flask-sse](https://github.com/singingwolfboy/flask-sse) - Server-Sent Events for Flask
 - [t1nfoil/gopherdance](https://github.com/t1nfoil/gopherdance) - some dancing gophers in your terminal
 - [dsys/match](https://github.com/dsys/match) - :crystal_ball: Scalable reverse image search built on Kubernetes and Elasticsearch
-- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Trace back an anime scene with a screenshot
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Timestamp Retrieval for Anime Clips Everywhere
 - [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) - 
 - [viant/afs](https://github.com/viant/afs) - Abstract File Storage
 - [senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
