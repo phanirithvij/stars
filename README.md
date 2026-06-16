@@ -1176,7 +1176,7 @@
 - [dwayne/elm2nix](https://github.com/dwayne/elm2nix) - A rewrite of cachix/elm2nix with a few changes and improvements.
 - [jeslie0/mkElmDerivation](https://github.com/jeslie0/mkElmDerivation) - A nix flake for simplifiying the packaging of elm projects, inspired by elm2nix.
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
-- [nix-community/nixpkgs-update](https://github.com/nix-community/nixpkgs-update) - Updating nixpkgs packages since 2018
+- [nix-community/nixpkgs-update](https://github.com/nix-community/nixpkgs-update) - Updating nixpkgs packages since 2018 [maintainers=@rhendric, @zowoq]
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [lf-/dotfiles](https://github.com/lf-/dotfiles) - Dotfiles, a monorepo, who is to know!!
@@ -2835,6 +2835,7 @@
 
 ## Rust 
 
+- [matrix-org/seshat](https://github.com/matrix-org/seshat) - A Matrix message database/indexer
 - [forallsys/wire](https://github.com/forallsys/wire) - wire is a tool to deploy nixos systems
 - [thejohncrafter/nixos-harden-systemd](https://github.com/thejohncrafter/nixos-harden-systemd) - Discover the Best Hardening Options for Systemd Services in NixOS
 - [benkoppe/nixsearch](https://github.com/benkoppe/nixsearch) - Fast, no-nonsense Nix search engine
