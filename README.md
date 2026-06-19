@@ -117,6 +117,7 @@
 
 ## C 
 
+- [breakgimme/mainline-apollo-wip](https://github.com/breakgimme/mainline-apollo-wip) - work in progress apollo kernel, should compile and boot but not much stuff works, as of right now ive given up on it due to touchscreen issues, putting it here mostly to not lose it
 - [Accacio/pendulum](https://github.com/Accacio/pendulum) - Inverted pendulum simulation on the terminal using c
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [leahneukirchen/mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
@@ -925,7 +926,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [vbatts/go-mtree](https://github.com/vbatts/go-mtree) - File systems verification utility and library, in likeness of mtree(8)
 - [libp2p/go-libp2p-discovery](https://github.com/libp2p/go-libp2p-discovery) - Active Peer Discovery
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [Gurkengewuerz/cefgo](https://github.com/Gurkengewuerz/cefgo) - Go bindings for the Chromium Embedded Framework (CEF)
