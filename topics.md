@@ -964,7 +964,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [byteyilabs/yi-note](https://github.com/byteyilabs/yi-note) - YiNote browser extension - online video note taking tool
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quali
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [sonigy/YCS](https://github.com/sonigy/YCS) - Chrome Extension: YCS. Search for comments and authors in YouTube videos
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
@@ -3686,7 +3686,7 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) - `$ mdsh` # a markdown shell pre-processor
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [crowdagger/crowbook](https://github.com/crowdagger/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
@@ -3997,7 +3997,7 @@
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [timer-machine/timer-machine-android](https://github.com/timer-machine/timer-machine-android) - ⏲ A highly customizable interval timer app for Android
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
@@ -5692,6 +5692,7 @@
 
 ## privacy 
 
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [cyrinux/push2talk](https://github.com/cyrinux/push2talk) - Push-to-Talk: Seamless Integration with Wayland, X11, PulseAudio & PipeWire for linux 🎤
@@ -5739,7 +5740,7 @@
 - [lesderid/keynavish](https://github.com/lesderid/keynavish) - Control the mouse with the keyboard, on Windows.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [byteyilabs/yi-note](https://github.com/byteyilabs/yi-note) - YiNote browser extension - online video note taking tool
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quali
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
@@ -5780,7 +5781,7 @@
 
 - [CodyTseng/jumble](https://github.com/CodyTseng/jumble) - A user-friendly Nostr client for exploring relay feeds
 - [tomayac/fugu-greetings](https://github.com/tomayac/fugu-greetings) - A sample app that features a lot of Project Fugu 🐡 APIs.
-- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
@@ -6034,7 +6035,7 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [sqlectron/sqlectron](https://github.com/sqlectron/sqlectron) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [edvinlinden/killedby.tech](https://github.com/edvinlinden/killedby.tech) - DEPRECATED A graveyard for discontinued products and services from companies like Google, Apple and Microsoft.
-- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://staging.app.bangle.io/
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io) - A web only WYSIWYG note taking app that saves notes locally in markdown format. v2: https://app.bangle.io/
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
@@ -6172,7 +6173,7 @@
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [veloren/veloren](https://github.com/veloren/veloren) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitL
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -6261,6 +6262,7 @@
 
 ## security 
 
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent, now in Python.
 - [rascal999/maxos-legacy](https://github.com/rascal999/maxos-legacy) - Pentest focused NixOS config
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
@@ -6902,7 +6904,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [lucab85/ansible-pilot](https://github.com/lucab85/ansible-pilot) - Ansible Pilot YouTube channel code repository
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quali
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -7206,7 +7208,7 @@
 - [agentcooper/youtube-sort](https://github.com/agentcooper/youtube-sort) - Sort YouTube videos by view count or average rating
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [byteyilabs/yi-note](https://github.com/byteyilabs/yi-note) - YiNote browser extension - online video note taking tool
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quali
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [sonigy/YCS](https://github.com/sonigy/YCS) - Chrome Extension: YCS. Search for comments and authors in YouTube videos
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
