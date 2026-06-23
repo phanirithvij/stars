@@ -2725,7 +2725,7 @@
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
-- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
+- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Open-source systems management and configuration platform
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) - Offline Minecraft launcher.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -3060,7 +3060,7 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
+- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Open-source systems management and configuration platform
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -3432,7 +3432,7 @@
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
-- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
+- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Open-source systems management and configuration platform
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -5676,7 +5676,7 @@
 - [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
-- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
+- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Open-source systems management and configuration platform
 - [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog makes world-class developer pods. This is our open source platform.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
@@ -5840,7 +5840,7 @@
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [rmartin16/qbittorrentui](https://github.com/rmartin16/qbittorrentui) - text user interface for qbittorrent
-- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
+- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Open-source systems management and configuration platform
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
@@ -6084,7 +6084,7 @@
 
 ## reactjs 
 
-- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
+- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) - Open-source systems management and configuration platform
 - [unsplash/react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
 - [Nargonath/cra-build-watch](https://github.com/Nargonath/cra-build-watch) - A script for create-react-app that writes development builds to the disk
 - [atomiks/tippyjs-react](https://github.com/atomiks/tippyjs-react) - React component for Tippy.js (official)
