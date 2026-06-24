@@ -4423,7 +4423,7 @@
 - [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - Nix packages and services for projects supported through the NGI program
 - [selfhostedshow/show-notes](https://github.com/selfhostedshow/show-notes) - Powers notes.jupiterbroadcasting.com
 - [jolheiser/mazanoke-nix](https://github.com/jolheiser/mazanoke-nix) - Nix derivation/flake for https://github.com/civilblur/mazanoke
-- [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) - A highly customizable systemfetch written in nim
+- [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) - A small systemfetch written in nim
 - [s3m/s3m](https://github.com/s3m/s3m) - CLI for streams of data in S3 buckets
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
