@@ -490,7 +490,7 @@
 - [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [authpass/authpass-cloud](https://github.com/authpass/authpass-cloud) - 
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
@@ -926,7 +926,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [vbatts/go-mtree](https://github.com/vbatts/go-mtree) - File systems verification utility and library, in likeness of mtree(8)
 - [libp2p/go-libp2p-discovery](https://github.com/libp2p/go-libp2p-discovery) - Active Peer Discovery
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [Gurkengewuerz/cefgo](https://github.com/Gurkengewuerz/cefgo) - Go bindings for the Chromium Embedded Framework (CEF)
@@ -1104,6 +1104,7 @@
 
 ## HTML 
 
+- [keepandroidopen/keepandroidopen.github.io](https://github.com/keepandroidopen/keepandroidopen.github.io) - Resisting Google's Android developer verification mandate
 - [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
 - [rascal999/maxos-legacy](https://github.com/rascal999/maxos-legacy) - Pentest focused NixOS config
 - [Azeirah/nix-deps-treemap](https://github.com/Azeirah/nix-deps-treemap) - Visualize your nix derivation dependency graph as an interactive treemap
@@ -1373,7 +1374,7 @@
 - [1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [byteyilabs/yi-note](https://github.com/byteyilabs/yi-note) - YiNote browser extension - online video note taking tool
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 Foss.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌250+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
 - [cvzi/Spotify-Genius-Lyrics-userscript](https://github.com/cvzi/Spotify-Genius-Lyrics-userscript) - Userscript, shows lyrics from genius.com on Spotify web
 - [umair-khanzada/multi-user-login-app](https://github.com/umair-khanzada/multi-user-login-app) - The purpose of this app to support multi-user login on front-end like Google's Gmail
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
@@ -1750,7 +1751,6 @@
 - [adisbladis/flake-incompat](https://github.com/adisbladis/flake-incompat) - 
 - [llakala/adios-wrappers](https://github.com/llakala/adios-wrappers) - 
 - [Mic92/adios-flake](https://github.com/Mic92/adios-flake) - Composable flake outputs using the adios module system — the ergonomics of flake-parts without the evaluation overhead.
-- [bogorad/protected-laptop](https://github.com/bogorad/protected-laptop) - YubiKey-protected NixOS laptop with Tails fallback
 - [WitteShadovv/deferred-apps](https://github.com/WitteShadovv/deferred-apps) - Download apps on-demand while still showing them as installed to keep the host lighter
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
@@ -2389,6 +2389,8 @@
 
 ## Python 
 
+- [7mind/squish-find-the-brains](https://github.com/7mind/squish-find-the-brains) - Nix wrapper for SBT
+- [mipmip/hm-ricing-mode](https://github.com/mipmip/hm-ricing-mode) - Ricing mode utility for Home Manager
 - [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
@@ -2843,6 +2845,7 @@
 
 ## Rust 
 
+- [Mic92/tribuchet](https://github.com/Mic92/tribuchet) - RBE-style remote build execution for Nix (external-builders)
 - [matrix-org/seshat](https://github.com/matrix-org/seshat) - A Matrix message database/indexer
 - [forallsys/wire](https://github.com/forallsys/wire) - wire is a tool to deploy nixos systems
 - [thejohncrafter/nixos-harden-systemd](https://github.com/thejohncrafter/nixos-harden-systemd) - Discover the Best Hardening Options for Systemd Services in NixOS
@@ -3047,7 +3050,7 @@
 - [sgeisler/cargo-remote](https://github.com/sgeisler/cargo-remote) - cargo subcommand to compile rust projects remotely
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
@@ -3105,6 +3108,7 @@
 ## Shell 
 
 - [physics-enthusiast/mido-nix](https://github.com/physics-enthusiast/mido-nix) - The Secure Microsoft Windows Downloader
+- [bogorad/protected-laptop](https://github.com/bogorad/protected-laptop) - YubiKey-protected NixOS laptop with Tails fallback
 - [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images
 - [HomuHomu833/android-ndk-custom](https://github.com/HomuHomu833/android-ndk-custom) - Android NDK with custom LLVM built using various libc's, supporting multiple architectures and platforms.
 - [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
