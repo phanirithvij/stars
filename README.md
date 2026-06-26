@@ -637,6 +637,7 @@
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [Finatext/gha-fix](https://github.com/Finatext/gha-fix) - Automates security and maintenance fixes in GitHub Actions workflows
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
 - [tonistiigi/go-actions-cache](https://github.com/tonistiigi/go-actions-cache) - 
@@ -851,7 +852,7 @@
 - [ThePrimeagen/no-flap-november](https://github.com/ThePrimeagen/no-flap-november) - the greatest
 - [kisom/goutils](https://github.com/kisom/goutils) - Moved to gitea.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
 - [hanwen/go-mtpfs](https://github.com/hanwen/go-mtpfs) - Mount MTP devices over FUSE
@@ -1818,7 +1819,7 @@
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
 - [jlesquembre/dotfiles](https://github.com/jlesquembre/dotfiles) - My dotfiles
-- [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - NixOS VMs on macOS or Linux using Lima
+- [nixos-lima/nixos-lima](https://github.com/nixos-lima/nixos-lima) - NixOS VMs on macOS/Linux via Lima
 - [tfc/nixos-configs](https://github.com/tfc/nixos-configs) - My personal NixOS configs for different machines.
 - [fricklerhandwerk/lazy-drv](https://github.com/fricklerhandwerk/lazy-drv) - Realise Nix derivations on demand.
 - [fricklerhandwerk/flake-inputs](https://github.com/fricklerhandwerk/flake-inputs) - A helper to use remote references from `flake.lock` in stable Nix.
@@ -1907,7 +1908,7 @@
 - [flox/floxpkgs.v1](https://github.com/flox/floxpkgs.v1) - 
 - [tomberek/incremental](https://github.com/tomberek/incremental) - 
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
-- [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - Nix packages and services for projects supported through the NGI program
+- [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - [Deprecated] Nix packages and services for projects supported through the NGI program
 - [jolheiser/mazanoke-nix](https://github.com/jolheiser/mazanoke-nix) - Nix derivation/flake for https://github.com/civilblur/mazanoke
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
@@ -3119,7 +3120,6 @@
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [Ninlives/relocatable.nix](https://github.com/Ninlives/relocatable.nix) - A nix bundler that produces relocatable deployment script for nix store paths.
 - [ZilchOS/bootstrap-from-tcc](https://github.com/ZilchOS/bootstrap-from-tcc) - Starting with a single ~400 KB TinyCC binary, compile a Clang 17 toolchain and Nix package manager
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [NixOS/nixpkgs-committers](https://github.com/NixOS/nixpkgs-committers) - Tracking of changes to Nixpkgs committers
 - [erikarvstedt/nix-zig-build](https://github.com/erikarvstedt/nix-zig-build) - A Nix Flake for developing Zig
