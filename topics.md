@@ -3382,6 +3382,7 @@
 
 ## linux 
 
+- [nixcloud/ip2unix](https://github.com/nixcloud/ip2unix) - Turn IP sockets into Unix domain sockets
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [WitteShadovv/deferred-apps](https://github.com/WitteShadovv/deferred-apps) - Download apps on-demand while still showing them as installed to keep the host lighter
