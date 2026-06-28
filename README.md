@@ -609,7 +609,7 @@
 
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
@@ -1145,6 +1145,7 @@
 - [skeeto/skeeto.github.com](https://github.com/skeeto/skeeto.github.com) - Personal website/blog
 - [charludo/telegram.graphics](https://github.com/charludo/telegram.graphics) - Chat anaylzer for the telegram-client.
 - [plamere/OrganizeYourMusic](https://github.com/plamere/OrganizeYourMusic) - Organize your saved music on Spotify
+- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people and characters
 - [ryanbradynd05/go-tmdb](https://github.com/ryanbradynd05/go-tmdb) - Golang Wrapper for TheMovieDB API
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [preslavrachev/generative-art-in-go](https://github.com/preslavrachev/generative-art-in-go) - A companion source code repository to the book "Generative Art in Go"
@@ -2651,7 +2652,6 @@
 - [TheoCoombes/crawlingathome](https://github.com/TheoCoombes/crawlingathome) - A client library for LAION's effort to filter CommonCrawl with CLIP, building a large scale image-text dataset.
 - [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 - [christopher-roelofs/ComicTools](https://github.com/christopher-roelofs/ComicTools) - A set of tools for working with digital comics
-- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people, characters and companies
 - [cyweb/hammer](https://github.com/cyweb/hammer) - Hammer DDos Script - Python 3
 - [shibukawa/imagesize_py](https://github.com/shibukawa/imagesize_py) - 
 - [dawoudt/JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) - Python 3 JustWatch.com API - https://justwatch.com
@@ -2861,7 +2861,7 @@
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [snowfallorg/nix-software-center](https://github.com/snowfallorg/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
 - [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform that unifies all your formatters.
 - [ow-mods/ow-mod-man](https://github.com/ow-mods/ow-mod-man) - The mod manager for the Outer Wilds Mod Loader
 - [DeterminateSystems/nix-wasm-rust](https://github.com/DeterminateSystems/nix-wasm-rust) - Bindings for writing Nix builtins in Rust
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
