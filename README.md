@@ -609,7 +609,7 @@
 
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
@@ -1742,6 +1742,8 @@
 
 ## Nix 
 
+- [osbm/nixapks](https://github.com/osbm/nixapks) - Build android applications with nix [maintainer=@osbm]
+- [mio-19/repo](https://github.com/mio-19/repo) - build script for android applications and operating system based on android
 - [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations.
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [giovantenne/nixos-lab](https://github.com/giovantenne/nixos-lab) - Manages a multi-PC NixOS lab, optimized for network installation (Netboot) with no internet access and a master PC acting as the local controller.
@@ -2847,6 +2849,7 @@
 
 ## Rust 
 
+- [chayleaf/mitm-cache](https://github.com/chayleaf/mitm-cache) - MITM caching proxy
 - [Mic92/tribuchet](https://github.com/Mic92/tribuchet) - RBE-style remote build execution for Nix (external-builders)
 - [matrix-org/seshat](https://github.com/matrix-org/seshat) - A Matrix message database/indexer
 - [forallsys/wire](https://github.com/forallsys/wire) - wire is a tool to deploy nixos systems
