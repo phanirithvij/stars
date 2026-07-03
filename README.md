@@ -2394,6 +2394,7 @@
 
 ## Python 
 
+- [Mic92/nixbot](https://github.com/Mic92/nixbot) - Standalone Nix CI service for NixOS
 - [7mind/squish-find-the-brains](https://github.com/7mind/squish-find-the-brains) - Nix wrapper for SBT
 - [mipmip/hm-ricing-mode](https://github.com/mipmip/hm-ricing-mode) - Ricing mode utility for Home Manager
 - [cachix/nixpkgs-python](https://github.com/cachix/nixpkgs-python) - All Python versions, kept up-to-date on hourly basis using Nix.
@@ -2849,6 +2850,7 @@
 
 ## Rust 
 
+- [lovesegfault/rio-build](https://github.com/lovesegfault/rio-build) - Distributed builds for Nix
 - [chayleaf/mitm-cache](https://github.com/chayleaf/mitm-cache) - MITM caching proxy
 - [Mic92/tribuchet](https://github.com/Mic92/tribuchet) - RBE-style remote build execution for Nix (external-builders)
 - [matrix-org/seshat](https://github.com/matrix-org/seshat) - A Matrix message database/indexer
@@ -2900,7 +2902,7 @@
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools
 - [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
-- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions
+- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
