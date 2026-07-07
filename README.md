@@ -1741,6 +1741,7 @@
 
 ## Nix 
 
+- [mio-19/config-public](https://github.com/mio-19/config-public) - 
 - [osbm/nixapks](https://github.com/osbm/nixapks) - Build android applications with nix [maintainer=@osbm]
 - [mio-19/repo](https://github.com/mio-19/repo) - build script for android applications and operating system based on android
 - [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations.
@@ -2886,7 +2887,7 @@
 - [linyinfeng/angrr](https://github.com/linyinfeng/angrr) - Auto Nix GC Root Retention
 - [utensils/nxv](https://github.com/utensils/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
 - [repology/repology-rs](https://github.com/repology/repology-rs) - Source code of all Repology components
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [neunenak/diskonaut](https://github.com/neunenak/diskonaut) - Terminal disk space navigator 🔭
 - [owo-uwu-nyaa/jellyhaj](https://github.com/owo-uwu-nyaa/jellyhaj) - jellyfin tui in rust
 - [RohanAdwankar/newt](https://github.com/RohanAdwankar/newt) - A cross-language notebook terminal interface and server.
