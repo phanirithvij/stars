@@ -611,7 +611,6 @@
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
 - [eljamm/gowt](https://github.com/eljamm/gowt) - fuzzy TUI for managing git worktrees, written in Go
@@ -757,7 +756,7 @@
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [chihaya/chihaya](https://github.com/chihaya/chihaya) - A customizable, multi-protocol BitTorrent Tracker
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [gabe565/gh-profile](https://github.com/gabe565/gh-profile) - :octocat: Use multiple GitHub accounts with the gh cli.
 - [s0rg/decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -2396,6 +2395,7 @@
 
 ## Python 
 
+- [spmcmil/android-scripts](https://github.com/spmcmil/android-scripts) - 
 - [Mic92/nixbot](https://github.com/Mic92/nixbot) - Standalone Nix CI service for NixOS
 - [7mind/squish-find-the-brains](https://github.com/7mind/squish-find-the-brains) - Nix wrapper for SBT
 - [mipmip/hm-ricing-mode](https://github.com/mipmip/hm-ricing-mode) - Ricing mode utility for Home Manager
@@ -3271,6 +3271,7 @@
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
 - [CodyTseng/jumble](https://github.com/CodyTseng/jumble) - A user-friendly Nostr client for exploring relay feeds
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
