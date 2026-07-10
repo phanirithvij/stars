@@ -305,6 +305,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
@@ -7081,7 +7082,7 @@
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
-- [developeranaz/Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
+- [developeranaz/MEGA-INDEX](https://github.com/developeranaz/MEGA-INDEX) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [perfree/go-fastdfs-web](https://github.com/perfree/go-fastdfs-web) - Go-Fastdfs web管理平台
@@ -7104,7 +7105,7 @@
 ## webapp 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [developeranaz/Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
+- [developeranaz/MEGA-INDEX](https://github.com/developeranaz/MEGA-INDEX) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog) - The microblogging application developed in my Flask Mega-Tutorial series. This version maps to the 2024 Edition of the tutorial.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -7120,7 +7121,7 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [Chocobo1/bencode_online](https://github.com/Chocobo1/bencode_online) - Bencode & bdecode in your browser
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
-- [developeranaz/Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
+- [developeranaz/MEGA-INDEX](https://github.com/developeranaz/MEGA-INDEX) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
 - [Snaacky/theindex](https://github.com/Snaacky/theindex) - The frontend, editor panel, and API of TheIndex.moe
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
 
@@ -7226,6 +7227,13 @@
 - [sindresorhus/wallpaper](https://github.com/sindresorhus/wallpaper) - Manage the desktop wallpaper
 - [dukemiller/anime-downloader](https://github.com/dukemiller/anime-downloader) - A downloader and manager for airing anime series.
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
+
+## workflow 
+
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
+- [josh-project/josh](https://github.com/josh-project/josh) - Git at scale platform
+- [vimpostor/blobdrop](https://github.com/vimpostor/blobdrop) - Drag and drop files directly out of the terminal
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## xcode 
 
