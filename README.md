@@ -1403,6 +1403,7 @@
 - [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [Cortys/comic-backup](https://github.com/Cortys/comic-backup) - Back up your comics as CBZ.
+- [developeranaz/MEGA-INDEX](https://github.com/developeranaz/MEGA-INDEX) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [0ibaba/Google-Drive-Index](https://github.com/0ibaba/Google-Drive-Index) - Index Google Drive Files Easily and Free
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
@@ -3219,7 +3220,6 @@
 - [jimhester/per-directory-history](https://github.com/jimhester/per-directory-history) - Per directory history for zsh, as well as global history, and the ability to toggle between them with ^G.
 - [snapcrafters/scummvm](https://github.com/snapcrafters/scummvm) - A community-maintained package to easily install ScummVM on Linux
 - [lovezzzxxx/liverecord](https://github.com/lovezzzxxx/liverecord) - 自动录播并自动备份，支持youtube频道、twitcast频道、twitch频道、openrec频道、niconico生放送、niconico社区、niconico频道、mirrativ频道、reality频道、17live频道、bilibili频道、streamlink支持的直播网址、ffmpeg支持的m3u8地址
-- [developeranaz/Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
 - [fractalwrench/ApkGolf](https://github.com/fractalwrench/ApkGolf) - The smallest Android APK in the world
 - [libvips/build-win64](https://github.com/libvips/build-win64) - build libvips for 64-bit windows
 - [w9jds/firebase-action](https://github.com/w9jds/firebase-action) - GitHub Action for interacting with Firebase
