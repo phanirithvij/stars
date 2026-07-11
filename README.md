@@ -1373,7 +1373,7 @@
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [agentcooper/youtube-sort](https://github.com/agentcooper/youtube-sort) - Sort YouTube videos by view count or average rating
 - [SuperFola/TierListMaker](https://github.com/SuperFola/TierListMaker) - A client side tier list maker, without any ads
-- [1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
+- [IDisposable/dom-to-image-more](https://github.com/IDisposable/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [byteyilabs/yi-note](https://github.com/byteyilabs/yi-note) - YiNote browser extension - online video note taking tool
 - [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 Foss.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌250+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
@@ -1403,7 +1403,7 @@
 - [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [Cortys/comic-backup](https://github.com/Cortys/comic-backup) - Back up your comics as CBZ.
-- [developeranaz/MEGA-INDEX](https://github.com/developeranaz/MEGA-INDEX) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
+- [developeranaz/MEGA-INDEX-CLOUDFLARE](https://github.com/developeranaz/MEGA-INDEX-CLOUDFLARE) - Serve your MEGA.nz files through Cloudflare Workers, providing a fast, stable, and web-based file index with improved download performance and a seamless browsing experience.
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [0ibaba/Google-Drive-Index](https://github.com/0ibaba/Google-Drive-Index) - Index Google Drive Files Easily and Free
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
