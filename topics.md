@@ -5040,7 +5040,7 @@
 - [PwnFunction/v8-randomness-predictor](https://github.com/PwnFunction/v8-randomness-predictor) - Using z3 to predict `Math.random` in v8
 - [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [SuperFola/TierListMaker](https://github.com/SuperFola/TierListMaker) - A client side tier list maker, without any ads
-- [1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
+- [IDisposable/dom-to-image-more](https://github.com/IDisposable/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [ThePrimeagen/no-flap-november](https://github.com/ThePrimeagen/no-flap-november) - the greatest
 - [ThePrimeagen/anime](https://github.com/ThePrimeagen/anime) - The repo that everyone deserves
@@ -7082,7 +7082,6 @@
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
-- [developeranaz/MEGA-INDEX](https://github.com/developeranaz/MEGA-INDEX) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [perfree/go-fastdfs-web](https://github.com/perfree/go-fastdfs-web) - Go-Fastdfs web管理平台
@@ -7105,7 +7104,7 @@
 ## webapp 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [developeranaz/MEGA-INDEX](https://github.com/developeranaz/MEGA-INDEX) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
+- [developeranaz/MEGA-INDEX-CLOUDFLARE](https://github.com/developeranaz/MEGA-INDEX-CLOUDFLARE) - Serve your MEGA.nz files through Cloudflare Workers, providing a fast, stable, and web-based file index with improved download performance and a seamless browsing experience.
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [miguelgrinberg/microblog](https://github.com/miguelgrinberg/microblog) - The microblogging application developed in my Flask Mega-Tutorial series. This version maps to the 2024 Edition of the tutorial.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -7121,7 +7120,6 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [Chocobo1/bencode_online](https://github.com/Chocobo1/bencode_online) - Bencode & bdecode in your browser
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
-- [developeranaz/MEGA-INDEX](https://github.com/developeranaz/MEGA-INDEX) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
 - [Snaacky/theindex](https://github.com/Snaacky/theindex) - The frontend, editor panel, and API of TheIndex.moe
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
 
