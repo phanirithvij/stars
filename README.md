@@ -683,7 +683,7 @@
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [brizzbuzz/opnix](https://github.com/brizzbuzz/opnix) - Agenix inspired tool enabling users to inject secrets from 1password into their Nix servers at build time
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
 - [adisbladis/gobuild.nix](https://github.com/adisbladis/gobuild.nix) - Incremental Go builders for Nix
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -1741,6 +1741,7 @@
 
 ## Nix 
 
+- [ShadowRZ/hanekokoro-flake](https://github.com/ShadowRZ/hanekokoro-flake) - Hanekokoro (はねこころ) Flake
 - [mio-19/config-public](https://github.com/mio-19/config-public) - 
 - [osbm/nixapks](https://github.com/osbm/nixapks) - Build android applications with nix [maintainer=@osbm]
 - [mio-19/repo](https://github.com/mio-19/repo) - build script for android applications and operating system based on android
