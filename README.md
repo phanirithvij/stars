@@ -2026,6 +2026,7 @@
 - [sodiboo/system](https://github.com/sodiboo/system) - i use NixOS btw
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [GetPsyched/homeless-shelter](https://github.com/GetPsyched/homeless-shelter) - my nix config
+- [imincik/nix-utils](https://github.com/imincik/nix-utils) - Handy nix scripts
 - [numtide/build-go-cache](https://github.com/numtide/build-go-cache) - buildGoCache speeds up nix's buildGoModule by pre-compiling imported go modules
 - [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
 - [DavidEGrayson/nixcrpkgs](https://github.com/DavidEGrayson/nixcrpkgs) - Nice nix expressions for cross-compiling.
@@ -2504,7 +2505,6 @@
 - [jeslie0/npm-lockfile-fix](https://github.com/jeslie0/npm-lockfile-fix) - Add missing integrity and resolved fields to a package-lock.json file
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [zulip/zulip-terminal](https://github.com/zulip/zulip-terminal) - Official Zulip terminal client.
-- [imincik/nix-utils](https://github.com/imincik/nix-utils) - Handy nix scripts
 - [twitter/communitynotes](https://github.com/twitter/communitynotes) - Documentation and source code powering Twitter's Community Notes
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [GeorgeFilipkin/pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
