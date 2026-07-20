@@ -2865,7 +2865,7 @@
 - [forallsys/wire](https://github.com/forallsys/wire) - wire is a tool to deploy nixos systems
 - [thejohncrafter/nixos-harden-systemd](https://github.com/thejohncrafter/nixos-harden-systemd) - Discover the Best Hardening Options for Systemd Services in NixOS
 - [benkoppe/nixsearch](https://github.com/benkoppe/nixsearch) - Fast, no-nonsense Nix search engine
-- [Mic92/hestia](https://github.com/Mic92/hestia) - Nix binary cache backed by the GitHub Actions cache: zero setup, deduplicated uploads, automatic GC (beta)
+- [Mic92/hestia](https://github.com/Mic92/hestia) - Nix binary cache and build matrix for GitHub Actions: eval once, build checks in parallel jobs, deduplicated uploads, automatic GC, zero setup
 - [ylxdzsw/dssd](https://github.com/ylxdzsw/dssd) - Dead Simple Secret Daemon
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
 - [Mic92/nixfmt-rs](https://github.com/Mic92/nixfmt-rs) - A from-scratch Rust reimplementation of nixfmt that produces byte-identical output to the Haskell original.
