@@ -647,7 +647,7 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [ParetoSecurity/agent](https://github.com/ParetoSecurity/agent) - Automatically audit your Linux or Windows machine for basic security hygiene.
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
-- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)
+- [mrusme/neonmodem](https://github.com/mrusme/neonmodem) - Neon Modem Overdrive (https://tty.fail/mrus/neonmodem)
 - [dnr/styx](https://github.com/dnr/styx) - alternate nix substitution
 - [horriblename/mathcha](https://github.com/horriblename/mathcha) - A mathquill-like interactive math input in a terminal, built with the charm TUI library.
 - [paisano-nix/tui](https://github.com/paisano-nix/tui) - Paisano's TUI/CLI companion
@@ -1171,7 +1171,6 @@
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [hummingbird-me/kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - :hammer: The tools we use to build Kitsu, the coolest platform for anime and manga
 - [bradtraversy/traversy-launcher](https://github.com/bradtraversy/traversy-launcher) - Simple Google Chrome extension to access Traversy Media content
 
@@ -1526,6 +1525,7 @@
 - [hoxxep/Snarl](https://github.com/hoxxep/Snarl) - Growl style notifications for your web app.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [hq-af/twist-batch-downloader](https://github.com/hq-af/twist-batch-downloader) - Twist.moe CLI Batch Anime Downloader
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [weizhenye/ASS](https://github.com/weizhenye/ASS) - A lightweight JavaScript ASS subtitle renderer
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
@@ -2890,7 +2890,7 @@
 - [FliegendeWurst/nixpkgs-pr-build-bot](https://github.com/FliegendeWurst/nixpkgs-pr-build-bot) - Self-hosted ofborg/nixpkgs-review bot for nixpkgs
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
 - [linyinfeng/angrr](https://github.com/linyinfeng/angrr) - Auto Nix GC Root Retention
-- [utensils/nxv](https://github.com/utensils/nxv) - nxv — Nix Version Index. A blazingly fast CLI for finding any version of any Nix package.
+- [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI + HTTP API + web UI over 9+ years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg.
 - [repology/repology-rs](https://github.com/repology/repology-rs) - Source code of all Repology components
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
 - [neunenak/diskonaut](https://github.com/neunenak/diskonaut) - Terminal disk space navigator 🔭
@@ -3291,7 +3291,7 @@
 - [shiruken/admin-tattler](https://github.com/shiruken/admin-tattler) - Get notified when the Reddit Admins action content in your subreddit
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
+- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
 - [gitgitgadget/gitgitgadget](https://github.com/gitgitgadget/gitgitgadget) - Sending GitHub PRs to the Git mailing list
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
