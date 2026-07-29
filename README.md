@@ -608,6 +608,7 @@
 
 ## Go 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
@@ -1743,6 +1744,8 @@
 
 ## Nix 
 
+- [fractuscontext/nix-wine-macos](https://github.com/fractuscontext/nix-wine-macos) - WineHQ binaries for macOS, built with Nix
+- [SergioRibera/nix-bundle-app](https://github.com/SergioRibera/nix-bundle-app) - Turn any Nix derivation into native installers for Linux/MacOS/Windows, no Nix required on the target machine
 - [ShadowRZ/hanekokoro-flake](https://github.com/ShadowRZ/hanekokoro-flake) - Hanekokoro (はねこころ) Flake
 - [mio-19/config-public](https://github.com/mio-19/config-public) - 
 - [osbm/nixapks](https://github.com/osbm/nixapks) - Build android applications with nix [maintainer=@osbm]
@@ -2857,6 +2860,7 @@
 
 ## Rust 
 
+- [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [lovesegfault/rio-build](https://github.com/lovesegfault/rio-build) - Distributed builds for Nix
 - [chayleaf/mitm-cache](https://github.com/chayleaf/mitm-cache) - MITM caching proxy
