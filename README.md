@@ -608,6 +608,7 @@
 
 ## Go 
 
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
@@ -1378,7 +1379,7 @@
 - [IDisposable/dom-to-image-more](https://github.com/IDisposable/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [byteyilabs/yi-note](https://github.com/byteyilabs/yi-note) - YiNote browser extension - online video note taking tool
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌350+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
 - [cvzi/Spotify-Genius-Lyrics-userscript](https://github.com/cvzi/Spotify-Genius-Lyrics-userscript) - Userscript, shows lyrics from genius.com on Spotify web
 - [umair-khanzada/multi-user-login-app](https://github.com/umair-khanzada/multi-user-login-app) - The purpose of this app to support multi-user login on front-end like Google's Gmail
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
@@ -2484,7 +2485,7 @@
 - [Saik0s/mcp-browser-use](https://github.com/Saik0s/mcp-browser-use) - 
 - [mifka01/cache-server](https://github.com/mifka01/cache-server) - A self-hostable, distributed Nix binary cache server with flexible storage strategies
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
@@ -2905,7 +2906,7 @@
 - [lheckemann/ssh-agent-notifier](https://github.com/lheckemann/ssh-agent-notifier) - 
 - [cyrinux/push2talk](https://github.com/cyrinux/push2talk) - Push-to-Talk: Seamless Integration with Wayland, X11, PulseAudio & PipeWire for linux 🎤
 - [home-mangler/home-mangler](https://github.com/home-mangler/home-mangler) - A friendly Nix profile manager
-- [hey-adora/artbounty](https://github.com/hey-adora/artbounty) - 
+- [hey-adora/catsquad](https://github.com/hey-adora/catsquad) - 
 - [nix-community/namaka](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea [maintainer=@figsoda]
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [fastforgedev/fastforge](https://github.com/fastforgedev/fastforge) - Ship every app faster to your users — Build, package, and publish with one clear configuration. Target popular distribution formats and app stores while fitting naturally into your CI/CD pipeline.
