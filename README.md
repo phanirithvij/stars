@@ -993,7 +993,7 @@
 - [mrichman/godnsbl](https://github.com/mrichman/godnsbl) - Go library for RBL (Real-time Blackhole List) lookups
 - [jpillora/ipfilter](https://github.com/jpillora/ipfilter) - A package for IP Filtering in Go (golang)
 - [muka/go-bluetooth](https://github.com/muka/go-bluetooth) - Golang bluetooth client based on bluez DBus interfaces
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [klausbrunner/gosolarpos](https://github.com/klausbrunner/gosolarpos) - Package gosolarpos contains functions to find topocentric solar coordinates, i.e. the sun’s position on the sky at a given date, latitude, and longitude (and other parameters).
 - [go-gorm/datatypes](https://github.com/go-gorm/datatypes) - GORM Customized Data Types Collection
 - [leonelquinteros/gotext](https://github.com/leonelquinteros/gotext) - Go (Golang) GNU gettext utilities package
@@ -2486,7 +2486,7 @@
 - [Saik0s/mcp-browser-use](https://github.com/Saik0s/mcp-browser-use) - 
 - [mifka01/cache-server](https://github.com/mifka01/cache-server) - A self-hostable, distributed Nix binary cache server with flexible storage strategies
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
