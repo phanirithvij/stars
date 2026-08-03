@@ -1985,6 +1985,7 @@
 - [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [getsentry/sentry-dart](https://github.com/getsentry/sentry-dart) - Sentry SDK for Dart and Flutter
 - [pichillilorenzo/flutter_inappwebview](https://github.com/pichillilorenzo/flutter_inappwebview) - A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window.
+- [appium/appium-flutter-driver](https://github.com/appium/appium-flutter-driver) - Appium driver for Flutter apps, maintained by the community
 - [xvrh/lottie-flutter](https://github.com/xvrh/lottie-flutter) - Render After Effects animations natively on Flutter. This package is a pure Dart implementation of a Lottie player.
 - [hnvn/flutter_shimmer](https://github.com/hnvn/flutter_shimmer) - A package provides an easy way to add shimmer effect in Flutter project
 - [firebase/flutterfire](https://github.com/firebase/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
@@ -5132,7 +5133,6 @@
 - [appium/mitmproxy-java](https://github.com/appium/mitmproxy-java) - A bridge between Python's mitmproxy and Java programs. Built on top of mitmproxy-node
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [GyanD/codexffmpeg](https://github.com/GyanD/codexffmpeg) - Support for https://www.gyan.dev/ffmpeg
-- [appium/python-client](https://github.com/appium/python-client) - Python language bindings for Appium
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus) - An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager".
 - [antonycourtney/tabli](https://github.com/antonycourtney/tabli) - A Window and Tab Manager for Google Chrome
@@ -5366,7 +5366,6 @@
 - [yjs/y-webrtc](https://github.com/yjs/y-webrtc) - WebRTC Connector for Yjs
 - [areebbeigh/codeinterview-sandbox](https://github.com/areebbeigh/codeinterview-sandbox) - A simple docker sandbox for running arbitrary user code
 - [areebbeigh/codeinterview-backend](https://github.com/areebbeigh/codeinterview-backend) - Backend code repository for CodeInterview
-- [appium/appium-flutter-driver](https://github.com/appium/appium-flutter-driver) - Appium Flutter Driver is a test automation tool for Flutter apps on multiple platforms/OSes. Appium Flutter Driver is part of the Appium mobile test automation tool maintained by community
 - [singingwolfboy/flask-sse](https://github.com/singingwolfboy/flask-sse) - Server-Sent Events for Flask
 - [t1nfoil/gopherdance](https://github.com/t1nfoil/gopherdance) - some dancing gophers in your terminal
 - [dsys/match](https://github.com/dsys/match) - :crystal_ball: Scalable reverse image search built on Kubernetes and Elasticsearch
@@ -5940,6 +5939,7 @@
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [appium/python-client](https://github.com/appium/python-client) - Python language bindings for Appium
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Tenma-Server/Tenma](https://github.com/Tenma-Server/Tenma) - Comic book server with in-browser reader
 - [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
