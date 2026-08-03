@@ -113,7 +113,6 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-- [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 
 ## C 
@@ -329,6 +328,7 @@
 - [IBM/sdl2-gamecontroller](https://github.com/IBM/sdl2-gamecontroller) - Game controller support for nodejs backed by SDL (Simple DirectMedia Layer)
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+- [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [aristocratos/btop4win](https://github.com/aristocratos/btop4win) - btop++ for windows
@@ -3421,7 +3421,7 @@
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [AInoob/NooBox](https://github.com/AInoob/NooBox) - A Chrome Extension that contains useful tools
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
-- [appium/appium-flutter-driver](https://github.com/appium/appium-flutter-driver) - Appium Flutter Driver is a test automation tool for Flutter apps on multiple platforms/OSes. Appium Flutter Driver is part of the Appium mobile test automation tool maintained by community
+- [appium/appium-flutter-driver](https://github.com/appium/appium-flutter-driver) - Appium driver for Flutter apps, maintained by the community
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [versatica/mediasoup-demo](https://github.com/versatica/mediasoup-demo) - mediasoup official demo application
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
