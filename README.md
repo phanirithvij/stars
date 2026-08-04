@@ -167,6 +167,7 @@
 - [rhash/RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums
 - [bollu/bollu.github.io](https://github.com/bollu/bollu.github.io) - code + contents of my website, and programming life
 - [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -215,7 +216,6 @@
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [FreyaHolmer/Mathfs](https://github.com/FreyaHolmer/Mathfs) - Expanded Math Functionality for Unity
 - [EslaMx7/PasteIntoFile](https://github.com/EslaMx7/PasteIntoFile) - Paste Clipboard Contents Into Files Directly (New Version Released 🔥)
 - [Pryaxis/TShock](https://github.com/Pryaxis/TShock) - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
@@ -2862,6 +2862,8 @@
 
 ## Rust 
 
+- [samestep/npb](https://github.com/samestep/npb) - Nixpkgs build outcome diff CLI
+- [axiosoph/axios](https://github.com/axiosoph/axios) - A decentralized system compositor: composition-addressed, verifiable from published source to running system.
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [lovesegfault/rio-build](https://github.com/lovesegfault/rio-build) - Distributed builds for Nix
