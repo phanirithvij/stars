@@ -394,6 +394,7 @@
 
 ## android 
 
+- [EventFahrplan/EventFahrplan](https://github.com/EventFahrplan/EventFahrplan) - An Android app to enjoy event schedules powered by Frab, Pretalx or Wafer.
 - [osbm/nixapks](https://github.com/osbm/nixapks) - Build android applications with nix [maintainer=@osbm]
 - [mio-19/repo](https://github.com/mio-19/repo) - build script for android applications and operating system based on android
 - [komikku-app/komikku](https://github.com/komikku-app/komikku) - Free and open source manga reader for Android
@@ -2704,6 +2705,7 @@
 
 ## hacktoberfest 
 
+- [EventFahrplan/EventFahrplan](https://github.com/EventFahrplan/EventFahrplan) - An Android app to enjoy event schedules powered by Frab, Pretalx or Wafer.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [dillonkearns/elm-markdown](https://github.com/dillonkearns/elm-markdown) - Extensible markdown parser with custom rendering, in pure Elm.
 - [tylerjl/benchmarking-proxies](https://github.com/tylerjl/benchmarking-proxies) - Automation to perform automated benchmarks against reverse proxy services.
