@@ -253,7 +253,7 @@
 - [AlexanderPro/AwesomeWallpaper](https://github.com/AlexanderPro/AwesomeWallpaper) - AwesomeWallpaper plays videos, shows images and system info on your desktop wallpaper
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [MattMcManis/Glow](https://github.com/MattMcManis/Glow) - mpv Config File Generator for Windows
-- [mruben0/SpotlightWallpapersUWP](https://github.com/mruben0/SpotlightWallpapersUWP) - UWP app able to find windows spotlight photos
+- [mrubendev/SpotlightWallpapersUWP](https://github.com/mrubendev/SpotlightWallpapersUWP) - UWP app able to find windows spotlight photos
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [philhansen/WallpaperChanger](https://github.com/philhansen/WallpaperChanger) - WallpaperChanger is a command line utility for changing the wallpaper (desktop background) in Windows.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
