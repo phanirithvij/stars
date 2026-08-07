@@ -665,7 +665,7 @@
 - [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages.
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
-- [picosh/git-pr](https://github.com/picosh/git-pr) - A pastebin supercharged for git collaboration
+- [picosh/patchbin](https://github.com/picosh/patchbin) - A pastebin for patches, supercharged for git collaboration
 - [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
 - [alajmo/mani](https://github.com/alajmo/mani) - :robot: CLI tool to help you manage repositories
 - [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainers=@water-sucks,@Sporif]
@@ -2385,6 +2385,7 @@
 
 ## PowerShell 
 
+- [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images
 - [jborean93/ansible-role-win_openssh](https://github.com/jborean93/ansible-role-win_openssh) - Ansible Role to install Win32-OpenSSH on Windows - https://github.com/PowerShell/Win32-OpenSSH
 - [thomaspreischl/install-wsl-and-ansible](https://github.com/thomaspreischl/install-wsl-and-ansible) - 
 - [TheRandomLabs/scoop-nonportable](https://github.com/TheRandomLabs/scoop-nonportable) - A Scoop bucket for nonportable applications.
@@ -3134,7 +3135,6 @@
 
 - [physics-enthusiast/mido-nix](https://github.com/physics-enthusiast/mido-nix) - The Secure Microsoft Windows Downloader
 - [bogorad/protected-laptop](https://github.com/bogorad/protected-laptop) - YubiKey-protected NixOS laptop with Tails fallback
-- [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images
 - [HomuHomu833/android-ndk-custom](https://github.com/HomuHomu833/android-ndk-custom) - Android NDK with custom LLVM built using various libc's, supporting multiple architectures and platforms.
 - [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) - Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
