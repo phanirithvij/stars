@@ -515,7 +515,6 @@
 - [mmcc007/fledge](https://github.com/mmcc007/fledge) - Fledge: A CI/CD tool for Flutter
 - [fluttercommunity/flutter_uploader](https://github.com/fluttercommunity/flutter_uploader) - background upload plugin for flutter
 - [AseemWangoo/flutter_programs](https://github.com/AseemWangoo/flutter_programs) - Experiments with Mobile
-- [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 - [bostrot/flutter_android_pip](https://github.com/bostrot/flutter_android_pip) - Simple Flutter plugin for Android picture in picture mode.
 - [bostrot/chewie](https://github.com/bostrot/chewie) - A chewie fork with a modern design and extra features - The video player for Flutter with a heart of gold
 - [djthorpe/flutter](https://github.com/djthorpe/flutter) - Flutter application examples
@@ -589,7 +588,6 @@
 ## Fluent 
 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## GDScript 
 
@@ -1148,6 +1146,7 @@
 - [skeeto/skeeto.github.com](https://github.com/skeeto/skeeto.github.com) - Personal website/blog
 - [charludo/telegram.graphics](https://github.com/charludo/telegram.graphics) - Chat anaylzer for the telegram-client.
 - [plamere/OrganizeYourMusic](https://github.com/plamere/OrganizeYourMusic) - Organize your saved music on Spotify
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people and characters
 - [ryanbradynd05/go-tmdb](https://github.com/ryanbradynd05/go-tmdb) - Golang Wrapper for TheMovieDB API
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
@@ -1356,7 +1355,6 @@
 - [r4gus/FIDO-SYCL23-SLIDES](https://github.com/r4gus/FIDO-SYCL23-SLIDES) - 
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
-- [bradwilson/ansible-dev-pc](https://github.com/bradwilson/ansible-dev-pc) - Ansible script to stand up a new development machine (Ubuntu/Pop!_OS)
 - [JetBrains/toolbox-browser-extension](https://github.com/JetBrains/toolbox-browser-extension) - JetBrains Toolbox App browser extension
 - [JustOff/advanced-night-mode](https://github.com/JustOff/advanced-night-mode) - Advanced Night Mode
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
@@ -1459,6 +1457,7 @@
 - [phoenixlzx/telegram-stickerimage-bot](https://github.com/phoenixlzx/telegram-stickerimage-bot) - Bot to export telegram stickers to images
 - [Ice-Hazymoon/telegram_sticker_downloader](https://github.com/Ice-Hazymoon/telegram_sticker_downloader) - Telegram sticker downloader
 - [2d-inc/lottie_to_flare](https://github.com/2d-inc/lottie_to_flare) - Lottie to Flare Converter
+- [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 - [mrdoob/glsl-sandbox](https://github.com/mrdoob/glsl-sandbox) - Shader editor and gallery.
 - [happypandax/happypandax](https://github.com/happypandax/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
 - [Thann/play-with-mpv](https://github.com/Thann/play-with-mpv) - Chrome extension that allows you to play videos in webpages like youtube with MPV instead
@@ -2185,6 +2184,7 @@
 
 ## Others 
 
+- [jian-lin/niriga](https://github.com/jian-lin/niriga) - Like nixpkgs-review-gha, but simple/featureless and security-focused
 - [wearetechnative/awesome-flake-parts](https://github.com/wearetechnative/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
 - [jenseng/dynamic-uses](https://github.com/jenseng/dynamic-uses) - Dynamically resolve and use another GitHub action
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -3190,6 +3190,7 @@
 - [a-h/dotfiles](https://github.com/a-h/dotfiles) - 
 - [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
 - [termux-pacman/termux-packages](https://github.com/termux-pacman/termux-packages) - A build system and primary set of packages in format pacman for Termux.
+- [bradwilson/ansible-dev-pc](https://github.com/bradwilson/ansible-dev-pc) - Ansible script to stand up a new development machine (Fedora KDE)
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [ivaquero/oxidizer](https://github.com/ivaquero/oxidizer) - Simple & Extensible Dotfile Manager That Unifies Your Terminal Operations
 - [green-green-avk/AnotherTerm-scripts](https://github.com/green-green-avk/AnotherTerm-scripts) - Useful scripts for Another Term local terminal.
