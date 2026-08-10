@@ -816,7 +816,7 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [moul/gotty-client](https://github.com/moul/gotty-client) - :wrench: terminal client for GoTTY
@@ -1404,7 +1404,7 @@
 - [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [Cortys/comic-backup](https://github.com/Cortys/comic-backup) - Back up your comics as CBZ.
-- [developeranaz/MEGA-INDEX-CLOUDFLARE](https://github.com/developeranaz/MEGA-INDEX-CLOUDFLARE) - Serve your MEGA.nz files through Cloudflare Workers, providing a fast, stable, and web-based file index with improved download performance and a seamless browsing experience.
+- [developeranaz/MEGA-INDEX-CLOUDFLARE](https://github.com/developeranaz/MEGA-INDEX-CLOUDFLARE) - MEGA quota bypass, fast and stable file downloads, improved performance, and web-based file indexing via Cloudflare Workers.
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [0ibaba/Google-Drive-Index](https://github.com/0ibaba/Google-Drive-Index) - Index Google Drive Files Easily and Free
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
@@ -1474,7 +1474,6 @@
 - [FutureMillennium/Screenshot-YouTube](https://github.com/FutureMillennium/Screenshot-YouTube) - Chrome extension: Take a screenshot of any YouTube video with one click.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [damaera/react-acrylic](https://github.com/damaera/react-acrylic) - Frost glass effect, Acrylic Material react component
@@ -3432,6 +3431,7 @@
 - [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [ax-design/reveal-highlight](https://github.com/ax-design/reveal-highlight) - Reveal Highlight Component of Axiom Design System for the Web.
 - [nteract/archived-desktop-app](https://github.com/nteract/archived-desktop-app) - The old electron based nteract notebook
