@@ -1843,6 +1843,7 @@
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting 
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) - A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
+- [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [stapelberg/nix](https://github.com/stapelberg/nix) - nix flake with my personal default settings ⚠️ Copy bits and pieces at your own risk
@@ -2486,7 +2487,7 @@
 - [Saik0s/mcp-browser-use](https://github.com/Saik0s/mcp-browser-use) - 
 - [mifka01/cache-server](https://github.com/mifka01/cache-server) - A self-hostable, distributed Nix binary cache server with flexible storage strategies
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
@@ -2938,7 +2939,6 @@
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows mirroring external repositories to GitLab, GitHub and possibly more.
 - [nixcloud/cargo](https://github.com/nixcloud/cargo) - The Rust package manager
 - [ekala-project/eka-ci](https://github.com/ekala-project/eka-ci) - CI/CD tool and web frontend for nix package sets
-- [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion) - Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.
 - [liberodark/nvme-rs](https://github.com/liberodark/nvme-rs) - 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [Glistix/glistix](https://github.com/Glistix/glistix) - Fork of the Gleam compiler providing a Nix backend, compiling Gleam to Nix
