@@ -1727,7 +1727,7 @@
 
 ## Meson 
 
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 
 ## MoonScript 
 
@@ -2864,6 +2864,7 @@
 
 ## Rust 
 
+- [mrVanDalo/nixos-healthchecks](https://github.com/mrVanDalo/nixos-healthchecks) - Write health checks as NixOS options to quickly verify if your services are properly running.
 - [samestep/npb](https://github.com/samestep/npb) - Nixpkgs build outcome diff CLI
 - [axiosoph/axios](https://github.com/axiosoph/axios) - A decentralized system compositor: composition-addressed, verifiable from published source to running system.
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
