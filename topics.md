@@ -4489,7 +4489,7 @@
 - [tomberek/incremental](https://github.com/tomberek/incremental) - 
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [numtide/nix-gl-host](https://github.com/numtide/nix-gl-host) - Run OpenGL/Cuda programs built with Nix, on all Linux distributions.
-- [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - [Deprecated] Nix packages and services for projects supported through the NGI program
+- [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - Archived: moved to ngi-nix/forge
 - [selfhostedshow/show-notes](https://github.com/selfhostedshow/show-notes) - Powers notes.jupiterbroadcasting.com
 - [jolheiser/mazanoke-nix](https://github.com/jolheiser/mazanoke-nix) - Nix derivation/flake for https://github.com/civilblur/mazanoke
 - [s3m/s3m](https://github.com/s3m/s3m) - CLI for streams of data in S3 buckets
