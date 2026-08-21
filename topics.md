@@ -1750,7 +1750,7 @@
 - [raexera/yuki](https://github.com/raexera/yuki) - Snowflake
 - [ncfavier/config](https://github.com/ncfavier/config) - Moved to https://codeberg.org/ncf/config
 - [utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix) - Comprehensive configurations of my NixOS workstations and home server.
-- [Eveeifyeve/Dotfiles](https://github.com/Eveeifyeve/Dotfiles) - Nix Configuration for Each Distro/OS
+- [eveeifyeve/Dotfiles](https://github.com/eveeifyeve/Dotfiles) - Nix Configuration for Each Distro/OS
 - [massix/nixos](https://github.com/massix/nixos) - My NixOS configuration
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [davidak/nixos-config](https://github.com/davidak/nixos-config) - NixOS configurations for server and desktop systems, including user specific config. with Home Manager
