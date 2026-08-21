@@ -1982,7 +1982,7 @@
 - [wochap/nix-config](https://github.com/wochap/nix-config) - Personal NixOS configuration
 - [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS Nix configuration files focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix) - Comprehensive configurations of my NixOS workstations and home server.
-- [Eveeifyeve/Dotfiles](https://github.com/Eveeifyeve/Dotfiles) - Nix Configuration for Each Distro/OS
+- [eveeifyeve/Dotfiles](https://github.com/eveeifyeve/Dotfiles) - Nix Configuration for Each Distro/OS
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [jonringer/nixpkgs-config](https://github.com/jonringer/nixpkgs-config) - ~/.config/nixpkgs
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
