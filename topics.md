@@ -4125,6 +4125,7 @@
 
 ## others 
 
+- [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [mrVanDalo/nixos-healthchecks](https://github.com/mrVanDalo/nixos-healthchecks) - Write health checks as NixOS options to quickly verify if your services are properly running.
 - [jian-lin/niriga](https://github.com/jian-lin/niriga) - Like nixpkgs-review-gha, but simple/featureless and security-focused
 - [samestep/npb](https://github.com/samestep/npb) - Nixpkgs build outcome diff CLI
