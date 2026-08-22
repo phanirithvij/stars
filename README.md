@@ -117,6 +117,7 @@
 
 ## C 
 
+- [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [breakgimme/mainline-apollo-wip](https://github.com/breakgimme/mainline-apollo-wip) - work in progress apollo kernel, should compile and boot but not much stuff works, as of right now ive given up on it due to touchscreen issues, putting it here mostly to not lose it
 - [Accacio/pendulum](https://github.com/Accacio/pendulum) - Inverted pendulum simulation on the terminal using c
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
@@ -373,7 +374,6 @@
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
 - [redis/RedisDesktopManager](https://github.com/redis/RedisDesktopManager) - 
-- [hnvn/flutter_shimmer](https://github.com/hnvn/flutter_shimmer) - A package provides an easy way to add shimmer effect in Flutter project
 - [Raveler/ffmpeg-cpp](https://github.com/Raveler/ffmpeg-cpp) - A clean, easy-to-use C++ wrapper around the ffmpeg libraries
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [VioletGiraffe/file-commander](https://github.com/VioletGiraffe/file-commander) - Cross-platform Total Commander-like orthodox file manager for Windows, Mac and Linux
@@ -510,6 +510,7 @@
 - [dhananjaysahu79/wallpaperApp](https://github.com/dhananjaysahu79/wallpaperApp) - 
 - [xvrh/lottie-flutter](https://github.com/xvrh/lottie-flutter) - Render After Effects animations natively on Flutter. This package is a pure Dart implementation of a Lottie player.
 - [extJo/flutter_youtube_clone](https://github.com/extJo/flutter_youtube_clone) - we make youtue using flutter and material design
+- [hnvn/flutter_shimmer](https://github.com/hnvn/flutter_shimmer) - A package provides an easy way to add shimmer effect in Flutter project
 - [firebase/flutterfire](https://github.com/firebase/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
 - [adityadroid/Messio](https://github.com/adityadroid/Messio) - An open source messenger app built using flutter
 - [mmcc007/fledge](https://github.com/mmcc007/fledge) - Fledge: A CI/CD tool for Flutter
