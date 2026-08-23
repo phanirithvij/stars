@@ -882,7 +882,6 @@
 - [nathanielfernandes/lingo](https://github.com/nathanielfernandes/lingo) - Lingo is a CLI tool for counting lines of code in a workspace.
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
