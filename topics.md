@@ -759,6 +759,7 @@
 - [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic) - An awesome curated knowledge-base about atomic systems
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
@@ -1120,7 +1121,6 @@
 - [nathanielfernandes/lingo](https://github.com/nathanielfernandes/lingo) - Lingo is a CLI tool for counting lines of code in a workspace.
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [miurahr/py7zr](https://github.com/miurahr/py7zr) - 7zip in python3 with ZStandard, PPMd, LZMA2, LZMA1, Delta, BCJ, BZip2, and Deflate compressions, and AES encryption.
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [maykonlsf/semver-cli](https://github.com/maykonlsf/semver-cli) - An easy to use CLI tool to manage your project versions and its upgrades according to the Semantic Versioning specification
@@ -2181,7 +2181,6 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local
@@ -6732,7 +6731,6 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
