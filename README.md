@@ -2157,6 +2157,7 @@
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
 - [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
+- [a-h/dotfiles](https://github.com/a-h/dotfiles) - 
 - [zdcthomas/dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
 - [I-Want-ToBelieve/autohide-tdrop](https://github.com/I-Want-ToBelieve/autohide-tdrop) - 100% pure rust implementation that can automatically hide terminals or other applications managed by tdrop when they lose focus
 - [gilligan/kind-kubenix](https://github.com/gilligan/kind-kubenix) - A playground to use kubenix with a kind cluster
@@ -3186,7 +3187,6 @@
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [imneonizer/android-webcam](https://github.com/imneonizer/android-webcam) - Using android phone as 4K webcam for online meetings
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binar
-- [a-h/dotfiles](https://github.com/a-h/dotfiles) - 
 - [Hax4us/TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
 - [termux-pacman/termux-packages](https://github.com/termux-pacman/termux-packages) - A build system and primary set of packages in format pacman for Termux.
 - [bradwilson/ansible-dev-pc](https://github.com/bradwilson/ansible-dev-pc) - Ansible script to stand up a new development machine (Fedora KDE)
