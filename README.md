@@ -1786,7 +1786,6 @@
 - [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways?
 - [tylerjl/benchmarking-proxies](https://github.com/tylerjl/benchmarking-proxies) - Automation to perform automated benchmarks against reverse proxy services.
 - [linyinfeng/nur-packages](https://github.com/linyinfeng/nur-packages) - My personal NUR repository
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [blitz/polyglot-image](https://github.com/blitz/polyglot-image) - A disk image that boots on multiple architectures
 - [t184256/android-app-nix-example](https://github.com/t184256/android-app-nix-example) - An example of building an Android app with Nix
 - [dominicegginton/dotfiles](https://github.com/dominicegginton/dotfiles) - Declarative system, package & home environment configurations - WIP Always.
@@ -2161,7 +2160,7 @@
 - [zdcthomas/dmux](https://github.com/zdcthomas/dmux) - A tmux workspace manager
 - [I-Want-ToBelieve/autohide-tdrop](https://github.com/I-Want-ToBelieve/autohide-tdrop) - 100% pure rust implementation that can automatically hide terminals or other applications managed by tdrop when they lose focus
 - [gilligan/kind-kubenix](https://github.com/gilligan/kind-kubenix) - A playground to use kubenix with a kind cluster
-- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## Nunjucks 
@@ -3291,6 +3290,7 @@
 - [NotAShelf/nix-evaluator-stats](https://github.com/NotAShelf/nix-evaluator-stats) - 
 - [allure-framework/allure3](https://github.com/allure-framework/allure3) - Allure Report is a flexible multi-language test report tool to show you a detailed representation of what has been tested and extract maximum from the everyday execution of tests
 - [joaomoreno/gifcap](https://github.com/joaomoreno/gifcap) - Capture your screen to a GIF in your browser
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
