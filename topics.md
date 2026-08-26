@@ -481,7 +481,7 @@
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [HouariZegai/slides-remote](https://github.com/HouariZegai/slides-remote) - Control Power Point from your Phone (WIFI Presentation Remote)
-- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256]
 - [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
 - [EXALAB/AnLinux-App](https://github.com/EXALAB/AnLinux-App) - AnLinux allow you to run Linux on Android without root access.
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
@@ -1737,7 +1737,6 @@
 - [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config) - A collection of my system configs and dotfiles
 - [TophC7/dot.nix](https://github.com/TophC7/dot.nix) - Nix config for Homelab and PCs
 - [legendofmiracles/dotnix](https://github.com/legendofmiracles/dotnix) - nix stuff
-- [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [ethernet8023/dotfiles](https://github.com/ethernet8023/dotfiles) - my dotfiles for laptop, desktop, and beepy
 - [jtojnar/nixfiles](https://github.com/jtojnar/nixfiles) - Nix configuration for the machines I manage.
 - [RossComputerGuy/dotfiles](https://github.com/RossComputerGuy/dotfiles) - My dotfiles for all of my Linux devices
@@ -3896,7 +3895,6 @@
 - [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring niri and neovim
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
-- [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [GaetanLepage/cmp-nixpkgs-maintainers](https://github.com/GaetanLepage/cmp-nixpkgs-maintainers) - nvim-cmp source for nixpkgs maintainers GitHub handles
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
@@ -4705,7 +4703,6 @@
 - [bryango/userjs](https://github.com/bryango/userjs) - some cool userscripts
 - [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [anatol/pacoloco](https://github.com/anatol/pacoloco) - Caching proxy server for Arch Linux pacman
-- [viperML/miq](https://github.com/viperML/miq) - Master's thesis - Immutable package management for Linux
 - [ocfox/nixpkgs-tracker](https://github.com/ocfox/nixpkgs-tracker) - Nixpkgs pr tracker, use Github API.
 - [pschmitt/nixos-config](https://github.com/pschmitt/nixos-config) - pschmitt's nixos configuration
 - [berberman/flakes](https://github.com/berberman/flakes) - Some packages I use on NixOS
@@ -6405,7 +6402,7 @@
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
-- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
+- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - NOW MANAGED ON CODEBERG
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, up to 2x faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI + HTTP API + web UI over 9+ years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg.
