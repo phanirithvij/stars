@@ -2983,7 +2983,6 @@
 - [symphorien/nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store
 - [FliegendeWurst/pr-dashboard](https://github.com/FliegendeWurst/pr-dashboard) - Customizable overview of open nixpkgs PRs
 - [9999years/git-prole](https://github.com/9999years/git-prole) - A git-worktree(1) manager
-- [viperML/hover-rs](https://github.com/viperML/hover-rs) - Protective home overlay
 - [allenap/rust-petname](https://github.com/allenap/rust-petname) - Generate human readable random names. Rust port of Dustin Kirkland's petname library.
 - [RRethy/tcount](https://github.com/RRethy/tcount) - Count your code by tokens and patterns in the syntax tree. A tokei/scc/cloc alternative.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
@@ -3313,7 +3312,6 @@
 - [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone!
-- [viperML/easy-nix-documentation](https://github.com/viperML/easy-nix-documentation) - https://viperml.github.io/easy-nix-documentation
 - [nwtgck/actions-netlify](https://github.com/nwtgck/actions-netlify) - 🚀 Netlify deploy from GitHub Actions
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) - 
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything! ⭐ Star the project if you like it!
