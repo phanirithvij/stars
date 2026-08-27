@@ -4542,7 +4542,6 @@
 - [phil-r/awesome-til](https://github.com/phil-r/awesome-til) - :notebook: List of awesome TIL (Today I Learned) repos and websites
 - [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
 - [dfangx/nixos-config](https://github.com/dfangx/nixos-config) - 
-- [viperML/easy-nix-documentation](https://github.com/viperML/easy-nix-documentation) - https://viperml.github.io/easy-nix-documentation
 - [HexF/dotfiles](https://github.com/HexF/dotfiles) - My dotfiles
 - [symphorien/nixseparatedebuginfod](https://github.com/symphorien/nixseparatedebuginfod) - Downloads and provides debug symbols and source code for nix derivations to gdb and other debuginfod-capable debuggers as needed.
 - [samh/nix-config](https://github.com/samh/nix-config) - NixOS configurations
@@ -4622,7 +4621,6 @@
 - [percygt/nix-dots](https://github.com/percygt/nix-dots) - My personal nixos config
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [brizzbuzz/opnix](https://github.com/brizzbuzz/opnix) - Agenix inspired tool enabling users to inject secrets from 1password into their Nix servers at build time
-- [viperML/hover-rs](https://github.com/viperML/hover-rs) - Protective home overlay
 - [eraserhd/dotfiles](https://github.com/eraserhd/dotfiles) - 
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [lobre/nix-home](https://github.com/lobre/nix-home) - NixOS and Home Manager configurations.
