@@ -1754,7 +1754,6 @@
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [davidak/nixos-config](https://github.com/davidak/nixos-config) - NixOS configurations for server and desktop systems, including user specific config. with Home Manager
 - [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - ❄️ My NixOS, macOS and home-manager configurations
-- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, minimalist & easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal ef
 - [jpetrucciani/nix](https://github.com/jpetrucciani/nix) - ❄️ my nix modules, overlays, host configurations, and more!
 - [momeemt/monorepo](https://github.com/momeemt/monorepo) - Everything I own
 - [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
@@ -4658,6 +4657,7 @@
 - [FliegendeWurst/pr-stats](https://github.com/FliegendeWurst/pr-stats) - 
 - [jerith666/nix-top](https://github.com/jerith666/nix-top) - Originally https://github.com/samueldr/nix-top
 - [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config) - My personal NixOS and home-manager configuration
+- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a minimalist, modular & easily customizable setup, heavily focused on TUIs. It provides a structured way to manage your system configuration and
 - [tomberek/nix-runner](https://github.com/tomberek/nix-runner) - Docker wrapper around Nix runtime
 - [a-h/flakegap](https://github.com/a-h/flakegap) - Take a Flake and package it for deployment across an airgap.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
@@ -6826,7 +6826,6 @@
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
 - [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
-- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, minimalist & easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal ef
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [jhillyerd/labcoat](https://github.com/jhillyerd/labcoat) - NixOS system deployment TUI
