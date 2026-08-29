@@ -2011,7 +2011,7 @@
 - [KubqoA/dotfiles](https://github.com/KubqoA/dotfiles) - ❄️ My NixOS, macOS and home-manager configurations
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) - Run graphics accelerated programs built with Nix on any Linux distribution.
-- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, minimalist & easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal ef
+- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a minimalist, modular & easily customizable setup, heavily focused on TUIs. It provides a structured way to manage your system configuration and
 - [tomberek/nix-runner](https://github.com/tomberek/nix-runner) - Docker wrapper around Nix runtime
 - [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
 - [jpetrucciani/nix](https://github.com/jpetrucciani/nix) - ❄️ my nix modules, overlays, host configurations, and more!
@@ -2184,6 +2184,7 @@
 - [jenseng/dynamic-uses](https://github.com/jenseng/dynamic-uses) - Dynamically resolve and use another GitHub action
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
+- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - NOW MANAGED ON CODEBERG
 - [mpizenberg/elm-knowledge](https://github.com/mpizenberg/elm-knowledge) - Knowledge base to build Elm application
 - [cornelius/awesome-digital-sovereignty](https://github.com/cornelius/awesome-digital-sovereignty) - Curated list of resources about digital sovereignty
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, up to 2x faster, and unlimited caching. Best alternative to Actions Runner Controller.
@@ -2413,7 +2414,6 @@
 - [buildwithparallel/haven-manet-ip-mesh-radio](https://github.com/buildwithparallel/haven-manet-ip-mesh-radio) - Haven – MANET IP Mesh Radio toolkit
 - [Sigmanificient/nixpkgs-failure-dashboard](https://github.com/Sigmanificient/nixpkgs-failure-dashboard) - A better way to search and categorize build logs
 - [valeoai/ZS3](https://github.com/valeoai/ZS3) - Zero-Shot Semantic Segmentation
-- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - NOW MANAGED ON CODEBERG
 - [rajatomar788/pywebcopy](https://github.com/rajatomar788/pywebcopy) - Locally saves webpages to your hard disk with images, css, js & links as is.
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [Aleksanaa/by-name-migrate](https://github.com/Aleksanaa/by-name-migrate) - 
