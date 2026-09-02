@@ -4122,6 +4122,7 @@
 
 ## others 
 
+- [leonieziechmann/invoice-pro](https://github.com/leonieziechmann/invoice-pro) - A professional, DIN 5008 compliant invoice template for Typst with automatic calculations, EPC-QR-Code (GiroCode), and ZUGFeRD e-invoicing support.
 - [NixOS/release-wiki](https://github.com/NixOS/release-wiki) - 
 - [fzakaria/omniflake](https://github.com/fzakaria/omniflake) - Thousands of Nix flakes, from one flake input
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
@@ -4751,7 +4752,6 @@
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [Gerg-L/nix-templates](https://github.com/Gerg-L/nix-templates) - Simple nix templates
 - [scrive/nix-workshop](https://github.com/scrive/nix-workshop) - Nix Workshop Tutorials
-- [Midstall/mobile-nixos](https://github.com/Midstall/mobile-nixos) - 
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [nix-how/marsnix](https://github.com/nix-how/marsnix) - Taking Nix Offline
 - [NotAShelf/nyxexprs](https://github.com/NotAShelf/nyxexprs) - Monorepo for sharing my most commonly used Nix expressions between projects.
