@@ -607,6 +607,7 @@
 
 ## Go 
 
+- [DouglasdeMoura/chroncal](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync — CLI + TUI, local SQLite storage
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
@@ -3225,7 +3226,6 @@
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror) - Docker containers to mirror the SponsorBlock database + API
-- [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
@@ -3522,7 +3522,6 @@
 - [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig
 - [karlseguin/http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server for zig
 - [Joseph-Matteo-Scorsone/Neural-Networks-in-6-different-languages](https://github.com/Joseph-Matteo-Scorsone/Neural-Networks-in-6-different-languages) - This Repo includes code for neural networks in C++, Go, TypeScript, Python, Rust, and Zig. As well as enhanced versions of the code in ways that are contextual to the language.
-- [tensorush/liza](https://github.com/tensorush/liza) - Zig codebase initializer.
 - [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [ikskuh/zig-qoi](https://github.com/ikskuh/zig-qoi) - Quite OK Image format encoder/decoder written in Zig
 - [ikskuh/ZigAndroidTemplate](https://github.com/ikskuh/ZigAndroidTemplate) - This repository contains a example on how to create a minimal Android app in Zig.
