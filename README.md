@@ -1071,7 +1071,7 @@
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [g3n/engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
-- [go-ego/riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code.
+- [vcaesar/riot](https://github.com/vcaesar/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
 - [tensor-programming/hex-microservice](https://github.com/tensor-programming/hex-microservice) - 
 - [hallazzang/go-windows-programming](https://github.com/hallazzang/go-windows-programming) - Go Windows Programming Tutorial
 - [hallazzang/syso](https://github.com/hallazzang/syso) - :wrench: tool for embedding various type of resources in go Windows executable
@@ -2096,6 +2096,7 @@
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [dmadisetti/.dots](https://github.com/dmadisetti/.dots) - just my .dotfiles
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [crazazy/nixos-config](https://github.com/crazazy/nixos-config) - personal nixos config
 - [infinisil/sanix](https://github.com/infinisil/sanix) - Sane stable stateless NixOS setup
@@ -2405,6 +2406,7 @@
 ## Python 
 
 - [shane-mason/FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast & Cable TV simulator
+- [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input
 - [fzakaria/omniflake](https://github.com/fzakaria/omniflake) - Thousands of Nix flakes, from one flake input
 - [craigmbooth/nix-visualize](https://github.com/craigmbooth/nix-visualize) - Uses the Nix package manager to visualize the dependencies of a given package
 - [p0nczek/nclean](https://github.com/p0nczek/nclean) - A fast, simple curses TUI for browsing and cleaning up NixOS system generations
@@ -2848,7 +2850,7 @@
 - [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
-- [whitequark/irclogger](https://github.com/whitequark/irclogger) - Simple and good-looking IRC log viewer. Logger is included. No strings are attached.
+- [whitequark/irclogger](https://github.com/whitequark/irclogger) - Migrated to Codeberg
 - [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them
 - [jerith666/nix-top](https://github.com/jerith666/nix-top) - Originally https://github.com/samueldr/nix-top
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
@@ -2864,7 +2866,6 @@
 
 ## Rust 
 
-- [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input
 - [kachick/nixpkgs-update-log-checker](https://github.com/kachick/nixpkgs-update-log-checker) - Health checker for automatic updates in nixpkgs
 - [mrVanDalo/nixos-healthchecks](https://github.com/mrVanDalo/nixos-healthchecks) - Write health checks as NixOS options to quickly verify if your services are properly running.
 - [samestep/npb](https://github.com/samestep/npb) - Nixpkgs build outcome diff CLI
@@ -3172,7 +3173,6 @@
 - [noctuid/dotfiles](https://github.com/noctuid/dotfiles) - Mouseless Workflow (WIP)
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
-- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [joamatab/dotfiles](https://github.com/joamatab/dotfiles) - 
 - [nickexyz/ntfy-shellscripts](https://github.com/nickexyz/ntfy-shellscripts) - A few scripts for the amazing ntfy project: (https://github.com/binwiederhier/ntfy)
