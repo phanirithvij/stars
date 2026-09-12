@@ -1018,7 +1018,7 @@
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
 - [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI + HTTP API + web UI over 9+ years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg.
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [viu-media/viu](https://github.com/viu-media/viu) - Your browser anime experience from the terminal
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive TUI to query JSON and CSV using SQL.
@@ -3855,7 +3855,7 @@
 
 ## music 
 
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything! ⭐ Star the project if you like it!
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal
@@ -4126,6 +4126,7 @@
 
 ## others 
 
+- [Mic92/repkgs](https://github.com/Mic92/repkgs) - A package set on stock Nix: cheap eval, relocatable outputs, nushell builders, LLVM-only cross, compile cache in the compiler driver
 - [shane-mason/FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast & Cable TV simulator
 - [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input
 - [kachick/nixpkgs-update-log-checker](https://github.com/kachick/nixpkgs-update-log-checker) - Health checker for automatic updates in nixpkgs
@@ -4796,7 +4797,7 @@
 - [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes.
 - [serokell/nix-templates](https://github.com/serokell/nix-templates) - Nix Flake templates for various languages
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh,@srid]
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
@@ -4881,7 +4882,7 @@
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [chemtrails/FullCap](https://github.com/chemtrails/FullCap) - Full page screen capture in Chrome and Firefox
 - [mrcoles/full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome
-- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@cyclic-pentane]
 - [lmfont/syncthing-devadd](https://github.com/lmfont/syncthing-devadd) - A script to automate adding syncthing devices
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [hyperreal64/distrobox-tui](https://github.com/hyperreal64/distrobox-tui) - A TUI for DistroBox
@@ -6218,7 +6219,7 @@
 - [ow-mods/ow-mod-man](https://github.com/ow-mods/ow-mod-man) - The mod manager for the Outer Wilds Mod Loader
 - [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
 - [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI + HTTP API + web UI over 9+ years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg.
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [RohanAdwankar/newt](https://github.com/RohanAdwankar/newt) - A cross-language notebook terminal interface and server.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
@@ -6678,7 +6679,7 @@
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui) - A JSON terminal UI made in C++
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Share files nearby and beyond.
@@ -6816,7 +6817,7 @@
 - [eljamm/gowt](https://github.com/eljamm/gowt) - fuzzy TUI for managing git worktrees, written in Go
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive TUI to query JSON and CSV using SQL.
 - [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui) - A JSON terminal UI made in C++
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
@@ -7299,7 +7300,7 @@
 
 ## youtube 
 
-- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.
+- [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 - [jmbannon/ytdl-sub](https://github.com/jmbannon/ytdl-sub) - Lightweight tool to automate downloading and metadata generation with yt-dlp
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
