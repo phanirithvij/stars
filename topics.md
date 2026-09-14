@@ -4510,7 +4510,7 @@
 - [Od1gree/btDownloadManager](https://github.com/Od1gree/btDownloadManager) - A python script implements anti-leech-abuse for qBittorrent.
 - [lorenzleutgeb/nur](https://github.com/lorenzleutgeb/nur) - 
 - [nix-community/lila](https://github.com/nix-community/lila) - Nix hash collection software, to aggregate build reports from several builders  [maintainer=@JulienMalka, @raboof]
-- [alyraffauf/hoenn](https://github.com/alyraffauf/hoenn) - Multi-host NixOS, Darwin, and system-manager configurations with Nix.
+- [devon-systems/hoenn](https://github.com/devon-systems/hoenn) - Multi-host NixOS, Darwin, and system-manager configurations with Nix.
 - [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
 - [castholm/zig-examples](https://github.com/castholm/zig-examples) - Collection of small Zig example projects
 - [nikitawootten/flake-graph](https://github.com/nikitawootten/flake-graph) - Visualize your Nix flake.lock!
