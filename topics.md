@@ -1010,6 +1010,7 @@
 
 ## cli 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [DouglasdeMoura/chroncal](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync — CLI + TUI, local SQLite storage
 - [wh1le/excalidraw-edit](https://github.com/wh1le/excalidraw-edit) - Open and edit .excalidraw files from the terminal. Offline, auto-saves to disk.
 - [ad-si/invoice-maker](https://github.com/ad-si/invoice-maker) - Generate beautiful invoices from simple Typst or YAML data records
@@ -1743,6 +1744,7 @@
 - [Gerschtli/nix-config](https://github.com/Gerschtli/nix-config) - A collection of my system configs and dotfiles
 - [TophC7/dot.nix](https://github.com/TophC7/dot.nix) - Nix config for Homelab and PCs
 - [legendofmiracles/dotnix](https://github.com/legendofmiracles/dotnix) - nix stuff
+- [devon-systems/hoenn](https://github.com/devon-systems/hoenn) - NixOS, nix-darwin, and Home Manager configurations, ft. niri+noctlaia dotfiles + homelab.
 - [ethernet8023/dotfiles](https://github.com/ethernet8023/dotfiles) - my dotfiles for laptop, desktop, and beepy
 - [jtojnar/nixfiles](https://github.com/jtojnar/nixfiles) - Nix configuration for the machines I manage.
 - [RossComputerGuy/dotfiles](https://github.com/RossComputerGuy/dotfiles) - My dotfiles for all of my Linux devices
@@ -2237,6 +2239,7 @@
 
 ## go 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [eljamm/gowt](https://github.com/eljamm/gowt) - fuzzy TUI for managing git worktrees, written in Go
@@ -2424,6 +2427,7 @@
 
 ## golang 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [DouglasdeMoura/chroncal](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync — CLI + TUI, local SQLite storage
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
@@ -2714,6 +2718,7 @@
 
 ## hacktoberfest 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [EventFahrplan/EventFahrplan](https://github.com/EventFahrplan/EventFahrplan) - An Android app to enjoy event schedules powered by Frab, Pretalx or Wafer.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [dillonkearns/elm-markdown](https://github.com/dillonkearns/elm-markdown) - Extensible markdown parser with custom rendering, in pure Elm.
@@ -4510,7 +4515,6 @@
 - [Od1gree/btDownloadManager](https://github.com/Od1gree/btDownloadManager) - A python script implements anti-leech-abuse for qBittorrent.
 - [lorenzleutgeb/nur](https://github.com/lorenzleutgeb/nur) - 
 - [nix-community/lila](https://github.com/nix-community/lila) - Nix hash collection software, to aggregate build reports from several builders  [maintainer=@JulienMalka, @raboof]
-- [devon-systems/hoenn](https://github.com/devon-systems/hoenn) - Multi-host NixOS, Darwin, and system-manager configurations with Nix.
 - [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
 - [castholm/zig-examples](https://github.com/castholm/zig-examples) - Collection of small Zig example projects
 - [nikitawootten/flake-graph](https://github.com/nikitawootten/flake-graph) - Visualize your Nix flake.lock!
@@ -6677,6 +6681,7 @@
 
 ## terminal 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.
@@ -6813,6 +6818,7 @@
 
 ## tui 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [DouglasdeMoura/chroncal](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync — CLI + TUI, local SQLite storage
 - [p0nczek/nclean](https://github.com/p0nczek/nclean) - A fast, simple curses TUI for browsing and cleaning up NixOS system generations
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
