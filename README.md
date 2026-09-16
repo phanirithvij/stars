@@ -608,6 +608,7 @@
 
 ## Go 
 
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [DouglasdeMoura/chroncal](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync — CLI + TUI, local SQLite storage
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
@@ -1207,7 +1208,6 @@
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [MuntashirAkon/libadb-android](https://github.com/MuntashirAkon/libadb-android) - ADB library for Android
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ghuls/re7zip](https://github.com/ghuls/re7zip) - 7zip version capable of downloading files from archives on HTTP servers
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
@@ -1925,7 +1925,7 @@
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
 - [lorenzleutgeb/nur](https://github.com/lorenzleutgeb/nur) - 
 - [RossComputerGuy/nixpkgs-llvm-ws](https://github.com/RossComputerGuy/nixpkgs-llvm-ws) - Flake workspace / repo to stage and track Nixpkgs/NixOS's ability to be compiled completely with LLVM
-- [devon-systems/hoenn](https://github.com/devon-systems/hoenn) - Multi-host NixOS, Darwin, and system-manager configurations with Nix.
+- [devon-systems/hoenn](https://github.com/devon-systems/hoenn) - NixOS, nix-darwin, and Home Manager configurations, ft. niri+noctlaia dotfiles + homelab.
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
 - [nix-community/bun2nix](https://github.com/nix-community/bun2nix) - Generate a nix expression to build bun packages - similar to node2nix or yarn2nix [maintainer=@baileylu121]
 - [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages.
@@ -3305,6 +3305,7 @@
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
