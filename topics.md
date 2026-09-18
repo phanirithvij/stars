@@ -6230,7 +6230,7 @@
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [bachp/git-mirror](https://github.com/bachp/git-mirror) - A small utility that allows mirroring external repositories to GitLab, GitHub and possibly more.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
