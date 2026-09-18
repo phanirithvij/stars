@@ -1208,6 +1208,7 @@
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [MuntashirAkon/libadb-android](https://github.com/MuntashirAkon/libadb-android) - ADB library for Android
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ghuls/re7zip](https://github.com/ghuls/re7zip) - 7zip version capable of downloading files from archives on HTTP servers
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
@@ -2626,7 +2627,6 @@
 - [filebot/plex-agents](https://github.com/filebot/plex-agents) - FileBot Xattr Metadata Scanners & Plug-ins for Plex
 - [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA)
 - [miurahr/py7zr](https://github.com/miurahr/py7zr) - 7zip in python3 with ZStandard, PPMd, LZMA2, LZMA1, Delta, BCJ, BZip2, and Deflate compressions, and AES encryption.
-- [alilleybrinker/langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration.
 - [tapannallan/awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
@@ -2933,7 +2933,7 @@
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, PDF, and Markdown viewer
 - [dfrankland/envoluntary](https://github.com/dfrankland/envoluntary) - Automatic Nix development environments for your shell.
 - [kxxt/ttyrecall](https://github.com/kxxt/ttyrecall) - Recall, but for terminal (Work In Progress)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [42futures/firm](https://github.com/42futures/firm) - A text-based work management system for technologists.
 - [lusingander/stu](https://github.com/lusingander/stu) - TUI explorer application for Amazon S3 (AWS S3) 🪣
 - [samestep/npc](https://github.com/samestep/npc) - Nixpkgs channel history CLI
@@ -3104,6 +3104,7 @@
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
+- [alilleybrinker/langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [crowdagger/crowbook](https://github.com/crowdagger/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
@@ -3305,7 +3306,6 @@
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
