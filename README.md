@@ -743,6 +743,7 @@
 - [ssbc/go-ssb-room](https://github.com/ssbc/go-ssb-room) - Room server implemented in Go
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [hyperreal64/distrobox-tui](https://github.com/hyperreal64/distrobox-tui) - A TUI for DistroBox
@@ -1141,6 +1142,7 @@
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [solid/specification](https://github.com/solid/specification) - Solid Technical Reports
 - [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
+- [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [xlanor/mirror.jingk.ai](https://github.com/xlanor/mirror.jingk.ai) - Files for mirror.jingk.ai, a linux mirror I maintain in my free time
@@ -1789,6 +1791,7 @@
 - [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways?
 - [tylerjl/benchmarking-proxies](https://github.com/tylerjl/benchmarking-proxies) - Automation to perform automated benchmarks against reverse proxy services.
 - [linyinfeng/nur-packages](https://github.com/linyinfeng/nur-packages) - My personal NUR repository
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [blitz/polyglot-image](https://github.com/blitz/polyglot-image) - A disk image that boots on multiple architectures
 - [t184256/android-app-nix-example](https://github.com/t184256/android-app-nix-example) - An example of building an Android app with Nix
 - [dominicegginton/dotfiles](https://github.com/dominicegginton/dotfiles) - Declarative system, package & home environment configurations - WIP Always.
@@ -2264,7 +2267,6 @@
 - [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 - [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic) - An awesome curated knowledge-base about atomic systems
 - [jonhoo/rust-ci-conf](https://github.com/jonhoo/rust-ci-conf) - Collection of CI configuration files for Rust projects
-- [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
 - [Dorian-DS/LVM-Cheat-Sheets](https://github.com/Dorian-DS/LVM-Cheat-Sheets) - Just documents for LVM things
 - [jdauphant/awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -3079,7 +3081,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [sandydoo/flux](https://github.com/sandydoo/flux) - An open-source tribute to the macOS Drift screensaver
@@ -3181,7 +3183,6 @@
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [snowfallorg/flake](https://github.com/snowfallorg/flake) - Simplify Nix Flakes on the command line.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, registry.k8s.io, ghcr.io)
@@ -3291,7 +3292,6 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [NotAShelf/nix-evaluator-stats](https://github.com/NotAShelf/nix-evaluator-stats) - 
 - [joaomoreno/gifcap](https://github.com/joaomoreno/gifcap) - Capture your screen to a GIF in your browser
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
