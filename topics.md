@@ -1517,7 +1517,7 @@
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
-- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao]
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@stepbrobd, @NickCao, @zhaofengli]
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -3618,7 +3618,7 @@
 - [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) - Static website generator based on HTML element tree rewriting
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [pkulchenko/fullmoon](https://github.com/pkulchenko/fullmoon) - Fast and minimalistic Redbean-based Lua web framework in one file.
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶
@@ -3748,7 +3748,7 @@
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) - `$ mdsh` # a markdown shell pre-processor
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
