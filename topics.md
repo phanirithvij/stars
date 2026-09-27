@@ -4145,6 +4145,8 @@
 
 ## others 
 
+- [applicative-systems/hydra-dashboard](https://github.com/applicative-systems/hydra-dashboard) - Observability for Hydra v1
+- [applicative-systems/netbox-nixos](https://github.com/applicative-systems/netbox-nixos) - Proof of concept mapping from NetBox to NixOS configurations
 - [Mic92/repkgs](https://github.com/Mic92/repkgs) - A package set on stock Nix: cheap eval, relocatable outputs, nushell builders, LLVM-only cross, compile cache in the compiler driver
 - [shane-mason/FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast & Cable TV simulator
 - [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse) - Any version of any nixpkgs package, from one flake input
