@@ -4145,6 +4145,8 @@
 
 ## others 
 
+- [applicative-systems/declarative-runtime](https://github.com/applicative-systems/declarative-runtime) - Service runtime configuration through Terraform Providers
+- [mschwaig/laut](https://github.com/mschwaig/laut) - A new signature format for Nix - for verifiable provenance data and SBOMs.
 - [applicative-systems/hydra-dashboard](https://github.com/applicative-systems/hydra-dashboard) - Observability for Hydra v1
 - [applicative-systems/netbox-nixos](https://github.com/applicative-systems/netbox-nixos) - Proof of concept mapping from NetBox to NixOS configurations
 - [Mic92/repkgs](https://github.com/Mic92/repkgs) - A package set on stock Nix: cheap eval, relocatable outputs, nushell builders, LLVM-only cross, compile cache in the compiler driver
@@ -6809,6 +6811,7 @@
 
 ## testing 
 
+- [applicative-systems/nixos-test-driver-manual](https://github.com/applicative-systems/nixos-test-driver-manual) - Inofficial NixOS Test Driver Manual that gets you up to speed with the NixOS Test driver, interactive mode, VMs, containers, GPU tests, and more.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [os-autoinst/openQA](https://github.com/os-autoinst/openQA) - openQA web-frontend, scheduler and tools.
