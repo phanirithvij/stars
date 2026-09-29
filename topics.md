@@ -404,6 +404,7 @@
 
 ## android 
 
+- [VirtCode/SmartMouse](https://github.com/VirtCode/SmartMouse) - use your smartphone as a normal computer mouse
 - [EventFahrplan/EventFahrplan](https://github.com/EventFahrplan/EventFahrplan) - An Android app to enjoy event schedules powered by Frab, Pretalx or Wafer.
 - [osbm/nixapks](https://github.com/osbm/nixapks) - Build android applications with nix [maintainer=@osbm]
 - [mio-19/repo](https://github.com/mio-19/repo) - build script for android applications and operating system based on android
@@ -1344,6 +1345,7 @@
 
 ## cryptography 
 
+- [Cyphrme/Coz](https://github.com/Cyphrme/Coz) - Coz: A Modern Cryptographic JSON Specification
 - [keys-pub/keys](https://github.com/keys-pub/keys) - Cryptographic key management is hard
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
@@ -3273,6 +3275,7 @@
 
 ## json 
 
+- [Cyphrme/Coz](https://github.com/Cyphrme/Coz) - Coz: A Modern Cryptographic JSON Specification
 - [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive TUI to query JSON and CSV using SQL.
 - [ArthurSonzogni/json-tui](https://github.com/ArthurSonzogni/json-tui) - A JSON terminal UI made in C++
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -3612,6 +3615,7 @@
 
 ## login 
 
+- [Cyphrme/Coz](https://github.com/Cyphrme/Coz) - Coz: A Modern Cryptographic JSON Specification
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
@@ -4145,6 +4149,10 @@
 
 ## others 
 
+- [Cathwyler/MagicRemoteService](https://github.com/Cathwyler/MagicRemoteService) - Use your LG Magic Remote as a Windows mouse and control your PC with the LG Magic Remote from your LG WebOS TV
+- [PkmX/gyromouse](https://github.com/PkmX/gyromouse) - Using Android's gyroscope as a mouse on Linux
+- [henrydm/Air-Mouse-Android](https://github.com/henrydm/Air-Mouse-Android) - Air Mouse Client for Android
+- [nrdxp/atom](https://github.com/nrdxp/atom) - Efficient source archive format with deterministic properties
 - [applicative-systems/declarative-runtime](https://github.com/applicative-systems/declarative-runtime) - Service runtime configuration through Terraform Providers
 - [mschwaig/laut](https://github.com/mschwaig/laut) - A new signature format for Nix - for verifiable provenance data and SBOMs.
 - [applicative-systems/hydra-dashboard](https://github.com/applicative-systems/hydra-dashboard) - Observability for Hydra v1
@@ -4740,7 +4748,7 @@
 - [matt1432/nixos-jellyfin](https://github.com/matt1432/nixos-jellyfin) - A NixOS module that extends the jellyfin service to configure its settings.
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
-- [Vagahbond/nix-config](https://github.com/Vagahbond/nix-config) - My best attempt yet at a simple yet structured, clean, multi-host NixOS configuration. Built with Charpente.
+- [Vagahbond/nix-config](https://github.com/Vagahbond/nix-config) - 
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [NickCao/flakes](https://github.com/NickCao/flakes) - the deterministic
 - [NickCao/bandaid](https://github.com/NickCao/bandaid) - stick your file descriptors together
@@ -4761,7 +4769,7 @@
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
 - [Janik-Haag/nm2nix](https://github.com/Janik-Haag/nm2nix) - Converts .nmconnection files into nix code
 - [jonringer/server-configuration](https://github.com/jonringer/server-configuration) - Build server nixos configuration
-- [nix-community/nixpkgs-update](https://github.com/nix-community/nixpkgs-update) - Updating nixpkgs packages since 2018
+- [NixOS/nixpkgs-update](https://github.com/NixOS/nixpkgs-update) - Updating nixpkgs packages since 2018
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
@@ -7216,7 +7224,7 @@
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
-- [windirstat/windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows
+- [windirstat/windirstat](https://github.com/windirstat/windirstat) - Windows disk usage analyzer and cleanup tool with interactive treemaps, large-file discovery, duplicate detection, and file-system monitoring.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
