@@ -252,7 +252,7 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [AlexanderPro/AwesomeWallpaper](https://github.com/AlexanderPro/AwesomeWallpaper) - AwesomeWallpaper plays videos, shows images and system info on your desktop wallpaper
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [MattMcManis/Glow](https://github.com/MattMcManis/Glow) - mpv Config File Generator for Windows
 - [mrubendev/SpotlightWallpapersUWP](https://github.com/mrubendev/SpotlightWallpapersUWP) - UWP app able to find windows spotlight photos
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
@@ -343,6 +343,7 @@
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [ultravnc/UltraVNC](https://github.com/ultravnc/UltraVNC) - 👁️ UltraVNC Server, UltraVNC Viewer, UltraVNC Repeater and UltraVNC SC | Official repository: https://github.com/ultravnc/UltraVNC
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
+- [skeeto/skeeto.github.com](https://github.com/skeeto/skeeto.github.com) - Personal website/blog
 - [Tom94/tev](https://github.com/Tom94/tev) - High dynamic range (HDR) image viewer for people who care about colors
 - [iOrange/QOIThumbnailProvider](https://github.com/iOrange/QOIThumbnailProvider) - Adds thumbnails for QOI images in Windows
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
@@ -1151,7 +1152,6 @@
 - [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [skeeto/skeeto.github.com](https://github.com/skeeto/skeeto.github.com) - Personal website/blog
 - [charludo/telegram.graphics](https://github.com/charludo/telegram.graphics) - Chat anaylzer for the telegram-client.
 - [plamere/OrganizeYourMusic](https://github.com/plamere/OrganizeYourMusic) - Organize your saved music on Spotify
 - [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people and characters
@@ -2542,7 +2542,7 @@
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [mikeckennedy/python_bytes_show_notes](https://github.com/mikeckennedy/python_bytes_show_notes) - Show notes from the Python Bytes podcast
 - [vladbalmos/mitzasql](https://github.com/vladbalmos/mitzasql) - MySQL command line / text based interface client
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. Now with hsql, your agent's favorite sql client.
 - [wayneclub/Subtitle-Downloader](https://github.com/wayneclub/Subtitle-Downloader) - Auto download subtitles from streaming services, such as Apple TV+, CatchPlay, Crunchyroll, Disney+, FridayVideo, HBO GO Asia, iQIYI, iTunes, KKTV, LINE TV, meWATCH, MyVideo, NowE, NowPlayer, Viki, Vi
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
