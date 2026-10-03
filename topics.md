@@ -356,7 +356,7 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -371,7 +371,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 
 ## ajax 
 
@@ -1429,6 +1429,7 @@
 
 ## data 
 
+- [NationalGalleryOfArt/opendata](https://github.com/NationalGalleryOfArt/opendata) - The National Gallery of Art Open Data Program
 - [diffgram/diffgram](https://github.com/diffgram/diffgram) - The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data.
 - [jim-schwoebel/voicebook](https://github.com/jim-schwoebel/voicebook) - 🗣️ A book and repo to get you started programming voice computing applications in Python (10 chapters and 200+ scripts).
 
@@ -1639,7 +1640,7 @@
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
@@ -1659,7 +1660,7 @@
 
 - [fzakaria/omnibin](https://github.com/fzakaria/omnibin) - Every binary nixpkgs ever shipped, on your PATH.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -2360,7 +2361,7 @@
 - [ikeikeikeike/go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - go-sitemap-generator is the easiest way to generate Sitemaps in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [Gurkengewuerz/cefgo](https://github.com/Gurkengewuerz/cefgo) - Go bindings for the Chromium Embedded Framework (CEF)
 - [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
@@ -2573,7 +2574,7 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [dstotijn/golang-nextjs-portable](https://github.com/dstotijn/golang-nextjs-portable) - Go program with embedded Next.js app.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [Gurkengewuerz/cefgo](https://github.com/Gurkengewuerz/cefgo) - Go bindings for the Chromium Embedded Framework (CEF)
 - [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
@@ -2707,6 +2708,7 @@
 
 ## hack 
 
+- [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
 - [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
 - [moul/gotty-client](https://github.com/moul/gotty-client) - :wrench: terminal client for GoTTY
 
@@ -3818,12 +3820,12 @@
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## microservices 
 
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
 
 ## microsoft 
 
@@ -4149,6 +4151,7 @@
 
 ## others 
 
+- [liberodark/hot-resize](https://github.com/liberodark/hot-resize) - 
 - [Cathwyler/MagicRemoteService](https://github.com/Cathwyler/MagicRemoteService) - Use your LG Magic Remote as a Windows mouse and control your PC with the LG Magic Remote from your LG WebOS TV
 - [PkmX/gyromouse](https://github.com/PkmX/gyromouse) - Using Android's gyroscope as a mouse on Linux
 - [henrydm/Air-Mouse-Android](https://github.com/henrydm/Air-Mouse-Android) - Air Mouse Client for Android
@@ -5801,7 +5804,7 @@
 
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [cyrinux/push2talk](https://github.com/cyrinux/push2talk) - Push-to-Talk: Seamless Integration with Wayland, X11, PulseAudio & PipeWire for linux 🎤
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
