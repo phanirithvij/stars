@@ -1214,7 +1214,6 @@
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [MuntashirAkon/libadb-android](https://github.com/MuntashirAkon/libadb-android) - ADB library for Android
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ghuls/re7zip](https://github.com/ghuls/re7zip) - 7zip version capable of downloading files from archives on HTTP servers
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
@@ -1784,6 +1783,7 @@
 - [Dauliac/nix-oci](https://github.com/Dauliac/nix-oci) - Flake-parts module to manage OCI repositories
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
+- [andersonjoseph/jailed-agents](https://github.com/andersonjoseph/jailed-agents) - Secure Nix sandbox for LLM agents
 - [xiro-codes/gog.nix](https://github.com/xiro-codes/gog.nix) - 
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [MatthewCroughan/nix-dropper-bundle](https://github.com/MatthewCroughan/nix-dropper-bundle) - Bundlers to drop software onto systems, for good or bad intent
@@ -1961,7 +1961,7 @@
 - [samh/nix-config](https://github.com/samh/nix-config) - NixOS configurations
 - [water-sucks/zig-deps-fod](https://github.com/water-sucks/zig-deps-fod) - A fixed-output derivation fetcher for Zig package manager dependencies
 - [water-sucks/nixed](https://github.com/water-sucks/nixed) - [mirror] - i've nixed any chance I have at human interaction by building this config
-- [astratagem/dotfield](https://github.com/astratagem/dotfield) - All I see is little dots – some are smeared, and some are spots.
+- [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
 - [talyz/nixos-config](https://github.com/talyz/nixos-config) - My NixOS configuration
 - [GaetanLepage/nix-config](https://github.com/GaetanLepage/nix-config) - NixOS configuration for my personal computers
 - [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config) - NixOS, Nix-Darwin and home-manager configurations.
@@ -3155,7 +3155,6 @@
 - [applicative-systems/nixos-test-driver-manual](https://github.com/applicative-systems/nixos-test-driver-manual) - Inofficial NixOS Test Driver Manual that gets you up to speed with the NixOS Test driver, interactive mode, VMs, containers, GPU tests, and more.
 - [physics-enthusiast/mido-nix](https://github.com/physics-enthusiast/mido-nix) - The Secure Microsoft Windows Downloader
 - [bogorad/protected-laptop](https://github.com/bogorad/protected-laptop) - YubiKey-protected NixOS laptop with Tails fallback
-- [andersonjoseph/jailed-agents](https://github.com/andersonjoseph/jailed-agents) - Secure Nix sandbox for LLM agents
 - [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) - Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [gko/gwt](https://github.com/gko/gwt) - A simple helper script to manage git worktrees using fzf
@@ -3320,6 +3319,7 @@
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
