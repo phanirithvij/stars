@@ -36,6 +36,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -154,6 +155,7 @@
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [dell/libsmbios](https://github.com/dell/libsmbios) - library for interacting with Dell SMBIOS tables
+- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [cmuratori/refterm](https://github.com/cmuratori/refterm) - Reference monospace terminal renderer
 - [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
@@ -936,7 +938,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [vbatts/go-mtree](https://github.com/vbatts/go-mtree) - File systems verification utility and library, in likeness of mtree(8)
 - [libp2p/go-libp2p-discovery](https://github.com/libp2p/go-libp2p-discovery) - Active Peer Discovery
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [Gurkengewuerz/cefgo](https://github.com/Gurkengewuerz/cefgo) - Go bindings for the Chromium Embedded Framework (CEF)
@@ -1204,6 +1206,10 @@
 
 - [watabou/TownGeneratorOS](https://github.com/watabou/TownGeneratorOS) - The source code of the Medieval Fantasy City Generator
 
+## JSON 
+
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
+
 ## Java 
 
 - [VirtCode/SmartMouse](https://github.com/VirtCode/SmartMouse) - use your smartphone as a normal computer mouse
@@ -1354,7 +1360,6 @@
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [lassebomh/htmx-playground](https://github.com/lassebomh/htmx-playground) - A simple code sandbox for playing around with HTMX. No setup needed!
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [IndieWikiBuddy/indie-wiki-buddy](https://github.com/IndieWikiBuddy/indie-wiki-buddy) - Browser extension that automatically notifies and redirects you to independent wikis.
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
@@ -1830,7 +1835,7 @@
 - [nrabulinski/cursed-nix](https://github.com/nrabulinski/cursed-nix) - 
 - [celesrenata/OneTrainer-flake](https://github.com/celesrenata/OneTrainer-flake) - This is a NixOS flake for OneTrainer
 - [jacopone/antigravity-nix](https://github.com/jacopone/antigravity-nix) - Auto-updating Nix package for Google Antigravity agentic IDE. Updates 3x/week. FHS environment with overlay support for NixOS/Home Manager.
-- [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
+- [lassulus/wrappers](https://github.com/lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [molybdenumsoftware/docstra](https://github.com/molybdenumsoftware/docstra) - Nix library for authoring documentation
 - [molybdenumsoftware/htnl](https://github.com/molybdenumsoftware/htnl) - Nix library for making websites
 - [jakehamilton/idc](https://github.com/jakehamilton/idc) - Import Nix projects regardless of how they are exposed.
@@ -2340,7 +2345,7 @@
 - [sp614x/optifine](https://github.com/sp614x/optifine) - 
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 - [codepath/android_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -2967,7 +2972,7 @@
 - [ysndr/n2p](https://github.com/ysndr/n2p) - 
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
+- [mercury/nix-your-shell](https://github.com/mercury/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [jonringer/basinix](https://github.com/jonringer/basinix) - (WIP) Nix CI pull request review website
 - [vn-ki/letterboxd-compare](https://github.com/vn-ki/letterboxd-compare) - Compare two letterboxd profiles. Letterboxd is a social movie discovery site where users rate the movies they watch.
 - [cilki/goldboot](https://github.com/cilki/goldboot) - Build golden images with CI
@@ -3201,7 +3206,7 @@
 - [snowfallorg/flake](https://github.com/snowfallorg/flake) - Simplify Nix Flakes on the command line.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, registry.k8s.io, ghcr.io)
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [imneonizer/android-webcam](https://github.com/imneonizer/android-webcam) - Using android phone as 4K webcam for online meetings
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binar
@@ -3213,7 +3218,6 @@
 - [green-green-avk/AnotherTerm-scripts](https://github.com/green-green-avk/AnotherTerm-scripts) - Useful scripts for Another Term local terminal.
 - [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur/Pamac-cli functionality in a simple UI
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
-- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [coderofsalvation/kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity hackers & managers (csv-based) #scriptable #nestable #statistics #singlefile #shellscript #issuetracker #git
 - [chopfitzroy/dotfiles-experiment](https://github.com/chopfitzroy/dotfiles-experiment) - Dotfiles 🔮
 - [whiteinge/dotfiles](https://github.com/whiteinge/dotfiles) - dotfiles for vim, git, zsh, tmux, cwm, xinit, and many others.
