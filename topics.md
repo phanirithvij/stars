@@ -132,7 +132,6 @@
 - [graphql](#graphql)
 - [gui](#gui)
 - [hack](#hack)
-- [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
@@ -229,6 +228,7 @@
 - [productivity](#productivity)
 - [programming](#programming)
 - [programming-language](#programming-language)
+- [prompt-engineering](#prompt-engineering)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -357,7 +357,7 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -372,7 +372,8 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 
 ## ajax 
 
@@ -561,7 +562,6 @@
 - [voghDev/PdfViewPager](https://github.com/voghDev/PdfViewPager) - Android widget that can render PDF documents stored on SD card, linked as assets, or downloaded from a remote URL.
 - [myinnos/AppIconNameChanger](https://github.com/myinnos/AppIconNameChanger) - Library to change Android launcher App Icon and App Name programmatically !
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
-- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [codepath/android_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
@@ -642,6 +642,7 @@
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 
 ## atom 
 
@@ -733,7 +734,6 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [vpashkov/awesome-nim](https://github.com/vpashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
 ## awesome-list 
@@ -791,7 +791,6 @@
 - [vpashkov/awesome-nim](https://github.com/vpashkov/awesome-nim) - A curated list of awesome Nim frameworks, libraries and software. Inspired by other awesome lists.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio
@@ -1512,6 +1511,7 @@
 - [bobbens/sketch_simplification](https://github.com/bobbens/sketch_simplification) - Models and code related to sketch simplification of rough sketches.
 - [caocuong0306/awesome-object-proposals](https://github.com/caocuong0306/awesome-object-proposals) - A curated list of object proposals resources for object detection
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -1642,7 +1642,7 @@
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
@@ -1748,7 +1748,7 @@
 - [figsoda/cfg](https://github.com/figsoda/cfg) - My NixOS configuration featuring niri and neovim
 - [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
 - [zakuciael/nixos-dotfiles](https://github.com/zakuciael/nixos-dotfiles) - A repository containing configuration files for my NixOS machine
-- [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
+- [lassulus/wrappers](https://github.com/lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS) - NixOS + Hyprland rice with flakes, home-manager and dev-shells
 - [jlesquembre/dotfiles](https://github.com/jlesquembre/dotfiles) - My dotfiles
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting 
@@ -2149,6 +2149,7 @@
 ## generative-ai 
 
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 
 ## gh-extension 
 
@@ -2363,7 +2364,7 @@
 - [ikeikeikeike/go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - go-sitemap-generator is the easiest way to generate Sitemaps in Go
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [Gurkengewuerz/cefgo](https://github.com/Gurkengewuerz/cefgo) - Go bindings for the Chromium Embedded Framework (CEF)
 - [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
@@ -2576,7 +2577,7 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [dstotijn/golang-nextjs-portable](https://github.com/dstotijn/golang-nextjs-portable) - Go program with embedded Next.js app.
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [Gurkengewuerz/cefgo](https://github.com/Gurkengewuerz/cefgo) - Go bindings for the Chromium Embedded Framework (CEF)
 - [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
@@ -2713,10 +2714,6 @@
 - [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
 - [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
 - [moul/gotty-client](https://github.com/moul/gotty-client) - :wrench: terminal client for GoTTY
-
-## hackathon 
-
-- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
 
 ## hacking 
 
@@ -2927,6 +2924,7 @@
 
 ## haskell 
 
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
 - [dwayne/elm2nix](https://github.com/dwayne/elm2nix) - A rewrite of cachix/elm2nix with a few changes and improvements.
 - [jeslie0/mkElmDerivation](https://github.com/jeslie0/mkElmDerivation) - A nix flake for simplifiying the packaging of elm projects, inspired by elm2nix.
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
@@ -3612,6 +3610,7 @@
 - [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 
 ## localization 
 
@@ -3683,6 +3682,7 @@
 - [jim-schwoebel/voicebook](https://github.com/jim-schwoebel/voicebook) - 🗣️ A book and repo to get you started programming voice computing applications in Python (10 chapters and 200+ scripts).
 - [Breta01/handwriting-ocr](https://github.com/Breta01/handwriting-ocr) - OCR software for recognition of handwritten text
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -3822,12 +3822,13 @@
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 
 ## microservices 
 
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 
 ## microsoft 
 
@@ -4229,7 +4230,6 @@
 - [snowfallorg/nix-software-center](https://github.com/snowfallorg/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [andersonjoseph/jailed-agents](https://github.com/andersonjoseph/jailed-agents) - Secure Nix sandbox for LLM agents
-- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
 - [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
 - [xiro-codes/gog.nix](https://github.com/xiro-codes/gog.nix) - 
 - [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
@@ -4480,7 +4480,7 @@
 - [whitequark/irclogger](https://github.com/whitequark/irclogger) - Migrated to Codeberg
 - [andir/infra](https://github.com/andir/infra) - 
 - [ALT-F4-LLC/kickstart.nix](https://github.com/ALT-F4-LLC/kickstart.nix) - Kickstart your Nix environment.
-- [MercuryTechnologies/nix-your-shell](https://github.com/MercuryTechnologies/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
+- [mercury/nix-your-shell](https://github.com/mercury/nix-your-shell) - A `nix` and `nix-shell` wrapper for shells other than `bash`
 - [NixOS/bundlers](https://github.com/NixOS/bundlers) - Aggregated bundlers [maintainer=@tomberek, @Artturin]
 - [fzakaria/nix-http-binary-cache-api-spec](https://github.com/fzakaria/nix-http-binary-cache-api-spec) - An OpenAPI specification for a Nix HTTP Binary Cache
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
@@ -5706,6 +5706,7 @@
 ## package-manager 
 
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) - Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI + HTTP API + web UI over 9+ years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg.
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
@@ -5890,6 +5891,10 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+
+## prompt-engineering 
+
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 
 ## pwa 
 
@@ -6127,6 +6132,7 @@
 - [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
 - [bigwhite/issue2md](https://github.com/bigwhite/issue2md) - A tool to convert GitHub issue/discussion into Markdown.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
+- [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 
 ## rails 
 
@@ -6178,7 +6184,6 @@
 - [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
-- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
 - [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) - Server for the MusicBrainz project (website, API, database tools)
@@ -6246,6 +6251,7 @@
 
 ## rust 
 
+- [findyourexit/zonetimeline-tui](https://github.com/findyourexit/zonetimeline-tui) - A terminal tool for visually comparing time zones — built for distributed teams.
 - [axiosoph/axios](https://github.com/axiosoph/axios) - A decentralized system compositor: composition-addressed, verifiable from published source to running system.
 - [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
@@ -6736,7 +6742,7 @@
 - [GeorgeFilipkin/pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [elk-language/go-prompt](https://github.com/elk-language/go-prompt) - Building powerful interactive prompts and REPLs in Go, inspired by python-prompt-toolkit.
@@ -6852,6 +6858,7 @@
 
 ## tui 
 
+- [findyourexit/zonetimeline-tui](https://github.com/findyourexit/zonetimeline-tui) - A terminal tool for visually comparing time zones — built for distributed teams.
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [DouglasdeMoura/chroncal](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync — CLI + TUI, local SQLite storage
 - [p0nczek/nclean](https://github.com/p0nczek/nclean) - A fast, simple curses TUI for browsing and cleaning up NixOS system generations
@@ -7217,6 +7224,7 @@
 ## windows 
 
 - [SergioRibera/nix-bundle-app](https://github.com/SergioRibera/nix-bundle-app) - Turn any Nix derivation into native installers for Linux/MacOS/Windows, no Nix required on the target machine
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
 - [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images
 - [HomuHomu833/android-ndk-custom](https://github.com/HomuHomu833/android-ndk-custom) - Android NDK with custom LLVM built using various libc's, supporting multiple architectures and platforms.
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
