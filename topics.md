@@ -2258,7 +2258,6 @@
 ## go 
 
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [eljamm/gowt](https://github.com/eljamm/gowt) - fuzzy TUI for managing git worktrees, written in Go
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
@@ -2447,7 +2446,6 @@
 
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [DouglasdeMoura/chroncal](https://github.com/DouglasdeMoura/chroncal) - Terminal-first calendar, todo, and journal manager with iCalendar (RFC 5545) support and CalDAV sync — CLI + TUI, local SQLite storage
-- [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
@@ -4571,7 +4569,7 @@
 - [myme/dotfiles](https://github.com/myme/dotfiles) - My collection of dotfiles
 - [myme/myme.no](https://github.com/myme/myme.no) - https://myme.no - Personal home page
 - [NixOS/flake-compat](https://github.com/NixOS/flake-compat) - 
-- [LordGrimmauld/nix-check-deps](https://github.com/LordGrimmauld/nix-check-deps) - scan nix packages for unused buildInputs
+- [GrimmTheShrimp/nix-check-deps](https://github.com/GrimmTheShrimp/nix-check-deps) - scan nix packages for unused buildInputs
 - [colemickens/niche](https://github.com/colemickens/niche) - `niche` is a self-service nix binary cache tool that manages your signing key and wraps nix build to upload build products
 - [k1ng440/dotfiles.nix](https://github.com/k1ng440/dotfiles.nix) - 
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
