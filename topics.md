@@ -4166,7 +4166,7 @@
 - [jian-lin/niriga](https://github.com/jian-lin/niriga) - Like nixpkgs-review-gha, but simple/featureless and security-focused
 - [samestep/npb](https://github.com/samestep/npb) - Nixpkgs build outcome diff CLI.
 - [craigmbooth/nix-visualize](https://github.com/craigmbooth/nix-visualize) - Uses the Nix package manager to visualize the dependencies of a given package
-- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [fractuscontext/nix-wine-macos](https://github.com/fractuscontext/nix-wine-macos) - WineHQ binaries for macOS, built with Nix
 - [ShadowRZ/hanekokoro-flake](https://github.com/ShadowRZ/hanekokoro-flake) - Hanekokoro (はねこころ) Flake
@@ -4979,7 +4979,6 @@
 - [rogchap/libfoo](https://github.com/rogchap/libfoo) - 
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
-- [jdpedersen1/dotfiles](https://github.com/jdpedersen1/dotfiles) - 
 - [bradwilson/ansible-dev-pc](https://github.com/bradwilson/ansible-dev-pc) - Ansible script to stand up a new development machine (Fedora KDE)
 - [void-linux/void-containers](https://github.com/void-linux/void-containers) - OCI container images for Void Linux
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
