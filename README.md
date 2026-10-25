@@ -2044,7 +2044,6 @@
 - [vereis/nix-config](https://github.com/vereis/nix-config) - Nix Configuration
 - [functionalops/nix-cookbook](https://github.com/functionalops/nix-cookbook) - A cookbook of snippets that show you how you can accomplish common tasks using the Nix expression language
 - [momeemt/monorepo](https://github.com/momeemt/monorepo) - Everything I own
-- [justinlime/dotfiles](https://github.com/justinlime/dotfiles) - My general config and dotfiles for linux
 - [Suya1671/commafiles](https://github.com/Suya1671/commafiles) - My new dots, since my old ones broke
 - [sodiboo/system](https://github.com/sodiboo/system) - i use NixOS btw
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
