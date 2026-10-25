@@ -89,6 +89,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -987,7 +988,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [byteyilabs/yi-note](https://github.com/byteyilabs/yi-note) - YiNote browser extension - online video note taking tool
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback|discovery|ext
 - [sonigy/YCS](https://github.com/sonigy/YCS) - Chrome Extension: YCS. Search for comments and authors in YouTube videos
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
@@ -1390,6 +1391,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS Nix configuration files focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Configuration for describing my systems. And NUR
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 
 ## dart 
@@ -1839,6 +1841,29 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+
+## downloader 
+
+- [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
+- [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
+- [ArchiveBox/abx-dl](https://github.com/ArchiveBox/abx-dl) - ⬇️ A simple all-in-one CLI tool to download EVERYTHING from a URL (like youtube-dl/yt-dlp, forum-dl, gallery-dl, simpler ArchiveBox). 🎭 Uses headless Chrome to get HTML, JS, CSS, images/video/audio/su
+- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+- [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
+- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- [nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+- [crunchy-labs/crunchy-cli](https://github.com/crunchy-labs/crunchy-cli) - 👇 Command-line downloader for Crunchyroll
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+- [frozenpandaman/mangadex-dl](https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org
+- [developeranaz/MEGA-INDEX-CLOUDFLARE](https://github.com/developeranaz/MEGA-INDEX-CLOUDFLARE) - MEGA quota bypass, fast and stable file downloads, improved performance, and web-based file indexing via Cloudflare Workers.
+- [JimmXinu/FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
+- [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload) - Upload and download files from Telegram up to 4 GiB using your account
+- [jaymoulin/yamete](https://github.com/jaymoulin/yamete) - Yamete - Hentai downloader in PHP CLI - Easy site downloader PHP system
+- [fmd-project-team/FMD](https://github.com/fmd-project-team/FMD) - The new FMD fork! Join our community on Discord!
+- [happypandax/happypandax](https://github.com/happypandax/happypandax) - A cross-platform server and client application for managing and reading manga and doujinshi
+- [prabaprakash/Saavn-Downloader](https://github.com/prabaprakash/Saavn-Downloader) - Saavn Downloader
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 
 ## education 
 
@@ -4694,7 +4719,7 @@
 - [FliegendeWurst/pr-stats](https://github.com/FliegendeWurst/pr-stats) - 
 - [jerith666/nix-top](https://github.com/jerith666/nix-top) - Originally https://github.com/samueldr/nix-top
 - [bobvanderlinden/nixos-config](https://github.com/bobvanderlinden/nixos-config) - My personal NixOS and home-manager configuration
-- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a minimalist & easily customizable NixOS setup, heavily focused on TUIs.
+- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy: a hardened, minimalist & dendritic NixOS configuration, built around Sway and heavily focused on TUIs.
 - [tomberek/nix-runner](https://github.com/tomberek/nix-runner) - Docker wrapper around Nix runtime
 - [a-h/flakegap](https://github.com/a-h/flakegap) - Take a Flake and package it for deployment across an airgap.
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
@@ -4715,7 +4740,6 @@
 - [past-nikiv/knowledge](https://github.com/past-nikiv/knowledge) - Everything I know (archived in 2024)
 - [Tookmund/Swapspace](https://github.com/Tookmund/Swapspace) - A fork of Jeroen T. Vermeulen's excellent dynamic swap space manager
 - [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
-- [justinlime/dotfiles](https://github.com/justinlime/dotfiles) - My general config and dotfiles for linux
 - [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines. Moved to https://git.notthebe.ee/notthebee/nix-config
 - [Suya1671/commafiles](https://github.com/Suya1671/commafiles) - My new dots, since my old ones broke
 - [sodiboo/system](https://github.com/sodiboo/system) - i use NixOS btw
@@ -4760,7 +4784,6 @@
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [ambroisie/nix-config](https://github.com/ambroisie/nix-config) - My NixOS configuration files. Only used for my self-hosted infra at the moment.
 - [mwdavisii/nyx](https://github.com/mwdavisii/nyx) - Personal Nix/Shell/Hyprland running on Native, Mac, WSL, and Droid
-- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Configuration for describing my systems. And NUR
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified.
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
 - [Janik-Haag/nm2nix](https://github.com/Janik-Haag/nm2nix) - Converts .nmconnection files into nix code
@@ -5189,7 +5212,6 @@
 - [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [Daiz/manga-naming-scheme](https://github.com/Daiz/manga-naming-scheme) - Manga Filename Scheme
-- [frozenpandaman/mangadex-dl](https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org
 - [dklaputa/BelecoLiveWallpaper](https://github.com/dklaputa/BelecoLiveWallpaper) - An Android live wallpaper with parallax effect.
 - [snapcrafters/scummvm](https://github.com/snapcrafters/scummvm) - A community-maintained package to easily install ScummVM on Linux
 - [AriaMoradi/tachiyomi-unofficial-extensions](https://github.com/AriaMoradi/tachiyomi-unofficial-extensions) - 
@@ -5453,7 +5475,6 @@
 - [google-research/self-organising-systems](https://github.com/google-research/self-organising-systems) - 
 - [mrlotfi/mpv-libunity](https://github.com/mrlotfi/mpv-libunity) - mpv-libunity
 - [jgreco/mpv-scripts](https://github.com/jgreco/mpv-scripts) - userscripts for mpv
-- [fmd-project-team/FMD](https://github.com/fmd-project-team/FMD) - The new FMD fork! Join our community on Discord!
 - [deus0ww/mpv-conf](https://github.com/deus0ww/mpv-conf) - 
 - [Tsubajashi/mpv-settings](https://github.com/Tsubajashi/mpv-settings) - basically my settings for MPV
 - [TheOddler/mpv-config](https://github.com/TheOddler/mpv-config) - Deprecated (Superseded by my nixos config) - My mpv config
@@ -5622,7 +5643,6 @@
 - [Hopson97/MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) - I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
 - [Code-Bullet/RubiksCubeAI](https://github.com/Code-Bullet/RubiksCubeAI) - 
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
-- [prabaprakash/Saavn-Downloader](https://github.com/prabaprakash/Saavn-Downloader) - Saavn Downloader
 - [kaushalvivek/Mass-Mailing-Script](https://github.com/kaushalvivek/Mass-Mailing-Script) - A script to send mass mails that are rich in content with HTML formatting and attachments.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [Code-Bullet/AsteroidsAI](https://github.com/Code-Bullet/AsteroidsAI) - This is the source code for my asteroids AI
@@ -5845,7 +5865,7 @@
 - [lesderid/keynavish](https://github.com/lesderid/keynavish) - Control the mouse with the keyboard, on Windows.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [byteyilabs/yi-note](https://github.com/byteyilabs/yi-note) - YiNote browser extension - online video note taking tool
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback|discovery|ext
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
@@ -6732,7 +6752,7 @@
 - [GeorgeFilipkin/pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [elk-language/go-prompt](https://github.com/elk-language/go-prompt) - Building powerful interactive prompts and REPLs in Go, inspired by python-prompt-toolkit.
@@ -7041,7 +7061,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [lucab85/ansible-pilot](https://github.com/lucab85/ansible-pilot) - Ansible Pilot YouTube channel code repository
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback|discovery|ext
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -7367,7 +7387,7 @@
 - [agentcooper/youtube-sort](https://github.com/agentcooper/youtube-sort) - Sort YouTube videos by view count or average rating
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [byteyilabs/yi-note](https://github.com/byteyilabs/yi-note) - YiNote browser extension - online video note taking tool
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube (Video) Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌100s of tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮  ⋮  ⋮  ⋮  ⋮   {playback|discovery|ext
 - [sonigy/YCS](https://github.com/sonigy/YCS) - Chrome Extension: YCS. Search for comments and authors in YouTube videos
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
