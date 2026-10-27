@@ -4168,6 +4168,7 @@
 
 ## others 
 
+- [tomberek/fastpkgs](https://github.com/tomberek/fastpkgs) - 
 - [undg/autorotate](https://github.com/undg/autorotate) - Auto rotate 2in1 (touch)screens.
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [liberodark/hot-resize](https://github.com/liberodark/hot-resize) - 
@@ -4911,7 +4912,7 @@
 - [PackOrganization/Pack](https://github.com/PackOrganization/Pack) - Pack
 - [thechangelog/nightly](https://github.com/thechangelog/nightly) - Changelog Nightly unearths the hottest repos on GitHub before they blow up. Subscribe for free. Keep up.
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
-- [nzbgetcom/nzbget](https://github.com/nzbgetcom/nzbget) - Efficient usenet downloader
+- [nzbgetcom/nzbget](https://github.com/nzbgetcom/nzbget) - Fast, lightweight Usenet & NZB downloader
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) - 
 - [bimalkant-lauhny/Distributed-Downloader-and-Merger](https://github.com/bimalkant-lauhny/Distributed-Downloader-and-Merger) - DDM - a python based software to download large files from internet in a distributed way
 - [polygon/nix-buildproxy](https://github.com/polygon/nix-buildproxy) - Providing reproducible HTTP/HTTPS responders to builds that just can not live without
