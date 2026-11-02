@@ -1188,7 +1188,7 @@
 - [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ
 - [garnix-io/garnix-ci](https://github.com/garnix-io/garnix-ci) - CI and hosting for nix-based, flakified github repos
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
-- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix implementation in Haskell and C99: parser, lazy evaluator, store, builder and binary-cache substituter.
 - [dwayne/elm2nix](https://github.com/dwayne/elm2nix) - A CLI tool and build helper for packaging Elm applications with Nix.
 - [jeslie0/mkElmDerivation](https://github.com/jeslie0/mkElmDerivation) - A nix flake for simplifiying the packaging of elm projects, inspired by elm2nix.
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
@@ -1941,7 +1941,6 @@
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - Archived: moved to ngi-nix/forge
 - [jolheiser/mazanoke-nix](https://github.com/jolheiser/mazanoke-nix) - Nix derivation/flake for https://github.com/civilblur/mazanoke
-- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
 - [lorenzleutgeb/nur](https://github.com/lorenzleutgeb/nur) - 
 - [RossComputerGuy/nixpkgs-llvm-ws](https://github.com/RossComputerGuy/nixpkgs-llvm-ws) - Flake workspace / repo to stage and track Nixpkgs/NixOS's ability to be compiled completely with LLVM
@@ -2000,7 +1999,7 @@
 - [wochap/nix-config](https://github.com/wochap/nix-config) - Personal NixOS configuration
 - [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS Nix configuration files focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix) - Comprehensive configurations of my NixOS workstations and home server.
-- [eveeifyeve/Nix-Config](https://github.com/eveeifyeve/Nix-Config) - Nix Configuration for my Personal Machines.
+- [eveeifyeve/nix-config](https://github.com/eveeifyeve/nix-config) - Nix Configuration for my Personal Machines.
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [jonringer/nixpkgs-config](https://github.com/jonringer/nixpkgs-config) - ~/.config/nixpkgs
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
@@ -2918,7 +2917,7 @@
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [Vigintillionn/niri-sidebar](https://github.com/Vigintillionn/niri-sidebar) - A lightweight, external sidebar manager for the Niri window manager.
 - [jzbor/nix-sweep](https://github.com/jzbor/nix-sweep) - Utility to clean up old Nix profile generations and left-over garbage collection roots
-- [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - A fork of the Determinate Nix Installer.
+- [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - NG installer for Nix, forked from DetSys/nix-installer
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [ChrisLAS/blue-vault](https://github.com/ChrisLAS/blue-vault) - A production-quality TUI app to manage Blu-ray cold storage archives on Linux
 - [xzfc/cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell
