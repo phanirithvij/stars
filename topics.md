@@ -1784,7 +1784,7 @@
 - [raexera/yuki](https://github.com/raexera/yuki) - Snowflake
 - [ncfavier/config](https://github.com/ncfavier/config) - Moved to https://codeberg.org/ncf/config
 - [utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix) - Comprehensive configurations of my NixOS workstations and home server.
-- [eveeifyeve/Nix-Config](https://github.com/eveeifyeve/Nix-Config) - Nix Configuration for my Personal Machines.
+- [eveeifyeve/nix-config](https://github.com/eveeifyeve/nix-config) - Nix Configuration for my Personal Machines.
 - [massix/nixos](https://github.com/massix/nixos) - My NixOS configuration
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [davidak/nixos-config](https://github.com/davidak/nixos-config) - NixOS configurations for server and desktop systems, including user specific config. with Home Manager
@@ -2952,7 +2952,7 @@
 
 ## haskell 
 
-- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix implementation in Haskell and C99: parser, lazy evaluator, store, builder and binary-cache substituter.
 - [dwayne/elm2nix](https://github.com/dwayne/elm2nix) - A CLI tool and build helper for packaging Elm applications with Nix.
 - [jeslie0/mkElmDerivation](https://github.com/jeslie0/mkElmDerivation) - A nix flake for simplifiying the packaging of elm projects, inspired by elm2nix.
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
@@ -4297,7 +4297,7 @@
 - [andre4ik3/agefs](https://github.com/andre4ik3/agefs) - FUSE filesystem that decrypts age secrets on the fly
 - [numtide/narwal](https://github.com/numtide/narwal) - Yet another attempt at garbage collecting the cache.nixos.org S3 bucket
 - [jzbor/nix-sweep](https://github.com/jzbor/nix-sweep) - Utility to clean up old Nix profile generations and left-over garbage collection roots
-- [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - A fork of the Determinate Nix Installer.
+- [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - NG installer for Nix, forked from DetSys/nix-installer
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) - 
 - [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
 - [ChrisLAS/blue-vault](https://github.com/ChrisLAS/blue-vault) - A production-quality TUI app to manage Blu-ray cold storage archives on Linux
@@ -4565,7 +4565,6 @@
 - [selfhostedshow/show-notes](https://github.com/selfhostedshow/show-notes) - Powers notes.jupiterbroadcasting.com
 - [jolheiser/mazanoke-nix](https://github.com/jolheiser/mazanoke-nix) - Nix derivation/flake for https://github.com/civilblur/mazanoke
 - [s3m/s3m](https://github.com/s3m/s3m) - CLI for streams of data in S3 buckets
-- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) - A collection of hacks and one-off scripts
 - [Od1gree/btDownloadManager](https://github.com/Od1gree/btDownloadManager) - A python script implements anti-leech-abuse for qBittorrent.
@@ -5727,7 +5726,7 @@
 ## package-manager 
 
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
-- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix implementation in Haskell and C99: parser, lazy evaluator, store, builder and binary-cache substituter.
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) - Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI + HTTP API + web UI over 9+ years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg.
 - [nikstur/lon](https://github.com/nikstur/lon) - Lock & update Nix dependencies
@@ -7248,7 +7247,7 @@
 ## windows 
 
 - [SergioRibera/nix-bundle-app](https://github.com/SergioRibera/nix-bundle-app) - Turn any Nix derivation into native installers for Linux/MacOS/Windows, no Nix required on the target machine
-- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) - Windows-native Nix implementation in Haskell and C99: parser, lazy evaluator, store, builder and binary-cache substituter.
 - [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images
 - [HomuHomu833/android-ndk-custom](https://github.com/HomuHomu833/android-ndk-custom) - Android NDK with custom LLVM built using various libc's, supporting multiple architectures and platforms.
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
