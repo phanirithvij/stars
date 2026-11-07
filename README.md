@@ -2070,7 +2070,7 @@
 - [bjornfor/nixos-config](https://github.com/bjornfor/nixos-config) - My NixOS configuration files. (This public mirror is not updated anymore.)
 - [ambroisie/nix-config](https://github.com/ambroisie/nix-config) - My NixOS configuration files. Only used for my self-hosted infra at the moment.
 - [mwdavisii/nyx](https://github.com/mwdavisii/nyx) - Personal Nix/Shell/Hyprland running on Native, Mac, WSL, and Droid
-- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Configuration for describing my systems. Implement service inbound and outbound zero-trust based on SPIFFE and workload api
+- [oluceps/nixos-config](https://github.com/oluceps/nixos-config) - Configuration for describing my systems. Implement service ingress and egress zero-trust based on SPIFFE and workload api
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified.
 - [Enzime/dotfiles-nix](https://github.com/Enzime/dotfiles-nix) - Use Nix to declaratively manage and configure all of my systems everywhere all at once
 - [Ericson2314/nixos-configuration](https://github.com/Ericson2314/nixos-configuration) - Much better than a .dotfiles repo
