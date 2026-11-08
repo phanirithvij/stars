@@ -187,6 +187,7 @@
 - [matlab](#matlab)
 - [maven](#maven)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -3861,6 +3862,12 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
 
+## mcp-server 
+
+- [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool to supercharge your LLM experience.
+- [textbee/textbee](https://github.com/textbee/textbee) - Open-source SMS gateway. Turn your Android phone into an SMS API: send and receive SMS from your apps over REST and webhooks. Self-hostable, with a free hosted plan.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
 ## microsoft 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
@@ -5204,7 +5211,7 @@
 - [vieux/gocover.io](https://github.com/vieux/gocover.io) - GoCover.io offers the code coverage of any golang package as a service.
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [appium/mitmproxy-java](https://github.com/appium/mitmproxy-java) - A bridge between Python's mitmproxy and Java programs. Built on top of mitmproxy-node
-- [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
+- [FFmpeg-Builds/FFmpeg-Builds](https://github.com/FFmpeg-Builds/FFmpeg-Builds) - 
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus) - An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager".
 - [antonycourtney/tabli](https://github.com/antonycourtney/tabli) - A Window and Tab Manager for Google Chrome
@@ -5533,7 +5540,7 @@
 - [dart-archive/ffi](https://github.com/dart-archive/ffi) - Utilities for working with Foreign Function Interface (FFI) code
 - [Piwigo/Piwigo-Android](https://github.com/Piwigo/Piwigo-Android) - Piwigo Native Android App
 - [CodingGardenCommunity/app-wiki](https://github.com/CodingGardenCommunity/app-wiki) - Getting Started and Contribution Guidelines for all Contributors
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [gendotnew/ai](https://github.com/gendotnew/ai) - 
 - [nongdenchet/Shortcuts](https://github.com/nongdenchet/Shortcuts) - Sample app tutorial for querying shortcuts from API 25 (to build android launcher)
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [tensor-programming/hex-microservice](https://github.com/tensor-programming/hex-microservice) - 
