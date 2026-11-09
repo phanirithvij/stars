@@ -296,7 +296,6 @@
 - [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [windirstat/windirstat](https://github.com/windirstat/windirstat) - Windows disk usage analyzer and cleanup tool with interactive treemaps, large-file discovery, duplicate detection, and file-system monitoring.
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [privatevoid-net/nix-super](https://github.com/privatevoid-net/nix-super) - 
@@ -1140,11 +1139,11 @@
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [solid/specification](https://github.com/solid/specification) - Solid Technical Reports
-- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
+- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from code hosting services but with the correct content types
 - [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
-- [xlanor/mirror.jingk.ai](https://github.com/xlanor/mirror.jingk.ai) - Files for mirror.jingk.ai, a linux mirror I maintain in my free time
+- [mirrors-apac/mirror.jingk.ai](https://github.com/mirrors-apac/mirror.jingk.ai) - Files for mirror.jingk.ai, a linux mirror I maintain in my free time
 - [librespeed/speedtest-go](https://github.com/librespeed/speedtest-go) - Go backend for LibreSpeed
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
@@ -2153,6 +2152,7 @@
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [mcdonc/.nixconfig](https://github.com/mcdonc/.nixconfig) - NixOS configurations for my personal systems
 - [jnsgruk/nixos-config](https://github.com/jnsgruk/nixos-config) - jnsgruk's nix flake ❄️
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [tadfisher/nix-dart](https://github.com/tadfisher/nix-dart) - Nix builder for Dart packages
 - [NixOS/nixos-wiki-infra](https://github.com/NixOS/nixos-wiki-infra) - This project contains the setup of https://wiki.nixos.org
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK
@@ -3021,6 +3021,7 @@
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
 - [knoc-off/nixos](https://github.com/knoc-off/nixos) - Nixos Dotfiles
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ogarcia/rockpass](https://github.com/ogarcia/rockpass) - [MIRROR] A small and ultrasecure Lesspass database server written in Rust
 - [71/lesspass.rs](https://github.com/71/lesspass.rs) - Rust library and CLI implementation of the LessPass password generator.
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
@@ -3039,7 +3040,6 @@
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@stepbrobd, @NickCao, @zhaofengli]
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
@@ -3246,7 +3246,7 @@
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [mchangrh/sb-mirror](https://github.com/mchangrh/sb-mirror) - Docker containers to mirror the SponsorBlock database + API
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-- [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
+- [FFmpeg-Builds/FFmpeg-Builds](https://github.com/FFmpeg-Builds/FFmpeg-Builds) - 
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [ericfreese/zsh-cwd-history](https://github.com/ericfreese/zsh-cwd-history) - Scopes your command history to the current working directory
 - [jimhester/per-directory-history](https://github.com/jimhester/per-directory-history) - Per directory history for zsh, as well as global history, and the ability to toggle between them with ^G.
@@ -3451,7 +3451,7 @@
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [versatica/mediasoup-demo](https://github.com/versatica/mediasoup-demo) - mediasoup official demo application
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [gendotnew/ai](https://github.com/gendotnew/ai) - 
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
