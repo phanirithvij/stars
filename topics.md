@@ -4192,6 +4192,7 @@
 
 ## others 
 
+- [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
 - [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ
 - [tomberek/fastpkgs](https://github.com/tomberek/fastpkgs) - 
 - [undg/autorotate](https://github.com/undg/autorotate) - Auto rotate 2in1 (touch)screens.
