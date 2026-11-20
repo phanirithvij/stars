@@ -2025,7 +2025,6 @@
 - [foo-dogsquared/nix-module-wrapper-manager-fds](https://github.com/foo-dogsquared/nix-module-wrapper-manager-fds) - foodogsquared's reimagining of wrapper-manager.
 - [davidak/nixos-config](https://github.com/davidak/nixos-config) - NixOS configurations for server and desktop systems, including user specific config. with Home Manager
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
-- [krebs/krops](https://github.com/krebs/krops) - Mirror of https://cgit.krebsco.de/krops/about/ (PRs / issues accepted, as can be seen by not having them disabled)
 - [peeley/dotfiles](https://github.com/peeley/dotfiles) - 
 - [eljamm/nixos](https://github.com/eljamm/nixos) - NixOS configuration
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
@@ -3018,6 +3017,7 @@
 - [9999years/git-prole](https://github.com/9999years/git-prole) - A git-worktree(1) manager
 - [allenap/rust-petname](https://github.com/allenap/rust-petname) - Generate human readable random names. Rust port of Dustin Kirkland's petname library.
 - [RRethy/tcount](https://github.com/RRethy/tcount) - Count your code by tokens and patterns in the syntax tree. A tokei/scc/cloc alternative.
+- [krebs/krops](https://github.com/krebs/krops) - Mirror of https://cgit.krebsco.de/krops/about/ (PRs / issues accepted, as can be seen by not having them disabled)
 - [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@Mic92 @bennofs @figsoda @raitobezarius @r-vdp @samestep]
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
 - [FliegendeWurst/pr-stats](https://github.com/FliegendeWurst/pr-stats) - 
