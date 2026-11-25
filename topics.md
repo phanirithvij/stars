@@ -408,7 +408,7 @@
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports
 - [ravi-ojha/startuptoolbox](https://github.com/ravi-ojha/startuptoolbox) - The startup founder toolbelt. A forever-updating crowdsourced collection.
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
@@ -2272,7 +2272,7 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [molybdenumsoftware/pr-tracker](https://github.com/molybdenumsoftware/pr-tracker) - A system for finding out which branches a GitHub pull request landed in
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [FliegendeWurst/pr-dashboard](https://github.com/FliegendeWurst/pr-dashboard) - Customizable overview of open nixpkgs PRs
 - [hakoerber/git-repo-manager](https://github.com/hakoerber/git-repo-manager) - A git tool to manage worktrees and integrate with GitHub and GitLab
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
@@ -4158,7 +4158,7 @@
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 
 ## opencv 
 
@@ -4206,6 +4206,7 @@
 
 ## others 
 
+- [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [NixOS/nixpkgs-swh](https://github.com/NixOS/nixpkgs-swh) - Send nixpkgs tarballs to Software Heritage [maintainer=@nlewo]
 - [Mic92/direnv-instant](https://github.com/Mic92/direnv-instant) - Non-blocking direnv integration daemon with tmux support that provides instant shell prompts by running direnv asynchronously in the background.
@@ -6305,7 +6306,6 @@
 - [tsandrini/flake-parts-builder](https://github.com/tsandrini/flake-parts-builder) - Nix flakes interactive template builder based on flake-parts written in Rust. [maintainer=@tsandrini]
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [ow-mods/ow-mod-man](https://github.com/ow-mods/ow-mod-man) - The mod manager for the Outer Wilds Mod Loader
-- [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
 - [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI + HTTP API + web UI over 9+ years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg.
 - [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) - Open-source music player for the desktop and the terminal. Spotify with one sign-in and no developer app, plus YouTube, local files, Subsonic/Navidrome, radio and Qobuz in one queue. Written in Rust.
 - [RohanAdwankar/newt](https://github.com/RohanAdwankar/newt) - A cross-language notebook terminal interface and server.
